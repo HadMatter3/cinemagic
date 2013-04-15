@@ -1,3 +1,12 @@
+"""
+Natalia Woodbine
+Programming Paradimgs Project
+
+imdb_soup.py uses BeautifulSoup to visit every movie page on the IMDB Top 250 list.
+It outputs a comma-seperated list of Title,[Genres],Director,[Stars],Rating,description.
+
+"""
+
 import re
 import urllib
 import urlparse
