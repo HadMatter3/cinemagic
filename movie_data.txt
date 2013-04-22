@@ -1,0 +1,471 @@
+The Shawshank Redemption,['Crime', 'Drama'],Frank Darabont,['Tim Robbins', 'Morgan Freeman', 'Bob Gunton'],9.3,
+Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.    
+The Godfather,['Crime', 'Drama'],Francis Ford Coppola,['Marlon Brando', 'Al Pacino', 'James Caan'],9.2,
+The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.    
+The Godfather: Part II,['Crime', 'Drama'],Francis Ford Coppola,['Al Pacino', 'Robert Duvall', 'Diane Keaton'],9.1,
+The early life and career of Vito Corleone in 1920s New York is portrayed while his son, Michael, expands and tightens his grip on his crime syndicate stretching from Lake Tahoe, Nevada to pre-revolution 1958 Cuba.    
+Pulp Fiction,['Crime', 'Thriller'],Quentin Tarantino,['John Travolta', 'Samuel L. Jackson', 'Bruce Willis'],9.0,
+The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.    
+The Good, the Bad and the Ugly,['Adventure', 'Western'],Sergio Leone,['Eli Wallach', 'Clint Eastwood', 'Lee Van Cleef'],9.0,
+A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.    
+12 Angry Men,['Drama'],Sidney Lumet,['Martin Balsam', 'John Fiedler', 'Lee J. Cobb'],8.9,
+A dissenting juror in a murder trial slowly manages to convince the others that the case is not as obviously clear as it seemed in court.    
+The Dark Knight,['Action', 'Crime', 'Drama'],Christopher Nolan,['Christian Bale', 'Heath Ledger', 'Aaron Eckhart'],9.0,
+When Batman, Gordon and Harvey Dent launch an assault on the mob, they let the clown out of the box, the Joker, bent on turning Gotham on itself and bringing any heroes down to his level.    
+Schindler's List,['Biography', 'Drama', 'History'],Steven Spielberg,['Liam Neeson', 'Ben Kingsley', 'Ralph Fiennes'],8.9,
+In Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.    
+The Lord of the Rings: The Return of the King,['Action', 'Adventure', 'Fantasy'],Peter Jackson,['Orlando Bloom', 'Ian McKellen', 'Viggo Mortensen'],8.9,
+Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.    
+Fight Club,['Drama'],David Fincher,['Edward Norton', 'Brad Pitt', 'Helena Bonham Carter'],8.9,
+An insomniac office worker looking for a way to change his life crosses paths with a devil-may-care soap maker and they form an underground fight club that evolves into something much, much more...    
+Star Wars: Episode V - The Empire Strikes Back,['Action', 'Adventure', 'Sci-Fi'],Irvin Kershner,['Mark Hamill', 'Harrison Ford', 'Carrie Fisher'],8.8,
+As Luke trains with Master Yoda to become a Jedi Knight, his friends evade the Imperial fleet under the command of Darth Vader who is obsessed with turning Skywalker to the Dark Side of the Force.    
+The Lord of the Rings: The Fellowship of the Ring,['Action', 'Adventure', 'Fantasy'],Peter Jackson,['Elijah Wood', 'Sean Bean', 'Orlando Bloom'],8.8,
+A meek hobbit of The Shire and eight companions set out on a journey to Mount Doom to destroy the One Ring and the dark lord Sauron.    
+One Flew Over the Cuckoo's Nest,['Drama'],Milos Forman,['Michael Berryman', 'Peter Brocco', 'Louise Fletcher'],8.8,
+Upon admittance to a mental institution, a brash rebel rallies the patients to take on the oppressive head nurse, a woman he views as more dictator than nurse.    
+Inception,['Action', 'Adventure', 'Mystery'],Christopher Nolan,['Leonardo DiCaprio', 'Joseph Gordon-Levitt', 'Ellen Page'],8.8,
+A skilled extractor is offered a chance to regain his old life as payment for a task considered to be impossible.    
+Goodfellas,['Biography', 'Crime', 'Drama'],Martin Scorsese,['Robert De Niro', 'Ray Liotta', 'Joe Pesci'],8.8,
+Henry Hill and his friends work their way up through the mob hierarchy.    
+Star Wars,['Action', 'Adventure', 'Fantasy'],George Lucas,['Mark Hamill', 'Harrison Ford', 'Carrie Fisher'],8.8,
+Luke Skywalker, a spirited farm boy, joins rebel forces to save Princess Leia from the evil Darth Vader, and the galaxy from the Empire's planet-destroying Death Star.    
+'ascii' codec can't encode character u'\xf4' in position 6: ordinal not in range(128)
+Forrest Gump,['Drama', 'Romance'],Robert Zemeckis,['Tom Hanks', 'Sally Field', 'Robin Wright'],8.7,
+Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.    
+The Matrix,['Action', 'Adventure', 'Sci-Fi'],Andy Wachowski,['Keanu Reeves', 'Laurence Fishburne', 'Carrie-Anne Moss'],8.7,
+A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.    
+The Lord of the Rings: The Two Towers,['Action', 'Adventure', 'Fantasy'],Peter Jackson,['Orlando Bloom', 'Ian McKellen', 'Viggo Mortensen'],8.7,
+While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.    
+City of God,['Crime', 'Drama'],Fernando Meirelles,['Alexandre Rodrigues', 'Leandro Firmino', 'Phellipe Haagensen'],8.7,
+Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.    
+Se7en,['Crime', 'Mystery', 'Thriller'],David Fincher,['Brad Pitt', 'Morgan Freeman', 'Gwyneth Paltrow'],8.7,
+Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.    
+The Silence of the Lambs,['Crime', 'Drama', 'Thriller'],Jonathan Demme,['Jodie Foster', 'Lawrence A. Bonney', 'Kasi Lemmons'],8.7,
+A young FBI cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.    
+Once Upon a Time in the West,['Adventure', 'Western'],Sergio Leone,['Claudia Cardinale', 'Henry Fonda', 'Jason Robards'],8.7,
+Epic story of a mysterious stranger with a harmonica who joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.    
+Casablanca,['Drama', 'Romance', 'War'],Michael Curtiz,['Humphrey Bogart', 'Ingrid Bergman', 'Paul Henreid'],8.7,
+Set in unoccupied Africa during the early days of World War II: An American expatriate meets a former lover, with unforeseen complications.    
+The Usual Suspects,['Crime', 'Mystery', 'Thriller'],Bryan Singer,['Stephen Baldwin', 'Gabriel Byrne', 'Kevin Spacey'],8.7,
+A boat has been destroyed, criminals are dead, and the key to this mystery lies with the only survivor and his twisted, convoluted story beginning with five career crooks in a seemingly random police lineup.    
+Raiders of the Lost Ark,['Action', 'Adventure'],Steven Spielberg,['Harrison Ford', 'Karen Allen', 'Paul Freeman'],8.7,
+Archeologist and adventurer Indiana Jones is hired by the US government to find the Ark of the Covenant before the Nazis.    
+Rear Window,['Mystery', 'Thriller'],Alfred Hitchcock,['James Stewart', 'Grace Kelly', 'Wendell Corey'],8.7,
+A wheelchair bound photographer spies on his neighbours from his apartment window and becomes convinced one of them has committed murder.    
+It's a Wonderful Life,['Drama', 'Family', 'Fantasy'],Frank Capra,['James Stewart', 'Donna Reed', 'Lionel Barrymore'],8.7,
+An angel helps a compassionate but despairingly frustrated businessman by showing what life would have been like if he never existed.    
+Psycho,['Horror', 'Mystery', 'Thriller'],Alfred Hitchcock,['Anthony Perkins', 'Vera Miles', 'John Gavin'],8.6,
+A thirty-something secretary steals $40,000 from her employer's client, and subsequently encounters a young motel proprietor too long under the domination of his mother.    
+'ascii' codec can't encode character u'\xe9' in position 1: ordinal not in range(128)
+Sunset Blvd.,['Drama', 'Film-Noir'],Billy Wilder,['William Holden', 'Gloria Swanson', 'Erich von Stroheim'],8.6,
+A hack screenwriter writes a screenplay for a former silent-film star who has faded into Hollywood obscurity.    
+American History X,['Crime', 'Drama'],Tony Kaye,['Edward Norton', 'Edward Furlong', "Beverly D'Angelo"],8.6,
+A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.    
+Memento,['Mystery', 'Thriller'],Christopher Nolan,['Guy Pearce', 'Carrie-Anne Moss', 'Joe Pantoliano'],8.6,
+A man, suffering from short-term memory loss, uses notes and tattoos to hunt for the man he thinks killed his wife.    
+Apocalypse Now,['Drama', 'War'],Francis Ford Coppola,['Marlon Brando', 'Martin Sheen', 'Robert Duvall'],8.6,
+During the U.S.-Viet Nam War, Captain Willard is sent on a dangerous mission into Cambodia to assassinate a renegade colonel who has set himself up as a god among a local tribe.    
+Terminator 2: Judgment Day,['Action', 'Sci-Fi', 'Thriller'],James Cameron,['Arnold Schwarzenegger', 'Linda Hamilton', 'Edward Furlong'],8.6,
+The cyborg who once tried to kill Sarah Connor is dead, and another T-101 must now protect her teenage son, John Connor, from an even more powerful and advanced Terminator, the T-1000.    
+Saving Private Ryan,['Action', 'Drama', 'War'],Steven Spielberg,['Tom Hanks', 'Tom Sizemore', 'Edward Burns'],8.6,
+Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.    
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,['Comedy', 'War'],Stanley Kubrick,['Peter Sellers', 'George C. Scott', 'Sterling Hayden'],8.6,
+An insane general starts a process to nuclear holocaust that a war room of politicians and generals frantically try to stop.    
+City Lights,['Comedy', 'Drama', 'Romance'],Charles Chaplin,['Virginia Cherrill', 'Florence Lee', 'Harry Myers'],8.6,
+The Tramp struggles to help a blind flower girl he has fallen in love with.    
+Alien,['Horror', 'Sci-Fi'],Ridley Scott,['Tom Skerritt', 'Sigourney Weaver', 'Veronica Cartwright'],8.5,
+The crew of a commercial deep space mining ship, investigating a suspected S.O.S., lands on a distant planet and discovers a nest of strange eggs.    
+North by Northwest,['Action', 'Adventure', 'Mystery'],Alfred Hitchcock,['Cary Grant', 'Eva Marie Saint', 'James Mason'],8.5,
+A hapless New York advertising executive is mistaken for a government agent by a group of foreign spies, and is pursued across the country while he looks for a way to survive.    
+Spirited Away,['Animation', 'Adventure', 'Family'],Hayao Miyazaki,['Daveigh Chase', 'Suzanne Pleshette', 'Susan Egan'],8.6,
+In the middle of her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and monsters; where humans are changed into animals; and a bathhouse for these creatures.    
+Modern Times,['Comedy', 'Drama'],Charles Chaplin,['Charles Chaplin', 'Paulette Goddard', 'Henry Bergman'],8.6,
+The Tramp struggles to live in modern industrial society with the help of a young homeless woman.    
+Django Unchained,['Adventure', 'Crime', 'Drama'],Quentin Tarantino,['Jamie Foxx', 'Christoph Waltz', 'Leonardo DiCaprio'],8.6,
+With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.    
+Citizen Kane,['Drama', 'Mystery'],Orson Welles,['Joseph Cotten', 'Dorothy Comingore', 'Agnes Moorehead'],8.5,
+Following the death of a publishing tycoon, news reporters scramble to discover the meaning of his final utterance.    
+The Shining,['Horror', 'Mystery'],Stanley Kubrick,['Jack Nicholson', 'Shelley Duvall', 'Danny Lloyd'],8.5,
+A family heads to an isolated hotel for the winter where an evil and spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.    
+Back to the Future,['Adventure', 'Comedy', 'Sci-Fi'],Robert Zemeckis,['Michael J. Fox', 'Christopher Lloyd', 'Lea Thompson'],8.5,
+A teenager is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his friend, Dr. Emmett Brown, and must make sure his high-school-age parents unite in order to save his own existence.    
+The Dark Knight Rises,['Action', 'Crime', 'Thriller'],Christopher Nolan,['Christian Bale', 'Gary Oldman', 'Tom Hardy'],8.6,
+Eight years on, a new evil rises from where the Batman and Commissioner Gordon tried to bury it, causing the Batman to resurface and fight to protect Gotham City... the very city which brands him an enemy.    
+The Pianist,['Biography', 'Drama', 'History'],Roman Polanski,['Adrien Brody', 'Emilia Fox', 'Frank Finlay'],8.5,
+A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.    
+Life Is Beautiful,['Comedy', 'Drama', 'Romance'],Roberto Benigni,['Roberto Benigni', 'Nicoletta Braschi', 'Giorgio Cantarini'],8.5,
+A Jewish man has a wonderful romance with the help of his humour, but must use that same quality to protect his son in a Nazi death camp.    
+The Departed,['Crime', 'Thriller'],Martin Scorsese,['Leonardo DiCaprio', 'Matt Damon', 'Jack Nicholson'],8.5,
+An undercover state cop who infiltrated a Mafia clan and a mole in the police force working for the same mob race to track down and identify each other before being exposed to the enemy, after both sides realize their outfit has a rat.    
+M,['Crime', 'Drama', 'Film-Noir'],Fritz Lang,['Peter Lorre', 'Ellen Widmann', 'Inge Landgut'],8.5,
+When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.    
+Vertigo,['Mystery', 'Romance', 'Thriller'],Alfred Hitchcock,['James Stewart', 'Kim Novak', 'Barbara Bel Geddes'],8.5,
+A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's much-younger wife, all the while becoming dangerously obsessed with her.    
+Paths of Glory,['Drama', 'War'],Stanley Kubrick,['Kirk Douglas', 'Ralph Meeker', 'Adolphe Menjou'],8.5,
+When soldiers in WW1 refuse to continue with an impossible attack, their superiors decide to make an example of them.    
+American Beauty,['Drama'],Sam Mendes,['Kevin Spacey', 'Annette Bening', 'Thora Birch'],8.5,
+Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation for his daughter's attractive friend.    
+Taxi Driver,['Crime', 'Drama'],Martin Scorsese,['Albert Brooks', 'Robert De Niro', 'Jodie Foster'],8.5,
+A mentally unstable Vietnam war veteran works as a nighttime taxi driver in New York City where the perceived decadence and sleaze feeds his urge to violently lash out, attempting to save a teenage prostitute in the process.    
+Double Indemnity,['Crime', 'Drama', 'Film-Noir'],Billy Wilder,['Fred MacMurray', 'Barbara Stanwyck', 'Edward G. Robinson'],8.5,
+An insurance rep lets himself be talked into a murder/insurance fraud scheme that arouses an insurance investigator's suspicions.    
+Aliens,['Action', 'Adventure', 'Sci-Fi'],James Cameron,['Sigourney Weaver', 'Carrie Henn', 'Michael Biehn'],8.5,
+The planet from 
+Toy Story 3,['Animation', 'Adventure', 'Comedy'],Lee Unkrich,['Tom Hanks', 'Tim Allen', 'Joan Cusack'],8.5,
+The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.    
+'ascii' codec can't encode character u'\xb7' in position 4: ordinal not in range(128)
+'ascii' codec can't encode character u'\xfc' in position 8: ordinal not in range(128)
+'ascii' codec can't encode character u'\xe7' in position 4: ordinal not in range(128)
+Gladiator,['Action', 'Adventure', 'Drama'],Ridley Scott,['Russell Crowe', 'Joaquin Phoenix', 'Connie Nielsen'],8.5,
+When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.    
+The Green Mile,['Crime', 'Drama', 'Fantasy'],Frank Darabont,['Tom Hanks', 'Michael Clarke Duncan', 'David Morse'],8.5,
+The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.    
+A Clockwork Orange,['Crime', 'Drama', 'Sci-Fi'],Stanley Kubrick,['Malcolm McDowell', 'Patrick Magee', 'Michael Bates'],8.5,
+In future Britain, charismatic delinquent Alex DeLarge is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society's crime problem... but not all goes to plan.    
+The Great Dictator,['Comedy', 'Drama', 'War'],Charles Chaplin,['Charles Chaplin', 'Jack Oakie', 'Reginald Gardiner'],8.5,
+Dictator Adenoid Hynkel has a doppelganger, a poor but kind Jewish barber living in the slums, who one day is mistaken for Hynkel.    
+'ascii' codec can't encode character u'\xe9' in position 2: ordinal not in range(128)
+The Prestige,['Drama', 'Mystery', 'Thriller'],Christopher Nolan,['Hugh Jackman', 'Christian Bale', 'Michael Caine'],8.4,
+The rivalry between two magicians is exacerbated when one of them performs the ultimate illusion.    
+Lawrence of Arabia,['Adventure', 'Biography', 'Drama'],David Lean,["Peter O'Toole", 'Alec Guinness', 'Anthony Quinn'],8.5,
+A flamboyant and controversial British military figure and his conflicted loyalties during his World War I service in Arabia.    
+To Kill a Mockingbird,['Crime', 'Drama', 'Mystery'],Robert Mulligan,['Gregory Peck', 'John Megna', 'Frank Overton'],8.4,
+Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his kids against prejudice.    
+Reservoir Dogs,['Crime', 'Thriller'],Quentin Tarantino,['Harvey Keitel', 'Tim Roth', 'Michael Madsen'],8.4,
+After a simple jewelery heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant.    
+'ascii' codec can't encode character u'\xfc' in position 1: ordinal not in range(128)
+Cinema Paradiso,['Drama'],Giuseppe Tornatore,['Antonella Attili', 'Enzo Cannavale', 'Isa Danieli'],8.4,
+A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.    
+The Third Man,['Film-Noir', 'Mystery', 'Thriller'],Carol Reed,['Joseph Cotten', 'Alida Valli', 'Orson Welles'],8.4,
+Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, black-market opportunist Harry Lime.    
+Requiem for a Dream,['Drama'],Darren Aronofsky,['Ellen Burstyn', 'Jared Leto', 'Jennifer Connelly'],8.4,
+The drug-induced utopias of four Coney Island individuals are shattered when their addictions become stronger.    
+The Treasure of the Sierra Madre,['Action', 'Adventure', 'Drama'],John Huston,['Humphrey Bogart', 'Walter Huston', 'Tim Holt'],8.4,
+Fred Dobbs and Bob Curtin, two Americans searching for work in Mexico, convince an old prospector to help them mine for gold in the Sierra Madre Mountains.    
+The Lion King,['Animation', 'Adventure', 'Drama'],Roger Allers,['Matthew Broderick', 'James Earl Jones', 'Jeremy Irons'],8.4,
+Tricked into thinking he killed his father, a guilt ridden lion cub flees into exile and abandons his identity as the future King.    
+Eternal Sunshine of the Spotless Mind,['Drama', 'Romance', 'Sci-Fi'],Michel Gondry,['Jim Carrey', 'Kate Winslet', 'Gerry Robert Byrne'],8.4,
+A couple undergo a procedure to erase each other from their memories when their relationship turns sour, but it is only through the process of loss that they discover what they had to begin with.    
+Once Upon a Time in America,['Crime', 'Drama'],Sergio Leone,['Robert De Niro', 'James Woods', 'Elizabeth McGovern'],8.4,
+A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.    
+Star Wars: Episode VI - Return of the Jedi,['Action', 'Adventure', 'Fantasy'],Richard Marquand,['Mark Hamill', 'Harrison Ford', 'Carrie Fisher'],8.4,
+After rescuing Han Solo from the palace of Jabba the Hutt, the Rebels attempt to destroy the Second Death Star, while Luke Skywalker tries to bring his father back to the Light Side of the Force.    
+Full Metal Jacket,['Drama', 'War'],Stanley Kubrick,['Matthew Modine', 'Adam Baldwin', "Vincent D'Onofrio"],8.4,
+A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow Marine recruits from their brutal boot camp training to the bloody street fighting set in 1968 in Hue, Vietnam.    
+L.A. Confidential,['Crime', 'Drama', 'Mystery'],Curtis Hanson,['Kevin Spacey', 'Russell Crowe', 'Guy Pearce'],8.4,
+As corruption grows in 1950s LA, three policemen - the straight-laced, the brutal, and the sleazy - investigate a series of murders with their own brand of justice.    
+Braveheart,['Action', 'Biography', 'Drama'],Mel Gibson,['Patrick McGoohan', 'Sophie Marceau', 'Angus Macfadyen'],8.4,
+When his secret bride is executed for assaulting an English soldier whom tried to rape her, a commoner begins a revolt and leads Scottish warriors against the cruel English tyrant who rules Scotland with an iron-fist.    
+Chinatown,['Crime', 'Drama', 'Mystery'],Roman Polanski,['Jack Nicholson', 'Faye Dunaway', 'John Huston'],8.4,
+A private detective investigating an adultery case stumbles on to a scheme of murder that has something to do with water.    
+Oldboy,['Drama', 'Mystery', 'Thriller'],Chan-wook Park,['Min-sik Choi', 'Ji-tae Yu', 'Hye-jeong Kang'],8.4,
+After being kidnapped and imprisoned for 15 years, Oh Dae-Su is released, only to find that he must find his captor in 5 days.    
+Singin' in the Rain,['Comedy', 'Musical', 'Romance'],Stanley Donen,['Gene Kelly', "Donald O'Connor", 'Debbie Reynolds'],8.4,
+A silent film production company and cast make a difficult transition to sound.    
+Monty Python and the Holy Grail,['Adventure', 'Comedy', 'Fantasy'],Terry Gilliam,['Graham Chapman', 'John Cleese', 'Eric Idle'],8.4,
+King Arthur and his knights embark on a low-budget search for the Grail, encountering many very silly obstacles.    
+Some Like It Hot,['Comedy'],Billy Wilder,['Marilyn Monroe', 'Tony Curtis', 'Jack Lemmon'],8.4,
+When two musicians witness a mob hit, they flee the state in an all female band disguised as women, but further complications set in.    
+'ascii' codec can't encode character u'\xf6' in position 9: ordinal not in range(128)
+Amadeus,['Biography', 'Drama', 'Music'],Milos Forman,['F. Murray Abraham', 'Tom Hulce', 'Elizabeth Berridge'],8.4,
+The incredible story of Wolfgang Amadeus Mozart, told in flashback by his peer and secret rival Antonio Salieri - now confined to an insane asylum.    
+Bicycle Thieves,['Crime', 'Drama'],Vittorio De Sica,['Lamberto Maggiorani', 'Enzo Staiola', 'Lianella Carell'],8.4,
+A man and his son search for a stolen bicycle vital for his job.    
+'ascii' codec can't encode character u'\xf4' in position 6: ordinal not in range(128)
+'ascii' codec can't encode character u'\xf4' in position 1: ordinal not in range(128)
+2001: A Space Odyssey,['Adventure', 'Mystery', 'Sci-Fi'],Stanley Kubrick,['Keir Dullea', 'Gary Lockwood', 'William Sylvester'],8.4,
+Humanity finds a mysterious, obviously artificial, object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.    
+All About Eve,['Drama'],Joseph L. Mankiewicz,['Bette Davis', 'Anne Baxter', 'George Sanders'],8.4,
+An ingenue insinuates herself in to the company of an established but aging stage actress and her circle of theater friends.    
+The Sting,['Comedy', 'Crime', 'Drama'],George Roy Hill,['Paul Newman', 'Robert Redford', 'Robert Shaw'],8.4,
+In 1930s Chicago, a young con man seeking revenge for his murdered partner teams up with a master of the big con to win a fortune from a criminal banker.    
+Unforgiven,['Western'],Clint Eastwood,['Clint Eastwood', 'Gene Hackman', 'Morgan Freeman'],8.3,
+Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner and a young man.    
+The Apartment,['Comedy', 'Drama', 'Romance'],Billy Wilder,['Jack Lemmon', 'Shirley MacLaine', 'Fred MacMurray'],8.4,
+A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.    
+Indiana Jones and the Last Crusade,['Action', 'Adventure'],Steven Spielberg,['Harrison Ford', 'Sean Connery', 'Denholm Elliott'],8.3,
+When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his father's footsteps and stop the Nazis.    
+Raging Bull,['Biography', 'Drama', 'Sport'],Martin Scorsese,['Robert De Niro', 'Cathy Moriarty', 'Joe Pesci'],8.3,
+An emotionally self-destructive boxer's journey through life, as the violence and temper that leads him to the top in the ring, destroys his life outside it.    
+The Bridge on the River Kwai,['Adventure', 'Drama', 'History'],David Lean,['William Holden', 'Alec Guinness', 'Jack Hawkins'],8.3,
+After settling his differences with a Japanese PoW camp commander, a British colonel co-operates to oversee his men's construction of a railway bridge for their captors - while oblivious to a plan by the Allies to destroy it.    
+Witness for the Prosecution,['Drama', 'Mystery'],Billy Wilder,['Tyrone Power', 'Marlene Dietrich', 'Charles Laughton'],8.4,
+Agatha Christie tale of a man on trial for murder: a trial featuring surprise after surprise.    
+Grave of the Fireflies,['Animation', 'Drama', 'War'],Isao Takahata,['Tsutomu Tatsumi', 'Ayano Shiraishi', 'Yoshiko Shinohara'],8.4,
+A tragic film covering a young boy and his little sister's struggle to survive in Japan during World War II.    
+Die Hard,['Action', 'Thriller'],John McTiernan,['Bruce Willis', 'Bonnie Bedelia', 'Reginald VelJohnson'],8.3,
+John McClane, officer of the NYPD, tries to save wife Holly Gennaro and several others, taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.    
+Batman Begins,['Action', 'Adventure', 'Crime'],Christopher Nolan,['Christian Bale', 'Michael Caine', 'Liam Neeson'],8.3,
+After training with his mentor, Batman begins his war on crime to free the crime-ridden Gotham City from corruption that the Scarecrow and the League of Shadows have cast upon it.    
+A Separation,['Drama'],Asghar Farhadi,['Payman Maadi', 'Leila Hatami', 'Sareh Bayat'],8.5,
+A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.    
+'ascii' codec can't encode character u'\xf4' in position 6: ordinal not in range(128)
+'ascii' codec can't encode character u'\xe9' in position 1: ordinal not in range(128)
+Snatch.,['Crime', 'Thriller'],Guy Ritchie,['Benicio Del Toro', 'Dennis Farina', 'Brad Pitt'],8.3,
+Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewelers fight to track down a priceless stolen diamond.    
+'ascii' codec can't encode character u'\xe9' in position 17: ordinal not in range(128)
+Downfall,['Biography', 'Drama', 'History'],Oliver Hirschbiegel,['Bruno Ganz', 'Alexandra Maria Lara', 'Ulrich Matthes'],8.3,
+Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.    
+The Great Escape,['Adventure', 'Drama', 'History'],John Sturges,['Steve McQueen', 'James Garner', 'Richard Attenborough'],8.3,
+Allied POWs plan for several hundred of their number to escape from a German camp during World War II.    
+'ascii' codec can't encode character u'\xf3' in position 7: ordinal not in range(128)
+Mr. Smith Goes to Washington,['Drama'],Frank Capra,['Jean Arthur', 'James Stewart', 'Claude Rains'],8.3,
+A naive man is appointed to fill a vacancy in the US Senate. His plans promptly collide with political corruption, but he doesn't back down.    
+Up,['Animation', 'Adventure', 'Comedy'],Pete Docter,['Edward Asner', 'Christopher Plummer', 'Jordan Nagai'],8.3,
+By tying thousands of balloons to his home, 78-year-old Carl sets out to fulfill his lifelong dream to see the wilds of South America. Russell, a wilderness explorer 70 years younger, inadvertently becomes a stowaway.    
+Toy Story,['Animation', 'Adventure', 'Comedy'],John Lasseter,['Tom Hanks', 'Tim Allen', 'Don Rickles'],8.3,
+A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.    
+On the Waterfront,['Crime', 'Drama'],Elia Kazan,['Marlon Brando', 'Karl Malden', 'Lee J. Cobb'],8.3,
+An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.    
+The Elephant Man,['Biography', 'Drama'],David Lynch,['Anthony Hopkins', 'John Hurt', 'Anne Bancroft'],8.3,
+A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous facade, there is revealed a person of intelligence and sensitivity.    
+'ascii' codec can't encode character u'\xf6' in position 9: ordinal not in range(128)
+Heat,['Action', 'Crime', 'Drama'],Michael Mann,['Al Pacino', 'Robert De Niro', 'Val Kilmer'],8.3,
+A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.    
+The General,['Action', 'Adventure', 'Comedy'],Clyde Bruckman,['Buster Keaton', 'Marion Mack', 'Glen Cavender'],8.3,
+When Union spies steal an engineer's beloved locomotive, he pursues it single handedly and straight through enemy lines.    
+The Maltese Falcon,['Crime', 'Drama', 'Film-Noir'],John Huston,['Humphrey Bogart', 'Mary Astor', 'Gladys George'],8.3,
+A private detective takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette.    
+Blade Runner,['Drama', 'Sci-Fi', 'Thriller'],Ridley Scott,['Harrison Ford', 'Rutger Hauer', 'Sean Young'],8.3,
+Deckard, a blade runner, has to track down and terminate 4 replicants who hijacked a ship in space and have returned to Earth seeking their maker.    
+Rebecca,['Drama', 'Mystery', 'Thriller'],Alfred Hitchcock,['Laurence Olivier', 'Joan Fontaine', 'George Sanders'],8.3,
+When a naive young woman marries a rich widower and settles in his gigantic mansion, she finds the memory of the first wife maintaining a grip on her husband and the servants.    
+The Kid,['Comedy', 'Drama', 'Family'],Charles Chaplin,['Carl Miller', 'Edna Purviance', 'Jackie Coogan'],8.3,
+The Tramp cares for an abandoned child, but events put that relationship in jeopardy.    
+Gran Torino,['Drama'],Clint Eastwood,['Clint Eastwood', 'Christopher Carley', 'Bee Vang'],8.2,
+Disgruntled Korean War vet Walt Kowalski sets out to reform his neighbor, a young Hmong teenager, who tried to steal Kowalski's prized possession: his 1972 Gran Torino.    
+'ascii' codec can't encode character u'\xf6' in position 9: ordinal not in range(128)
+Scarface,['Crime', 'Drama', 'Thriller'],Brian De Palma,['Al Pacino', 'Steven Bauer', 'Michelle Pfeiffer'],8.3,
+In 1980 Miami, a determined Cuban immigrant takes over a drug cartel while succumbing to greed.    
+Fargo,['Crime', 'Drama'],Joel Coen,['William H. Macy', 'Steve Buscemi', 'Peter Stormare'],8.2,
+Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.    
+Ran,['Action', 'Drama', 'War'],Akira Kurosawa,['Tatsuya Nakadai', 'Akira Terao', 'Jinpachi Nezu'],8.3,
+An elderly lord abdicates to his three sons, and the two corrupt ones turn against him.    
+The Big Lebowski,['Comedy', 'Crime'],Joel Coen,['Jeff Bridges', 'John Goodman', 'Julianne Moore'],8.2,
+"Dude" Lebowski, mistaken for a millionaire Lebowski, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.    
+Touch of Evil,['Crime', 'Film-Noir', 'Thriller'],Orson Welles,['Charlton Heston', 'Janet Leigh', 'Orson Welles'],8.3,
+Stark, perverse story of murder, kidnapping, and police corruption in Mexican border town.    
+The Deer Hunter,['Drama', 'War'],Michael Cimino,['Robert De Niro', 'John Cazale', 'John Savage'],8.2,
+An in-depth examination of the way that the Vietnam war affects the lives of people in a small industrial town in the USA.    
+Cool Hand Luke,['Crime', 'Drama'],Stuart Rosenberg,['Paul Newman', 'George Kennedy', 'J.D. Cannon'],8.2,
+A man refuses to conform to life in a rural prison.    
+The Gold Rush,['Adventure', 'Comedy', 'Family'],Charles Chaplin,['Charles Chaplin', 'Mack Swain', 'Tom Murray'],8.2,
+The Tramp goes the Klondike in search of gold and finds it and more.    
+Lock, Stock and Two Smoking Barrels,['Crime', 'Thriller'],Guy Ritchie,['Jason Flemyng', 'Dexter Fletcher', 'Nick Moran'],8.2,
+Four London working class stiffs pool their money to put one in a high stakes card game, but things go wrong and they end up owing half a million pounds and having one week to come up with the cash.    
+No Country for Old Men,['Crime', 'Drama', 'Thriller'],Ethan Coen,['Tommy Lee Jones', 'Javier Bardem', 'Josh Brolin'],8.2,
+Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.    
+It Happened One Night,['Comedy', 'Romance'],Frank Capra,['Clark Gable', 'Claudette Colbert', 'Walter Connolly'],8.2,
+A spoiled heiress, running away from her family, is helped by a man who's actually a reporter looking for a story.    
+Sin City,['Crime', 'Thriller'],Frank Miller,['Jessica Alba', 'Clive Owen', 'Mickey Rourke'],8.2,
+A film that explores the dark and miserable town, Basin City, and tells the story of three different people, all caught up in violent corruption.    
+Strangers on a Train,['Crime', 'Film-Noir', 'Thriller'],Alfred Hitchcock,['Farley Granger', 'Ruth Roman', 'Robert Walker'],8.2,
+A psychotic socialite confronts a pro tennis star with a theory on how two complete strangers can get away with murder...a theory that he plans to implement.    
+Jaws,['Adventure', 'Horror', 'Thriller'],Steven Spielberg,['Roy Scheider', 'Robert Shaw', 'Richard Dreyfuss'],8.2,
+When a gigantic great white shark begins to menace the small island community of Amity, a police chief, a marine scientist and grizzled fisherman set out to stop it.    
+The Sixth Sense,['Drama', 'Mystery', 'Thriller'],M. Night Shyamalan,['Bruce Willis', 'Haley Joel Osment', 'Toni Collette'],8.2,
+A boy who communicates with spirits that don't know they're dead seeks the help of a disheartened child psychologist.    
+Casino,['Biography', 'Crime', 'Drama'],Martin Scorsese,['Robert De Niro', 'Sharon Stone', 'Joe Pesci'],8.2,
+Greed, deception, money, power, and murder occur between two mobster best friends and a trophy wife over a gambling empire.    
+Platoon,['Action', 'Drama', 'War'],Oliver Stone,['Keith David', 'Tom Berenger', 'Willem Dafoe'],8.2,
+A young recruit in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man.    
+The Thing,['Horror', 'Mystery', 'Sci-Fi'],John Carpenter,['Kurt Russell', 'Wilford Brimley', 'Keith David'],8.2,
+Scientists in the Antarctic are confronted by a shape-shifting alien that assumes the appearance of the people that it kills.    
+The Avengers,['Action'],Joss Whedon,['Robert Downey Jr.', 'Chris Evans', 'Scarlett Johansson'],8.3,
+Nick Fury of S.H.I.E.L.D. brings together a team of super humans to form The Avengers to help save the Earth from Loki and his army.    
+Trainspotting,['Crime', 'Drama'],Danny Boyle,['Ewan McGregor', 'Ewen Bremner', 'Jonny Lee Miller'],8.2,
+Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.    
+Butch Cassidy and the Sundance Kid,['Adventure', 'Biography', 'Crime'],George Roy Hill,['Paul Newman', 'Robert Redford', 'Katharine Ross'],8.2,
+Two Western bank/train robbers flee to Bolivia when the law gets too close.    
+The Wizard of Oz,['Adventure', 'Family', 'Fantasy'],Victor Fleming,['Judy Garland', 'Frank Morgan', 'Ray Bolger'],8.2,
+Dorothy Gale is swept away to a magical land in a tornado and embarks on a quest to see the Wizard who can help her return home.    
+High Noon,['Drama', 'Western'],Fred Zinnemann,['Gary Cooper', 'Thomas Mitchell', 'Lloyd Bridges'],8.2,
+A marshall, personally compelled to face a returning deadly enemy, finds that his own town refuses to help him.    
+Hotel Rwanda,['Biography', 'Drama', 'History'],Terry George,['Xolani Mali', 'Don Cheadle', 'Sophie Okonedo'],8.2,
+The true-life story of Paul Rusesabagina, a hotel manager who housed over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda.    
+Good Will Hunting,['Drama'],Gus Van Sant,['Matt Damon', 'Robin Williams', 'Ben Affleck'],8.2,
+Will Hunting, a janitor at MIT, has a gift for mathematics but needs help from a psychologist to find direction in his life.    
+Kill Bill: Vol. 1,['Action', 'Crime', 'Thriller'],Quentin Tarantino,['Uma Thurman', 'Daryl Hannah', 'David Carradine'],8.2,
+The Bride wakes up after a long coma. The baby that she carried before entering the coma is gone. The only thing on her mind is to have revenge on the assassination team that betrayed her - a team she was once part of.    
+Warrior,['Drama', 'Sport'],Gavin O'Connor,['Joel Edgerton', 'Tom Hardy', 'Nick Nolte'],8.2,
+The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision corner with his older brother.    
+Annie Hall,['Comedy', 'Drama', 'Romance'],Woody Allen,['Woody Allen', 'Diane Keaton', 'Tony Roberts'],8.2,
+Neurotic New York comedian Alvy Singer falls in love with the ditsy Annie Hall.    
+'ascii' codec can't encode character u'\xed' in position 11: ordinal not in range(128)
+Gone with the Wind,['Drama', 'Romance', 'War'],Victor Fleming,['Thomas Mitchell', "Barbara O'Neil", 'Vivien Leigh'],8.2,
+American classic in which a manipulative woman and a roguish man carry on a turbulent love affair in the American south during the Civil War and Reconstruction.    
+The Grapes of Wrath,['Drama'],John Ford,['Henry Fonda', 'Jane Darwell', 'John Carradine'],8.2,
+A poor Midwest family is forced off of their land. They travel to California, suffering the misfortunes of the homeless in the Great Depression.    
+Notorious,['Drama', 'Romance', 'Thriller'],Alfred Hitchcock,['Cary Grant', 'Ingrid Bergman', 'Claude Rains'],8.2,
+A woman is asked to spy on a group of Nazi friends in South America. How far will she have to go to ingratiate herself with them?    
+My Neighbor Totoro,['Animation', 'Family', 'Fantasy'],Hayao Miyazaki,['Toshiyuki Amagasa', 'Paul Butcher', 'Noriko Hidaka'],8.2,
+When two girls move to the country to be near their ailing mother, they have adventures with the wonderous forest spirits who live nearby.    
+Into the Wild,['Adventure', 'Biography', 'Drama'],Sean Penn,['Emile Hirsch', 'Marcia Gay Harden', 'Catherine Keener'],8.2,
+After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.    
+V for Vendetta,['Action', 'Fantasy', 'Thriller'],James McTeigue,['Natalie Portman', 'Hugo Weaving', 'Stephen Rea'],8.2,
+A shadowy freedom fighter known only as "V" uses terrorist tactics to fight against his totalitarian society. Upon rescuing a girl from the secret police, he also finds his best chance at having an ally.    
+Life of Brian,['Comedy'],Terry Jones,['Graham Chapman', 'John Cleese', 'Terry Gilliam'],8.1,
+Brian is born on the original Christmas, in the stable next door. He spends his life being mistaken for a messiah.    
+Finding Nemo,['Animation', 'Adventure', 'Comedy'],Andrew Stanton,['Albert Brooks', 'Ellen DeGeneres', 'Alexander Gould'],8.1,
+After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.    
+How to Train Your Dragon,['Animation', 'Adventure', 'Comedy'],Dean DeBlois,['Jay Baruchel', 'Gerard Butler', 'Craig Ferguson'],8.2,
+A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.    
+Dial M for Murder,['Crime', 'Mystery', 'Thriller'],Alfred Hitchcock,['Ray Milland', 'Grace Kelly', 'Robert Cummings'],8.2,
+An ex-tennis pro carries out a plot to murder his wife. When things go wrong, he improvises a brilliant plan B.    
+The King's Speech,['Biography', 'Drama', 'History'],Tom Hooper,['Colin Firth', 'Helena Bonham Carter', 'Derek Jacobi'],8.1,
+The story of King George VI of Britain, his impromptu ascension to the throne and the speech therapist who helped the unsure monarch become worthy of it.    
+The Big Sleep,['Crime', 'Film-Noir', 'Mystery'],Howard Hawks,['Humphrey Bogart', 'Lauren Bacall', 'John Ridgely'],8.2,
+Private detective Philip Marlowe is hired by a rich family. Before the complex case is over, he's seen murder, blackmail, and what might be love.    
+There Will Be Blood,['Drama'],Paul Thomas Anderson,['Daniel Day-Lewis', 'Martin Stringer', 'Paul Dano'],8.1,
+A story about family, greed, religion, and oil, centered around a turn-of-the-century prospector in the early days of the business.    
+Ben-Hur,['Action', 'Adventure', 'Drama'],William Wyler,['Charlton Heston', 'Jack Hawkins', 'Haya Harareet'],8.1,
+When a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.    
+The Night of the Hunter,['Drama', 'Film-Noir', 'Thriller'],Charles Laughton,['Robert Mitchum', 'Shelley Winters', 'Lillian Gish'],8.2,
+A religious fanatic marries a gullible widow whose young children are reluctant to tell him where their real daddy hid $10,000 he'd stolen in a robbery.    
+The Terminator,['Action', 'Sci-Fi'],James Cameron,['Arnold Schwarzenegger', 'Michael Biehn', 'Linda Hamilton'],8.1,
+A robotic assassin from a post-apocalyptic future travels back in time to eliminate a waitress, whose son will grow up and lead humanity in a war against machines.    
+Network,['Drama'],Sidney Lumet,['Faye Dunaway', 'William Holden', 'Peter Finch'],8.1,
+A TV network cynically exploits a deranged ex-TV anchor's ravings and revelations about the media for their own profit.    
+Million Dollar Baby,['Drama', 'Sport'],Clint Eastwood,['Clint Eastwood', 'Hilary Swank', 'Morgan Freeman'],8.1,
+A determined woman works with a hardened boxing trainer to become a professional.    
+Stand by Me,['Adventure', 'Drama'],Rob Reiner,['Wil Wheaton', 'River Phoenix', 'Corey Feldman'],8.1,
+After the death of a friend, a writer recounts a boyhood journey to find the body of a missing boy.    
+The Best Years of Our Lives,['Drama', 'Romance', 'War'],William Wyler,['Myrna Loy', 'Fredric March', 'Dana Andrews'],8.2,
+Three WWII veterans return home to small-town America to discover that they and their families have been irreparably changed.    
+Groundhog Day,['Comedy', 'Drama', 'Fantasy'],Harold Ramis,['Bill Murray', 'Andie MacDowell', 'Chris Elliott'],8.1,
+A weatherman finds himself living the same day over and over again.    
+Donnie Darko,['Drama', 'Mystery', 'Sci-Fi'],Richard Kelly,['Jake Gyllenhaal', 'Holmes Osborne', 'Mary McDonnell'],8.1,
+A troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes, after narrowly escaping a bizarre accident.    
+Twelve Monkeys,['Mystery', 'Sci-Fi', 'Thriller'],Terry Gilliam,['Joseph Melito', 'Bruce Willis', 'Madeleine Stowe'],8.1,
+In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.    
+Dog Day Afternoon,['Crime', 'Drama'],Sidney Lumet,['Penelope Allen', 'Sully Boyar', 'John Cazale'],8.1,
+A man robs a bank to pay for his lover's operation; it turns into a hostage situation and a media circus.    
+Mary and Max,['Animation', 'Comedy', 'Drama'],Adam Elliot,['Toni Collette', 'Philip Seymour Hoffman', 'Barry Humphries'],8.2,
+A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.    
+'ascii' codec can't encode character u'\xe9' in position 13: ordinal not in range(128)
+'ascii' codec can't encode character u'\xed' in position 15: ordinal not in range(128)
+Black Swan,['Drama', 'Mystery', 'Thriller'],Darren Aronofsky,['Natalie Portman', 'Mila Kunis', 'Vincent Cassel'],8.1,
+A ballet dancer wins the lead in "Swan Lake" and is perfect for the role of the delicate White Swan - Princess Odette - but slowly loses her mind as she becomes more and more like Odile, the Black Swan.    
+'ascii' codec can't encode character u'\xc9' in position 0: ordinal not in range(128)
+Gandhi,['Biography', 'Drama', 'History'],Richard Attenborough,['Ben Kingsley', 'Candice Bergen', 'Edward Fox'],8.1,
+Biography of 
+Persona,['Drama'],Ingmar Bergman,['Bibi Andersson', 'Liv Ullmann', 'Margaretha Krook'],8.2,
+A nurse is put in charge of an actress who can't talk and finds that the actress's persona is melding with hers.    
+'ascii' codec can't encode character u'\xf4' in position 12: ordinal not in range(128)
+The Killing,['Crime', 'Film-Noir', 'Thriller'],Stanley Kubrick,['Sterling Hayden', 'Coleen Gray', 'Vince Edwards'],8.1,
+Crooks plan and execute a daring racetrack robbery.    
+The Graduate,['Comedy', 'Drama', 'Romance'],Mike Nichols,['Anne Bancroft', 'Dustin Hoffman', 'Katharine Ross'],8.1,
+Recent college graduate Benjamin Braddock is trapped into an affair with Mrs. Robinson, who happens to be the wife of his father's business partner and then finds himself falling in love with her daughter, Elaine.    
+The Hobbit: An Unexpected Journey,['Adventure', 'Fantasy'],Peter Jackson,['Ian McKellen', 'Martin Freeman', 'Richard Armitage'],8.2,
+A younger and more reluctant Hobbit, Bilbo Baggins, sets out on an "unexpected journey" to the Lonely Mountain with a spirited group of Dwarves to reclaim their stolen mountain home from a dragon named Smaug.    
+Life of Pi,['Adventure', 'Drama', 'Fantasy'],Ang Lee,['Suraj Sharma', 'Irrfan Khan', 'Adil Hussain'],8.1,
+A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.    
+A Beautiful Mind,['Biography', 'Drama'],Ron Howard,['Russell Crowe', 'Ed Harris', 'Jennifer Connelly'],8.1,
+After a brilliant but asocial mathematician accepts secret work in cryptography, his life takes a turn to the nightmarish.    
+The Princess Bride,['Adventure', 'Comedy', 'Family'],Rob Reiner,['Cary Elwes', 'Mandy Patinkin', 'Chris Sarandon'],8.1,
+A classic fairy tale, with swordplay, giants, an evil prince, a beautiful princess, and yes, some kissing (as read by a kindly grandfather).    
+'ascii' codec can't encode character u'\xe9' in position 9: ordinal not in range(128)
+The Hustler,['Drama', 'Sport'],Robert Rossen,['Paul Newman', 'Jackie Gleason', 'Piper Laurie'],8.1,
+An up-and-coming pool player plays a long-time champion in a single high-stakes match.    
+Who's Afraid of Virginia Woolf?,['Drama'],Mike Nichols,['Elizabeth Taylor', 'Richard Burton', 'George Segal'],8.1,
+A bitter aging couple with the help of alcohol, use a young couple to fuel anguish and emotional pain towards each other.    
+Slumdog Millionaire,['Drama', 'Romance', 'Thriller'],Danny Boyle,['Dev Patel', 'Saurabh Shukla', 'Anil Kapoor'],8.1,
+A Mumbai teen who grew up in the slums, becomes a contestant on the Indian version of "Who Wants To Be A Millionaire?" He is arrested under suspicion of cheating, and while being interrogated, events from his life history are shown which explain why he knows the answers.    
+La strada,['Drama'],Federico Fellini,['Anthony Quinn', 'Giulietta Masina', 'Richard Basehart'],8.1,
+A carefree girl is sold to a traveling entertainer, consequently enduring physical and emotional pain along the way.    
+Rocky,['Drama', 'Sport'],John G. Avildsen,['Sylvester Stallone', 'Talia Shire', 'Burt Young'],8.1,
+A small time boxer gets a once in a lifetime chance to fight the heavyweight champ in a bout in which he strives to go the distance for his self-respect.    
+Anatomy of a Murder,['Crime', 'Drama', 'Mystery'],Otto Preminger,['James Stewart', 'Lee Remick', 'Ben Gazzara'],8.1,
+In a murder trial, the defendant says he suffered temporary insanity after the victim raped his wife. What is the truth, and will he win his case?    
+The Manchurian Candidate,['Drama', 'Mystery', 'Romance'],John Frankenheimer,['Frank Sinatra', 'Laurence Harvey', 'Janet Leigh'],8.1,
+A former Korean War POW is brainwashed by Communists into becoming a political assassin. But another former prisoner may know how to save him.    
+The Exorcist,['Horror', 'Thriller'],William Friedkin,['Ellen Burstyn', 'Max von Sydow', 'Lee J. Cobb'],8.0,
+When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.    
+The Wild Bunch,['Western'],Sam Peckinpah,['William Holden', 'Ernest Borgnine', 'Robert Ryan'],8.1,
+An aging group of outlaws look for one last big score as the "traditional" American West is disappearing around them.    
+Rope,['Crime', 'Drama', 'Thriller'],Alfred Hitchcock,['Dick Hogan', 'John Dall', 'Farley Granger'],8.1,
+Two young men strangle their "inferior" classmate, hide his body in their apartment, and invite his friends and family to a dinner party as a means to challenge the "perfection" of their crime.    
+The Man Who Shot Liberty Valance,['Drama', 'Romance', 'Western'],John Ford,['John Wayne', 'James Stewart', 'Vera Miles'],8.1,
+A senator, who became famous for killing a notorious outlaw, returns for the funeral of an old friend and tells the truth about his deed.    
+Stalag 17,['Comedy', 'Drama', 'Thriller'],Billy Wilder,['William Holden', 'Don Taylor', 'Otto Preminger'],8.1,
+When two escaping American World War II prisoners are killed, the German POW camp barracks black marketeer, J.J. Sefton, is suspected of being an informer.    
+Barry Lyndon,['Adventure', 'Drama', 'Romance'],Stanley Kubrick,["Ryan O'Neal", 'Marisa Berenson', 'Patrick Magee'],8.1,
+An Irish rogue wins the heart of a rich widow and assumes her dead husband's position in 18th Century aristocracy.    
+'ascii' codec can't encode character u'\xe9' in position 1: ordinal not in range(128)
+Sleuth,['Mystery', 'Thriller'],Joseph L. Mankiewicz,['Laurence Olivier', 'Michael Caine', 'Alec Cawthorne'],8.1,
+A man who loves games and theater invites his wife's lover to meet him, setting up a battle of wits with potentially deadly results.    
+Stalker,['Adventure', 'Drama', 'Fantasy'],Andrey Tarkovskiy,['Alisa Freyndlikh', 'Aleksandr Kaydanovskiy', 'Anatoliy Solonitsyn'],8.1,
+A guide leads two men through an area known as the Zone to find a room that grants wishes.    
+Infernal Affairs,['Crime', 'Mystery', 'Thriller'],Wai-keung Lau,['Andy Lau', 'Tony Leung Chiu Wai', 'Anthony Wong Chau-Sang'],8.1,
+A story between a mole in the police department and an undercover cop. Their objectives are the same: to find out who is the mole, and who is the cop.    
+In the Name of the Father,['Biography', 'Drama', 'Thriller'],Jim Sheridan,['Alison Crosbie', 'Daniel Day-Lewis', 'Philip King'],8.1,
+A man's coerced confession to an I.R.A. bombing he didn't commit imprisons his father as well; a British lawyer helps fight for their freedom.    
+Roman Holiday,['Comedy', 'Drama', 'Romance'],William Wyler,['Gregory Peck', 'Audrey Hepburn', 'Eddie Albert'],8.1,
+A bored and sheltered princess escapes her guardians and falls in love with an American newsman in Rome.    
+Memories of Murder,['Crime', 'Drama', 'Mystery'],Joon-ho Bong,['Kang-ho Song', 'Sang-kyung Kim', 'Roe-ha Kim'],8.1,
+In 1986, in the province of Gyunggi, in South Korea, a second young and beautiful woman is found dead, raped and tied and gagged with her underwear. Detective Park Doo-Man and Detective Cho...                
+The Truman Show,['Comedy', 'Drama', 'Sci-Fi'],Peter Weir,['Jim Carrey', 'Laura Linney', 'Noah Emmerich'],8.0,
+An insurance salesman/adjuster discovers his entire life is actually a TV show.    
+Pirates of the Caribbean: The Curse of the Black Pearl,['Action', 'Adventure', 'Fantasy'],Gore Verbinski,['Johnny Depp', 'Geoffrey Rush', 'Orlando Bloom'],8.0,
+Blacksmith Will Turner teams up with eccentric pirate "Captain" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.    
+Monsters, Inc.,['Animation', 'Adventure', 'Comedy'],Pete Docter,['John Goodman', 'Billy Crystal', 'Mary Gibbs'],8.0,
+Monsters generate their city's power by scaring children, but they are terribly afraid themselves of being contaminated by children, so when one enters Monstropolis, top scarer Sulley finds his world disrupted.    
+District 9,['Action', 'Sci-Fi', 'Thriller'],Neill Blomkamp,['Sharlto Copley', 'Jason Cope', 'Nathalie Boltt'],8.0,
+An extraterrestrial race forced to live in slum-like conditions on Earth suddenly finds a kindred spirit in a government agent who is exposed to their biotechnology.    
+'ascii' codec can't encode character u'\xe9' in position 17: ordinal not in range(128)
+Harry Potter and the Deathly Hallows: Part 2,['Adventure', 'Family', 'Fantasy'],David Yates,['Michael Gambon', 'Daniel Radcliffe', 'Rupert Grint'],8.1,
+Harry, Ron and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord.    
+Ip Man,['Action', 'Biography', 'Drama'],Wilson Yip,['Donnie Yen', 'Simon Yam', 'Ka Tung Lam'],8.1,
+A semi-biographical account of Yip Man, the first martial arts master to teach the Chinese martial art of Wing Chun.    
+Ratatouille,['Animation', 'Comedy', 'Family'],Brad Bird,['Patton Oswalt', 'Ian Holm', 'Lou Romano'],8.0,
+With dreams of becoming a chef, a culinary genius in the form of a rat, makes an unusual alliance with a young kitchen worker at a famed restaurant.    
+'ascii' codec can't encode character u'\xe9' in position 9: ordinal not in range(128)
+Star Trek,['Action', 'Adventure', 'Sci-Fi'],J.J. Abrams,['Chris Pine', 'Zachary Quinto', 'Leonard Nimoy'],8.0,
+The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful, time-traveling Romulan creates black holes to destroy the Federation one planet at a time.    
+A Streetcar Named Desire,['Drama'],Elia Kazan,['Vivien Leigh', 'Marlon Brando', 'Kim Hunter'],8.0,
+Disturbed Blanche DuBois moves in with her sister in New Orleans and is tormented by her brutish brother-in-law while her reality crumbles around her.    
+'ascii' codec can't encode character u'\xe9' in position 12: ordinal not in range(128)
+3 Idiots,['Comedy', 'Drama', 'Romance'],Rajkumar Hirani,['Aamir Khan', 'Kareena Kapoor', 'Madhavan'],8.3,
+Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them "idiots".    
+Jurassic Park,['Adventure', 'Sci-Fi'],Steven Spielberg,['Sam Neill', 'Laura Dern', 'Jeff Goldblum'],8.0,
+During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.    
+Shutter Island,['Mystery', 'Thriller'],Martin Scorsese,['Leonardo DiCaprio', 'Mark Ruffalo', 'Ben Kingsley'],8.0,
+Drama set in 1954, U.S. Marshal Teddy Daniels is investigating the disappearance of a murderess who escaped from a hospital for the criminally insane and is presumed to be hiding nearby.    
+Beauty and the Beast,['Animation', 'Family', 'Fantasy'],Gary Trousdale,["Paige O'Hara", 'Robby Benson', 'Richard White'],8.0,
+Belle, whose father is imprisoned by the Beast, offers herself instead and discovers her captor to be an enchanted prince.    
+All Quiet on the Western Front,['Drama', 'War'],Lewis Milestone,['Louis Wolheim', 'Lew Ayres', 'John Wray'],8.1,
+A young soldier faces profound disillusionment in the soul-destroying horror of World War I.    
+'ascii' codec can't encode character u'\xe9' in position 1: ordinal not in range(128)
+Rain Man,['Drama'],Barry Levinson,['Dustin Hoffman', 'Tom Cruise', 'Valeria Golino'],8.0,
+Selfish yuppie Charlie Babbitt's father left a fortune to his savant brother Raymond and a pittance to Charlie; they travel cross-country.    
+'ascii' codec can't encode character u'\xf4' in position 9: ordinal not in range(128)
+Rosemary's Baby,['Drama', 'Horror', 'Mystery'],Roman Polanski,['Mia Farrow', 'John Cassavetes', 'Ruth Gordon'],8.0,
+A young couple move into a new apartment, only to be surrounded by peculiar neighbors and occurrences. When the wife becomes mysteriously pregnant, paranoia over the safety of her unborn child begins controlling her life.    
+Harvey,['Comedy', 'Drama'],Henry Koster,['James Stewart', 'Josephine Hull', 'Peggy Dow'],8.1,
+Elwood P. Dowd is a mild-mannered, pleasant man, who just happens (he says) to have an invisible friend resembling a 6-foot rabbit.    
+Like Stars on Earth,['Drama'],Aamir Khan,['Darsheel Safary', 'Aamir Khan', 'Tanay Chheda'],8.4,
+An eight year old boy is thought to be lazy and a troublemaker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.    
+The Perks of Being a Wallflower,['Drama', 'Romance'],Stephen Chbosky,['Logan Lerman', 'Ezra Miller', 'Paul Rudd'],8.1,
+An introvert freshman is taken under the wings of two seniors who welcome him to the real world.    
+Mystic River,['Crime', 'Drama', 'Mystery'],Clint Eastwood,['Sean Penn', 'Tim Robbins', 'Kevin Bacon'],8.0,
+With a childhood tragedy that overshadowed their lives, three men are reunited by circumstance when one loses a daughter.    
+Papillon,['Biography', 'Crime', 'Drama'],Franklin J. Schaffner,['Steve McQueen', 'Dustin Hoffman', 'Victor Jory'],8.0,
+A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.    
+Manhattan,['Comedy', 'Drama', 'Romance'],Woody Allen,['Woody Allen', 'Diane Keaton', 'Michael Murphy'],8.0,
+A divorced New Yorker currently dating a high-schooler brings himself to look for love in the mistress of his best friend instead.    
+Spring, Summer, Fall, Winter... and Spring,['Drama'],Ki-duk Kim,['Yeong-su Oh', 'Ki-duk Kim', 'Young-min Kim'],8.0,
+This film takes place in an isolated lake, where an old monk lives on a small floating temple. The wise master has also a young boy with him that teaches to become a monk. And we watch as seasons and years pass by.    
+'ascii' codec can't encode character u'\xf6' in position 10: ordinal not in range(128)
+The Help,['Drama'],Tate Taylor,['Emma Stone', 'Viola Davis', 'Bryce Dallas Howard'],8.0,
+An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African-American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.    
+The Wrestler,['Drama', 'Romance', 'Sport'],Darren Aronofsky,['Mickey Rourke', 'Marisa Tomei', 'Evan Rachel Wood'],8.0,
+A faded professional wrestler must retire, but finds his quest for a new life outside the ring a dispiriting struggle.    
+The Untouchables,['Crime', 'Drama', 'History'],Brian De Palma,['Kevin Costner', 'Sean Connery', 'Charles Martin Smith'],8.0,
+Federal Agent Eliot Ness sets out to stop Al Capone; because of rampant corruption, he assembles a small, hand-picked team.    
+In the Mood for Love,['Drama', 'Romance'],Kar Wai Wong,['Maggie Cheung', 'Tony Leung Chiu Wai', 'Ping Lam Siu'],8.0,
+A man and a woman move in to neighboring Hong Kong apartments and form a bond when they both suspect their spouses of extra-marital activities.    
+Big Fish,['Adventure', 'Drama', 'Fantasy'],Tim Burton,['Ewan McGregor', 'Albert Finney', 'Billy Crudup'],8.0,
+A son tries to learn more about his dying father by reliving stories and myths he told about his life.    
+Arsenic and Old Lace,['Comedy', 'Crime', 'Romance'],Frank Capra,['Cary Grant', 'Priscilla Lane', 'Raymond Massey'],8.0,
+A drama critic learns on his wedding day that his beloved maiden aunts are homicidal maniacs, and that insanity runs in his family.    
