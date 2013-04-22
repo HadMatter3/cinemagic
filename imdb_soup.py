@@ -79,12 +79,17 @@ class imdb_data:
                                                             for actor in table_actors.findAll('span'):
                                                                 if actor.has_key('itemprop') and actor['itemprop'] == 'name':
                                                                     stars.append(actor.contents[0])
+							    for n in range(len(stars)):
+							    	stars[n] = stars[n].decode('latin-1').encode('utf-8')
+
                                                             # get genres
                                                             table_infobar = table.find('div', {'class': 'infobar'})
                                                             genre = []
                                                             for g in table_infobar.findAll('span'):
                                                                 if g.has_key('itemprop') and g['itemprop'] == 'genre':
                                                                     genre.append(g.contents[0])
+							    for n in range(len(genre)):
+							    	genre[n] = genre[n].decode('latin-1').encode('utf-8')
 
                                                             print "{},{},{},{},{},{}".format(self.title, genre, self.director, stars, self.rating, self.description)
                                                             #print
