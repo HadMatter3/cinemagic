@@ -55,3966 +55,3968 @@ aS'machines'
 p27
 aS'decadence'
 p28
-aS'spouses'
-p29
 aS'hide'
-p30
+p29
 aS'Andrew Stanton'
-p31
+p30
 aS'ruthless'
-p32
+p31
 aS'Buster Keaton'
-p33
+p32
 aS'while'
-p34
+p33
 aS'Sterling Hayden'
-p35
+p34
 aS'John G. Avildsen'
-p36
+p35
 aS'Gus Van Sant'
-p37
+p36
 aS'Barbara Stanwyck'
-p38
+p37
 aS'Anne Bancroft'
-p39
+p38
 aS'Phellipe Haagensen'
-p40
+p39
 aS'Don Rickles'
-p41
+p40
 aS'Jackie Coogan'
-p42
+p41
 aS'Frank Finlay'
-p43
+p42
 aS'Wil Wheaton'
-p44
+p43
 aS'men'
-p45
+p44
 aS'Disturbed'
-p46
+p45
 aS'Mordor'
-p47
+p46
 aS'hers'
-p48
+p47
 aS'path'
-p49
+p48
 aS'Ingrid Bergman'
-p50
+p49
 aS'generals'
-p51
+p50
 aS'daughter'
-p52
+p51
 aS'leaves'
-p53
+p52
 aS'James Caan'
-p54
+p53
 aS'anchor'
-p55
+p54
 aS'Paul Freeman'
-p56
+p55
 aS'mentor'
-p57
+p56
 aS'bunker'
-p58
+p57
 aS'Orleans'
-p59
+p58
 aS'acrophobia'
-p60
+p59
 aS'Harvey'
-p61
+p60
 aS'patience'
-p62
+p61
 aS'Behind'
-p63
+p62
 aS'Basin'
-p64
+p63
 aS'Epic'
-p65
+p64
 aS"Donald O'Connor"
-p66
+p65
 aS'plot'
-p67
+p66
 aS'criminals'
-p68
+p67
 aS'Star'
-p69
+p68
 aS'army'
-p70
+p69
 aS'Madeleine Stowe'
-p71
+p70
 aS'David Lynch'
-p72
+p71
 aS'preview'
-p73
+p72
 aS'Anil Kapoor'
-p74
+p73
 aS'brings'
-p75
+p74
 aS'Quentin Tarantino'
-p76
+p75
 aS'tying'
-p77
+p76
 aS'V'
-p78
+p77
 aS'Johnny Depp'
-p79
+p78
 aS'Eva Marie Saint'
-p80
+p79
 aS'society.'
-p81
+p80
 aS'room'
-p82
+p81
 aS'rights'
-p83
+p82
 aS'work'
-p84
+p83
 aS'Emma Stone'
-p85
+p84
 aS'movies'
-p86
+p85
 aS'entertainer'
-p87
+p86
 aS'Edna Purviance'
-p88
+p87
 aS'example'
-p89
+p88
 aS'Gene Hackman'
-p90
+p89
 aS'misfortunes'
-p91
+p90
 aS'Wizard'
-p92
+p91
 aS'Jerry'
-p93
+p92
 aS'dragons'
-p94
+p93
 aS'Billy Wilder'
-p95
+p94
 aS'savant'
-p96
+p95
 aS'Lord'
-p97
+p96
 aS'swordplay'
-p98
+p97
 aS'Junge'
-p99
+p98
 aS'aging'
-p100
+p99
 aS'end'
-p101
+p100
 aS'LA'
-p102
+p101
 aS'travel'
-p103
+p102
 aS'trysts'
-p104
+p103
 aS'revisit'
-p105
-aS'Jack'
-p106
-aS'rookie'
-p107
-aS'scaring'
-p108
-aS'A'
-p109
-aS'Logan Lerman'
-p110
-aS'Voldemort'
-p111
-aS'Will'
-p112
-aS'Yorker'
-p113
-aS'law'
-p114
-aS'fleet'
-p115
-aS'attempt'
-p116
-aS'Civil'
-p117
-aS'wins'
-p118
-aS'revolt'
-p119
-aS'Yoda'
-p120
-aS'Harvey Keitel'
-p121
-aS'rogue'
-p122
-aS'waitress'
-p123
-aS'maids'
-p124
-aS'James Stewart'
-p125
-aS'order'
-p126
-aS'office'
-p127
-aS'Joseph L. Mankiewicz'
-p128
-aS'Liam Neeson'
-p129
-aS'bombing'
-p130
-aS'Louise Fletcher'
-p131
-aS'His'
-p132
-aS'harmonica'
-p133
-aS'exhibits'
-p134
-aS'crew'
-p135
-aS'plantation'
-p136
-aS'production'
-p137
-aS'Patton Oswalt'
-p138
-aS'Kurt Russell'
-p139
-aS'Adam Elliot'
-p140
-aS'cop.'
-p141
-aS'band'
-p142
-aS'therapy'
-p143
-aS'effects'
-p144
-aS'Natalie Portman'
-p145
-aS'bank'
-p146
-aS'Edward Asner'
-p147
-aS'shadowy'
-p148
-aS'slavery'
-p149
-aS'bunny'
-p150
-aS'feeds'
-p151
-aS'loyalties'
-p152
-aS'Robert Ryan'
-p153
-aS'bond'
-p154
-aS'Kim Hunter'
-p155
-aS'Edward Fox'
-p156
-aS'series'
-p157
-aS'crimes'
-p158
-aS'Ingmar Bergman'
-p159
-aS'George Lucas'
-p160
-aS'Baggins'
-p161
-aS'Darsheel Safary'
-p162
-aS'dispiriting'
-p163
-aS'ghosts'
-p164
-aS'Lloyd Bridges'
-p165
-aS'ring'
-p166
-aS'network'
-p167
-aS'Holy'
-p168
-aS'dinosaur'
-p169
-aS'god'
-p170
-aS'tales'
-p171
-aS'William'
-p172
-aS'fellowship'
-p173
-aS'Lauren Bacall'
-p174
-aS'surprise'
-p175
-aS'Derek Jacobi'
-p176
-aS'Cuban'
-p177
-aS'projectionist'
-p178
-aS'University'
-p179
-aS'revenge'
-p180
-aS'Henry Koster'
-p181
-aS'struggle'
-p182
-aS'Ewen Bremner'
-p183
-aS'mistress'
-p184
-aS'abdicates'
-p185
-aS'Bibi Andersson'
-p186
-aS'days'
-p187
-aS'undercover'
-p188
-aS'musicians'
-p189
-aS'moving'
-p190
-aS'Antarctic'
-p191
-aS'Yoshiko Shinohara'
-p192
-aS'Depression'
-p193
-aS'Adolf'
-p194
-aS'Gennaro'
-p195
-aS'Frank Morgan'
-p196
-aS'Samuel L. Jackson'
-p197
-aS'Dennis Farina'
-p198
-aS'Terry Jones'
-p199
-aS'Richard Dreyfuss'
-p200
-aS'Alexandre Rodrigues'
-p201
-aS'force'
-p202
-aS'Monsters'
-p203
-aS'toy'
-p204
-aS'service'
-p205
-aS'Michael Cimino'
-p206
-aS'Edward Furlong'
-p207
-aS'Aleksandr Kaydanovskiy'
-p208
-aS'master'
-p209
-aS'John Ford'
-p210
-aS'murder'
-p211
-aS'Keanu Reeves'
-p212
-aS'Joe Pantoliano'
-p213
-aS'Ellen Burstyn'
-p214
-aS'Erich von Stroheim'
-p215
-aS'Robert Mitchum'
-p216
-aS'white'
-p217
-aS'distance'
-p218
-aS'Set'
-p219
-aS'Elizabeth Berridge'
-p220
-aS'guilt'
-p221
-aS'knights'
-p222
-aS'Biography'
-p223
-aS'screenplay'
-p224
-aS'bridge'
-p225
-aS'sees'
-p226
-aS'palace'
-p227
-aS'Chicago'
-p228
-aS'runner'
-p229
-aS'bank/train'
-p230
-aS'mind'
-p231
-aS'rat'
-p232
-aS'Animation'
-p233
-aS'Cary Grant'
-p234
-aS'Holly'
-p235
-aS'tells'
-p236
-aS'Lionel Barrymore'
-p237
-aS'Paul Thomas Anderson'
-p238
-aS'Victor Fleming'
-p239
-aS'Michael J. Fox'
-p240
-aS'Frodo'
-p241
-aS'forces'
-p242
-aS'Jean Arthur'
-p243
-aS'Dexter Fletcher'
-p244
-aS'Jones'
-p245
-aS'Akira Terao'
-p246
-aS'Knight'
-p247
-aS'Michael Gambon'
-p248
-aS'Isengard'
-p249
-aS'Side'
-p250
-aS'prostitute'
-p251
-aS'camp'
-p252
-aS'nighttime'
-p253
-aS'Veronica Cartwright'
-p254
-aS'River Phoenix'
-p255
-aS'Union'
-p256
-aS'random'
-p257
-aS'boyhood'
-p258
-aS'Willem Dafoe'
-p259
-aS'marketeer'
-p260
-aS'charity'
-p261
-aS'Mike Nichols'
-p262
-aS'Javier Bardem'
-p263
-aS'Janeiro'
-p264
-aS'Wai-keung Lau'
-p265
-aS'explain'
-p266
-aS'Darren Aronofsky'
-p267
-aS'S.H.I.E.L.D.'
-p268
-aS'Fred'
-p269
-aS'theme'
-p270
-aS'population'
-p271
-aS'Ed Harris'
-p272
-aS'James Cameron'
-p273
-aS'Michael Bates'
-p274
-aS'spirit'
-p275
-aS'Robin Williams'
-p276
-aS'Agent'
-p277
-aS'Rio'
-p278
-aS'seeks'
-p279
-aS'rival'
-p280
-aS'movement'
-p281
-aS'secretary'
-p282
-aS'Piper Laurie'
-p283
-aS'disaster'
-p284
-aS'observes'
-p285
-aS'Louis Wolheim'
-p286
-aS'Belle'
-p287
-aS'sensitivity'
-p288
-aS'Peter Weir'
-p289
-aS'allure'
-p290
-aS'Saruman'
-p291
-aS'corrupt'
-p292
-aS'John'
-p293
-aS'gladiator'
-p294
-aS'Horror'
-p295
-aS'reporter'
-p296
-aS'Barry Humphries'
-p297
-aS'prince'
-p298
-aS"Gavin O'Connor"
-p299
-aS'score'
-p300
-aS'discovers'
-p301
-aS'encounters'
-p302
-aS'pirate'
-p303
-aS'nature'
-p304
-aS'Jeff Bridges'
-p305
-aS'Paul Newman'
-p306
-aS'Howard Hawks'
-p307
-aS'Thora Birch'
-p308
-aS'Reginald Gardiner'
-p309
-aS'Nick Moran'
-p310
-aS'cop'
-p311
-aS'accident'
-p312
-aS'country'
-p313
-aS'adventurer'
-p314
-aS'adventures'
-p315
-aS'WWII'
-p316
-aS'faces'
-p317
-aS'Dustin Hoffman'
-p318
-aS'con'
-p319
-aS'Terry Gilliam'
-p320
-aS'Myrna Loy'
-p321
-aS'cryptography'
-p322
-aS'Hmong'
-p323
-aS'Michael Madsen'
-p324
-aS'Atticus'
-p325
-aS'basis'
-p326
-aS'union'
-p327
-aS'Pulp'
-p328
-aS'Stephen Rea'
-p329
-aS'Christopher'
-p330
-aS'incompetent'
-p331
-aS'Paulette Goddard'
-p332
-aS'life'
-p333
-aS'Gary Oldman'
-p334
-aS'families'
-p335
-aS'drugs'
-p336
-aS'Poland'
-p337
-aS'worker'
-p338
-aS'filmmaker'
-p339
-aS'kids'
-p340
-aS'Annette Bening'
-p341
-aS'child'
-p342
-aS'Michael Clarke Duncan'
-p343
-aS'Roy Scheider'
-p344
-aS'Linda Hamilton'
-p345
-aS'Dev Patel'
-p346
-aS'murders'
-p347
-aS'Danny Boyle'
-p348
-aS'procedure'
-p349
-aS'Andy Lau'
-p350
-aS'settles'
-p351
-aS'Gary Trousdale'
-p352
-aS'Nam'
-p353
-aS'player'
-p354
-aS'things'
-p355
-aS'Sharon Stone'
-p356
-aS'complex'
-p357
-aS'David Lean'
-p358
-aS'monarch'
-p359
-aS'Aragorn'
-p360
-aS'showing'
-p361
-aS'Kang-ho Song'
-p362
-aS'meets'
-p363
-aS'Stanley Kubrick'
-p364
-aS'VI'
-p365
-aS'Sergio Leone'
-p366
-aS'Christian Bale'
-p367
-aS'Giuseppe Tornatore'
-p368
-aS'workforce'
-p369
-aS'evil'
-p370
-aS'Angeles'
-p371
-aS'stiffs'
-p372
-aS'clownfish'
-p373
-aS'characters'
-p374
-aS'Christopher Nolan'
-p375
-aS'J.J.'
-p376
-aS'Chris Pine'
-p377
-aS'Jackie Gleason'
-p378
-aS'suffering'
-p379
-aS'Martin Stringer'
-p380
-aS'savings'
-p381
-aS'client'
-p382
-aS'mother'
-p383
-aS'operandi'
-p384
-aS'Dean DeBlois'
-p385
-aS'Sarah'
-p386
-aS'John Ridgely'
-p387
-aS'Russell'
-p388
-aS'sentence'
-p389
-aS'gods'
-p390
-aS'Salieri'
-p391
-aS'Capone'
-p392
-aS'Cambodia'
-p393
-aS'Crime'
-p394
-aS'victim'
-p395
-aS'yes'
-p396
-aS'Fernando Meirelles'
-p397
-aS'Traudl'
-p398
-aS'enters'
-p399
-aS'photographer'
-p400
-aS'Vivien Leigh'
-p401
-aS'teenager'
-p402
-aS'prison'
-p403
-aS'Philip'
-p404
-aS'humanity'
-p405
-aS'Payman Maadi'
-p406
-aS'James'
-p407
-aS'paratrooper'
-p408
-aS'Paul Rudd'
-p409
-aS'boxer'
-p410
-aS'Wing'
-p411
-aS'dreams'
-p412
-aS'apart'
-p413
-aS'amok'
-p414
-aS'gift'
-p415
-aS'hunt'
-p416
-aS'officer'
-p417
-aS'Ark'
-p418
-aS'Kowalski'
-p419
-aS'Helge'
-p420
-aS'right'
-p421
-aS'deal'
-p422
-aS'people'
-p423
-aS'toys'
-p424
-aS'City...'
-p425
-aS'Martin Sheen'
-p426
-aS'escape'
-p427
-aS'Alisa Freyndlikh'
-p428
-aS'Edinburgh'
-p429
-aS'Dae-Su'
-p430
-aS'Cuba'
-p431
-aS'J.J. Abrams'
-p432
-aS'companions'
-p433
-aS'convict'
-p434
-aS'Gandalf'
-p435
-aS'Anthony Hopkins'
-p436
-aS'Adil Hussain'
-p437
-aS'He'
-p438
-aS'Braddock'
-p439
-aS'Joseph Cotten'
-p440
-aS'Odile'
-p441
-aS'monsters'
-p442
-aS'cheating'
-p443
-aS'Millionaire'
-p444
-aS'Gran'
-p445
-aS'peer'
-p446
-aS'insanity'
-p447
-aS'bury'
-p448
-aS'trophy'
-p449
-aS'Retired'
-p450
-aS'diner'
-p451
-aS'cowboy'
-p452
-aS'Jack Hawkins'
-p453
-aS'dollars'
-p454
-aS'accepts'
-p455
-aS'F. Murray Abraham'
-p456
-aS'dinner'
-p457
-aS'banker'
-p458
-aS'companion.'
-p459
-aS'objectives'
-p460
-aS'Hong'
-p461
-aS'presence'
-p462
-aS'marshall'
-p463
-aS'brother-in-law'
-p464
-aS'bound'
-p465
-aS'son'
-p466
-aS'freshman'
-p467
-aS'Hye-jeong Kang'
-p468
-aS'dissenting'
-p469
-aS'Korean'
-p470
-aS'Sylvester Stallone'
-p471
-aS'deception'
-p472
-aS'fight'
-p473
-aS'Chun'
-p474
-aS'Kevin Bacon'
-p475
-aS'way'
-p476
-aS'war'
-p477
-aS'head'
-p478
-aS'amateur'
-p479
-aS'form'
-p480
-aS'differences'
-p481
-aS'barber'
-p482
-aS'heat'
-p483
-aS'dead'
-p484
-aS'syndicate'
-p485
-aS'Tom Hardy'
-p486
-aS'complications'
-p487
-aS'Jamie Foxx'
-p488
-aS'daddy'
-p489
-aS'temper'
-p490
-aS'Al Pacino'
-p491
-aS'Adenoid'
-p492
-aS'discovery.'
-p493
-aS'Stuart Rosenberg'
-p494
-aS'tournament'
-p495
-aS'suspicions'
-p496
-aS'Peter Lorre'
-p497
-aS'Claudette Colbert'
-p498
-aS'ship'
-p499
-aS'mole'
-p500
-aS'Francisco'
-p501
-aS'reality'
-p502
-aS'role'
-p503
-aS'Bette Davis'
-p504
-aS'Enzo Staiola'
-p505
-aS'brothers'
-p506
-aS'Roman Polanski'
-p507
-aS'Laurence Fishburne'
-p508
-aS'persistent'
-p509
-aS'Melbourne'
-p510
-aS'journey'
-p511
-aS'Earth'
-p512
-aS'persecution'
-p513
-aS'transfers'
-p514
-aS'Cary Elwes'
-p515
-aS'Sam Peckinpah'
-p516
-aS'Anthony Quinn'
-p517
-aS'American'
-p518
-aS'Second'
-p519
-aS'Richard Armitage'
-p520
-aS'classmate'
-p521
-aS'time'
-p522
-aS'Empire'
-p523
-aS'longshoreman'
-p524
-aS'Leonard Nimoy'
-p525
-aS'Torino'
-p526
-aS'leads'
-p527
-aS'Gotham'
-p528
-aS'bandits'
-p529
-aS'battle'
-p530
-aS'Indiana'
-p531
-aS'vet'
-p532
-aS'father'
-p533
-aS'Liv Ullmann'
-p534
-aS'charge'
-p535
-aS'veterans'
-p536
-aS'Philip Seymour Hoffman'
-p537
-aS'Joker'
-p538
-aS'turbulent'
-p539
-aS'Elaine'
-p540
-aS'Maggie Cheung'
-p541
-aS'Mack Swain'
-p542
-aS'Ayano Shiraishi'
-p543
-aS'level'
-p544
-aS'turns'
-p545
-aS'brother'
-p546
-aS'travels'
-p547
-aS'team'
-p548
-aS'George'
-p549
-aS'Richard Attenborough'
-p550
-aS'blade'
-p551
-aS'Romance'
-p552
-aS'heavyweight'
-p553
-aS'Heath Ledger'
-p554
-aS'Anthony Wong Chau-Sang'
-p555
-aS'Harold Ramis'
-p556
-aS'Patrick McGoohan'
-p557
-aS'Wolfgang'
-p558
-aS'jeopardy'
-p559
-aS'Mary McDonnell'
-p560
-aS'Elizabeth Taylor'
-p561
-aS'Kim Novak'
-p562
-aS'Guy Pearce'
-p563
-aS'Along'
-p564
-aS'Gabriel Byrne'
-p565
-aS'unsure'
-p566
-aS'Marcia Gay Harden'
-p567
-aS'water'
-p568
-aS'English'
-p569
-aS'temple.'
-p570
-aS'teaches'
-p571
-aS'teacher'
-p572
-aS'box'
-p573
-aS'boy'
-p574
-aS'crumbles'
-p575
-aS'redemption'
-p576
-aS'thirty'
-p577
-aS'freak.'
-p578
-aS'trial'
-p579
-aS'priceless'
-p580
-aS'teenage'
-p581
-aS'love'
-p582
-aS'Sci-Fi'
-p583
-aS'humour'
-p584
-aS'POWs'
-p585
-aS'When'
-p586
-aS'Robert Duvall'
-p587
-aS'modus'
-p588
-aS'ailing'
-p589
-aS'Daveigh Chase'
-p590
-aS'crisis'
-p591
-aS'working'
-p592
-aS'super'
-p593
-aS'memory'
-p594
-aS'Swan'
-p595
-aS'duality'
-p596
-aS'club'
-p597
-aS'Mount'
-p598
-aS'clue'
-p599
-aS'John Cazale'
-p600
-aS'effort'
-p601
-aS'Rebels'
-p602
-aS'Family'
-p603
-aS'mayhem'
-p604
-aS'German'
-p605
-aS'John McTiernan'
-p606
-aS'Dowd'
-p607
-aS'heart'
-p608
-aS'Peggy Dow'
-p609
-aS'figure'
-p610
-aS'Federal'
-p611
-aS'agent'
-p612
-aS'Kasi Lemmons'
-p613
-aS'Val Kilmer'
-p614
-aS'occur'
-p615
-aS'Paul Henreid'
-p616
-aS'winter'
-p617
-aS'Who'
-p618
-aS'Kate Winslet'
-p619
-aS'Nakatomi'
-p620
-aS'vital'
-p621
-aS'DeLarge'
-p622
-aS'Sam Neill'
-p623
-aS'explorer'
-p624
-aS'Margaretha Krook'
-p625
-aS'Ki-duk Kim'
-p626
-aS'birthday'
-p627
-aS'James Mason'
-p628
-aS'heroes'
-p629
-aS'murderess'
-p630
-aS'man'
-p631
-aS'Fury'
-p632
-aS'wheelchair'
-p633
-aS'tale'
-p634
-aS'perfection'
-p635
-aS'Curtis Hanson'
-p636
-aS'extractor'
-p637
-aS'Mississippi'
-p638
-aS'Gyunggi'
-p639
-aS'joins'
-p640
-aS'Hunting'
-p641
-aS'years'
-p642
-aS'White'
-p643
-aS'Bolivia'
-p644
-aS'Matt Damon'
-p645
-aS'police'
-p646
-aS'solace'
-p647
-aS'window'
-p648
-aS'suspicion'
-p649
-aS'World'
-p650
-aS'prisoners'
-p651
+p104
 aS'Cho..'
-p652
+p105
+aS'rookie'
+p106
+aS'scaring'
+p107
+aS'A'
+p108
+aS'Logan Lerman'
+p109
+aS'Voldemort'
+p110
+aS'Will'
+p111
+aS'Yorker'
+p112
+aS'law'
+p113
+aS'fleet'
+p114
+aS'attempt'
+p115
+aS'Civil'
+p116
+aS'wins'
+p117
+aS'revolt'
+p118
+aS'Yoda'
+p119
+aS'Harvey Keitel'
+p120
+aS'rogue'
+p121
+aS'waitress'
+p122
+aS'maids'
+p123
+aS'James Stewart'
+p124
+aS'order'
+p125
+aS'office'
+p126
+aS'Joseph L. Mankiewicz'
+p127
+aS'Liam Neeson'
+p128
+aS'bombing'
+p129
+aS'Louise Fletcher'
+p130
+aS'His'
+p131
+aS'harmonica'
+p132
+aS'exhibits'
+p133
+aS'crew'
+p134
+aS'plantation'
+p135
+aS'production'
+p136
+aS'Patton Oswalt'
+p137
+aS'Kurt Russell'
+p138
+aS'Adam Elliot'
+p139
+aS'cop.'
+p140
+aS'band'
+p141
+aS'therapy'
+p142
+aS'effects'
+p143
+aS'Natalie Portman'
+p144
+aS'bank'
+p145
+aS'Edward Asner'
+p146
+aS'shadowy'
+p147
+aS'slavery'
+p148
+aS'bunny'
+p149
+aS'feeds'
+p150
+aS'loyalties'
+p151
+aS'Robert Ryan'
+p152
+aS'bond'
+p153
+aS'Kim Hunter'
+p154
+aS'Edward Fox'
+p155
+aS'series'
+p156
+aS'crimes'
+p157
+aS'Ingmar Bergman'
+p158
+aS'George Lucas'
+p159
+aS'Baggins'
+p160
+aS'Darsheel Safary'
+p161
+aS'dispiriting'
+p162
+aS'ghosts'
+p163
+aS'Lloyd Bridges'
+p164
+aS'ring'
+p165
+aS'network'
+p166
+aS'Holy'
+p167
+aS'dinosaur'
+p168
+aS'god'
+p169
+aS'tales'
+p170
+aS'William'
+p171
+aS'fellowship'
+p172
+aS'Lauren Bacall'
+p173
+aS'surprise'
+p174
+aS'Derek Jacobi'
+p175
+aS'Cuban'
+p176
+aS'projectionist'
+p177
+aS'University'
+p178
+aS'revenge'
+p179
+aS'Henry Koster'
+p180
+aS'struggle'
+p181
+aS'Ewen Bremner'
+p182
+aS'mistress'
+p183
+aS'abdicates'
+p184
+aS'Bibi Andersson'
+p185
+aS'days'
+p186
+aS'undercover'
+p187
+aS'musicians'
+p188
+aS'moving'
+p189
+aS'Antarctic'
+p190
+aS'Yoshiko Shinohara'
+p191
+aS'Depression'
+p192
+aS'Adolf'
+p193
+aS'Gennaro'
+p194
+aS'Frank Morgan'
+p195
+aS'Samuel L. Jackson'
+p196
+aS'Dennis Farina'
+p197
+aS'Terry Jones'
+p198
+aS'Richard Dreyfuss'
+p199
+aS'Alexandre Rodrigues'
+p200
+aS'force'
+p201
+aS'Monsters'
+p202
+aS'toy'
+p203
+aS'service'
+p204
+aS'Michael Cimino'
+p205
+aS'Edward Furlong'
+p206
+aS'Aleksandr Kaydanovskiy'
+p207
+aS'master'
+p208
+aS'John Ford'
+p209
+aS'murder'
+p210
+aS'Keanu Reeves'
+p211
+aS'Joe Pantoliano'
+p212
+aS'Ellen Burstyn'
+p213
+aS'Erich von Stroheim'
+p214
+aS'Robert Mitchum'
+p215
+aS'white'
+p216
+aS'distance'
+p217
+aS'Set'
+p218
+aS'Elizabeth Berridge'
+p219
+aS'guilt'
+p220
+aS'knights'
+p221
+aS'Biography'
+p222
+aS'screenplay'
+p223
+aS'bridge'
+p224
+aS'sees'
+p225
+aS'palace'
+p226
+aS'Chicago'
+p227
+aS'runner'
+p228
+aS'bank/train'
+p229
+aS'mind'
+p230
+aS'rat'
+p231
+aS'Animation'
+p232
+aS'Cary Grant'
+p233
+aS'Holly'
+p234
+aS'tells'
+p235
+aS'Lionel Barrymore'
+p236
+aS'Paul Thomas Anderson'
+p237
+aS'Victor Fleming'
+p238
+aS'Michael J. Fox'
+p239
+aS'Frodo'
+p240
+aS'forces'
+p241
+aS'Jean Arthur'
+p242
+aS'Dexter Fletcher'
+p243
+aS'Jones'
+p244
+aS'Akira Terao'
+p245
+aS'Knight'
+p246
+aS'Michael Gambon'
+p247
+aS'Isengard'
+p248
+aS'Side'
+p249
+aS'prostitute'
+p250
+aS'camp'
+p251
+aS'nighttime'
+p252
+aS'Veronica Cartwright'
+p253
+aS'River Phoenix'
+p254
+aS'Union'
+p255
+aS'random'
+p256
+aS'boyhood'
+p257
+aS'Willem Dafoe'
+p258
+aS'marketeer'
+p259
+aS'charity'
+p260
+aS'Mike Nichols'
+p261
+aS'Javier Bardem'
+p262
+aS'Janeiro'
+p263
+aS'Wai-keung Lau'
+p264
+aS'explain'
+p265
+aS'Darren Aronofsky'
+p266
+aS'S.H.I.E.L.D.'
+p267
+aS'Fred'
+p268
+aS'theme'
+p269
+aS'population'
+p270
+aS'Ed Harris'
+p271
+aS'James Cameron'
+p272
+aS'Michael Bates'
+p273
+aS'spirit'
+p274
+aS'Robin Williams'
+p275
+aS'Agent'
+p276
+aS'Rio'
+p277
+aS'seeks'
+p278
+aS'rival'
+p279
+aS'movement'
+p280
+aS'secretary'
+p281
+aS'Piper Laurie'
+p282
+aS'disaster'
+p283
+aS'observes'
+p284
+aS'Louis Wolheim'
+p285
+aS'Belle'
+p286
+aS'sensitivity'
+p287
+aS'Peter Weir'
+p288
+aS'allure'
+p289
+aS'Saruman'
+p290
+aS'corrupt'
+p291
+aS'John'
+p292
+aS'gladiator'
+p293
+aS'Horror'
+p294
+aS'reporter'
+p295
+aS'Barry Humphries'
+p296
+aS'prince'
+p297
+aS"Gavin O'Connor"
+p298
+aS'score'
+p299
+aS'discovers'
+p300
+aS'encounters'
+p301
+aS'pirate'
+p302
+aS'nature'
+p303
+aS'Jeff Bridges'
+p304
+aS'Paul Newman'
+p305
+aS'Howard Hawks'
+p306
+aS'Thora Birch'
+p307
+aS'Reginald Gardiner'
+p308
+aS'Nick Moran'
+p309
+aS'cop'
+p310
+aS'accident'
+p311
+aS'country'
+p312
+aS'adventurer'
+p313
+aS'adventures'
+p314
+aS'WWII'
+p315
+aS'faces'
+p316
+aS'Dustin Hoffman'
+p317
+aS'con'
+p318
+aS'Terry Gilliam'
+p319
+aS'Myrna Loy'
+p320
+aS'cryptography'
+p321
+aS'Hmong'
+p322
+aS'Michael Madsen'
+p323
+aS'Atticus'
+p324
+aS'basis'
+p325
+aS'union'
+p326
+aS'Pulp'
+p327
+aS'Stephen Rea'
+p328
+aS'Christopher'
+p329
+aS'incompetent'
+p330
+aS'Paulette Goddard'
+p331
+aS'life'
+p332
+aS'Gary Oldman'
+p333
+aS'families'
+p334
+aS'drugs'
+p335
+aS'Poland'
+p336
+aS'worker'
+p337
+aS'filmmaker'
+p338
+aS'kids'
+p339
+aS'Annette Bening'
+p340
+aS'child'
+p341
+aS'Michael Clarke Duncan'
+p342
+aS'Roy Scheider'
+p343
+aS'Linda Hamilton'
+p344
+aS'Dev Patel'
+p345
+aS'murders'
+p346
+aS'Danny Boyle'
+p347
+aS'procedure'
+p348
+aS'Andy Lau'
+p349
+aS'settles'
+p350
+aS'Gary Trousdale'
+p351
+aS'Nam'
+p352
+aS'player'
+p353
+aS'things'
+p354
+aS'Sharon Stone'
+p355
+aS'complex'
+p356
+aS'David Lean'
+p357
+aS'monarch'
+p358
+aS'Aragorn'
+p359
+aS'showing'
+p360
+aS'Kang-ho Song'
+p361
+aS'meets'
+p362
+aS'Stanley Kubrick'
+p363
+aS'VI'
+p364
+aS'Sergio Leone'
+p365
+aS'Christian Bale'
+p366
+aS'Giuseppe Tornatore'
+p367
+aS'workforce'
+p368
+aS'evil'
+p369
+aS'Angeles'
+p370
+aS'stiffs'
+p371
+aS'clownfish'
+p372
+aS'characters'
+p373
+aS'Christopher Nolan'
+p374
+aS'J.J.'
+p375
+aS'Chris Pine'
+p376
+aS'Jackie Gleason'
+p377
+aS'suffering'
+p378
+aS'Martin Stringer'
+p379
+aS'savings'
+p380
+aS'client'
+p381
+aS'mother'
+p382
+aS'operandi'
+p383
+aS'Dean DeBlois'
+p384
+aS'Sarah'
+p385
+aS'John Ridgely'
+p386
+aS'Russell'
+p387
+aS'sentence'
+p388
+aS'gods'
+p389
+aS'Salieri'
+p390
+aS'Capone'
+p391
+aS'Cambodia'
+p392
+aS'Crime'
+p393
+aS'victim'
+p394
+aS'yes'
+p395
+aS'Fernando Meirelles'
+p396
+aS'Traudl'
+p397
+aS'enters'
+p398
+aS'photographer'
+p399
+aS'Vivien Leigh'
+p400
+aS'teenager'
+p401
+aS'prison'
+p402
+aS'Philip'
+p403
+aS'humanity'
+p404
+aS'Payman Maadi'
+p405
+aS'James'
+p406
+aS'paratrooper'
+p407
+aS'Paul Rudd'
+p408
+aS'boxer'
+p409
+aS'Wing'
+p410
+aS'dreams'
+p411
+aS'apart'
+p412
+aS'amok'
+p413
+aS'gift'
+p414
+aS'hunt'
+p415
+aS'officer'
+p416
+aS'Ark'
+p417
+aS'Kowalski'
+p418
+aS'Helge'
+p419
+aS'right'
+p420
+aS'deal'
+p421
+aS'people'
+p422
+aS'toys'
+p423
+aS'City...'
+p424
+aS'Martin Sheen'
+p425
+aS'escape'
+p426
+aS'Alisa Freyndlikh'
+p427
+aS'Edinburgh'
+p428
+aS'Dae-Su'
+p429
+aS'Cuba'
+p430
+aS'J.J. Abrams'
+p431
+aS'companions'
+p432
+aS'convict'
+p433
+aS'Gandalf'
+p434
+aS'Anthony Hopkins'
+p435
+aS'Adil Hussain'
+p436
+aS'He'
+p437
+aS'Braddock'
+p438
+aS'Joseph Cotten'
+p439
+aS'Odile'
+p440
+aS'monsters'
+p441
+aS'cheating'
+p442
+aS'Millionaire'
+p443
+aS'Gran'
+p444
+aS'peer'
+p445
+aS'insanity'
+p446
+aS'bury'
+p447
+aS'trophy'
+p448
+aS'Retired'
+p449
+aS'diner'
+p450
+aS'cowboy'
+p451
+aS'Jack Hawkins'
+p452
+aS'dollars'
+p453
+aS'accepts'
+p454
+aS'F. Murray Abraham'
+p455
+aS'dinner'
+p456
+aS'banker'
+p457
+aS'companion.'
+p458
+aS'objectives'
+p459
+aS'presence'
+p460
+aS'marshall'
+p461
+aS'brother-in-law'
+p462
+aS'bound'
+p463
+aS'son'
+p464
+aS'freshman'
+p465
+aS'Hye-jeong Kang'
+p466
+aS'dissenting'
+p467
+aS'Korean'
+p468
+aS'Sylvester Stallone'
+p469
+aS'deception'
+p470
+aS'fight'
+p471
+aS'Chun'
+p472
+aS'Kevin Bacon'
+p473
+aS'way'
+p474
+aS'war'
+p475
+aS'head'
+p476
+aS'amateur'
+p477
+aS'form'
+p478
+aS'differences'
+p479
+aS'barber'
+p480
+aS'heat'
+p481
+aS'dead'
+p482
+aS'syndicate'
+p483
+aS'Tom Hardy'
+p484
+aS'complications'
+p485
+aS'Jamie Foxx'
+p486
+aS'daddy'
+p487
+aS'temper'
+p488
+aS'Al Pacino'
+p489
+aS'Adenoid'
+p490
+aS'discovery.'
+p491
+aS'Stuart Rosenberg'
+p492
+aS'tournament'
+p493
+aS'suspicions'
+p494
+aS'Peter Lorre'
+p495
+aS'Claudette Colbert'
+p496
+aS'ship'
+p497
+aS'mole'
+p498
+aS'Francisco'
+p499
+aS'reality'
+p500
+aS'role'
+p501
+aS'Bette Davis'
+p502
+aS'Enzo Staiola'
+p503
+aS'brothers'
+p504
+aS'Roman Polanski'
+p505
+aS'Laurence Fishburne'
+p506
+aS'persistent'
+p507
+aS'Melbourne'
+p508
+aS'journey'
+p509
+aS'Earth'
+p510
+aS'persecution'
+p511
+aS'transfers'
+p512
+aS'Cary Elwes'
+p513
+aS'Sam Peckinpah'
+p514
+aS'Anthony Quinn'
+p515
+aS'American'
+p516
+aS'Second'
+p517
+aS'Richard Armitage'
+p518
+aS'classmate'
+p519
+aS'time'
+p520
+aS'Empire'
+p521
+aS'longshoreman'
+p522
+aS'Leonard Nimoy'
+p523
+aS'Torino'
+p524
+aS'leads'
+p525
+aS'Gotham'
+p526
+aS'bandits'
+p527
+aS'battle'
+p528
+aS'Indiana'
+p529
+aS'vet'
+p530
+aS'father'
+p531
+aS'Liv Ullmann'
+p532
+aS'charge'
+p533
+aS'veterans'
+p534
+aS'Philip Seymour Hoffman'
+p535
+aS'Joker'
+p536
+aS'turbulent'
+p537
+aS'Vladimir Barsky'
+p538
+aS'Elaine'
+p539
+aS'Mack Swain'
+p540
+aS'Ayano Shiraishi'
+p541
+aS'level'
+p542
+aS'turns'
+p543
+aS'brother'
+p544
+aS'travels'
+p545
+aS'team'
+p546
+aS'George'
+p547
+aS'Richard Attenborough'
+p548
+aS'blade'
+p549
+aS'Romance'
+p550
+aS'heavyweight'
+p551
+aS'Heath Ledger'
+p552
+aS'Anthony Wong Chau-Sang'
+p553
+aS'Harold Ramis'
+p554
+aS'Patrick McGoohan'
+p555
+aS'Wolfgang'
+p556
+aS'jeopardy'
+p557
+aS'Mary McDonnell'
+p558
+aS'Elizabeth Taylor'
+p559
+aS'Kim Novak'
+p560
+aS'Guy Pearce'
+p561
+aS'Along'
+p562
+aS'Gabriel Byrne'
+p563
+aS'unsure'
+p564
+aS'Marcia Gay Harden'
+p565
+aS'water'
+p566
+aS'English'
+p567
+aS'temple.'
+p568
+aS'teaches'
+p569
+aS'teacher'
+p570
+aS'box'
+p571
+aS'boy'
+p572
+aS'crumbles'
+p573
+aS'redemption'
+p574
+aS'thirty'
+p575
+aS'freak.'
+p576
+aS'trial'
+p577
+aS'priceless'
+p578
+aS'teenage'
+p579
+aS'love'
+p580
+aS'Sci-Fi'
+p581
+aS'humour'
+p582
+aS'POWs'
+p583
+aS'When'
+p584
+aS'Robert Duvall'
+p585
+aS'modus'
+p586
+aS'ailing'
+p587
+aS'Daveigh Chase'
+p588
+aS'crisis'
+p589
+aS'working'
+p590
+aS'super'
+p591
+aS'memory'
+p592
+aS'Swan'
+p593
+aS'duality'
+p594
+aS'club'
+p595
+aS'Mount'
+p596
+aS'clue'
+p597
+aS'John Cazale'
+p598
+aS'effort'
+p599
+aS'Rebels'
+p600
+aS'Family'
+p601
+aS'mayhem'
+p602
+aS'German'
+p603
+aS'John McTiernan'
+p604
+aS'Dowd'
+p605
+aS'heart'
+p606
+aS'Peggy Dow'
+p607
+aS'figure'
+p608
+aS'Federal'
+p609
+aS'agent'
+p610
+aS'Kasi Lemmons'
+p611
+aS'Val Kilmer'
+p612
+aS'occur'
+p613
+aS'Paul Henreid'
+p614
+aS'winter'
+p615
+aS'Who'
+p616
+aS'Kate Winslet'
+p617
+aS'Nakatomi'
+p618
+aS'vital'
+p619
+aS'DeLarge'
+p620
+aS'Sam Neill'
+p621
+aS'explorer'
+p622
+aS'Margaretha Krook'
+p623
+aS'Ki-duk Kim'
+p624
+aS'birthday'
+p625
+aS'James Mason'
+p626
+aS'heroes'
+p627
+aS'murderess'
+p628
+aS'man'
+p629
+aS'Fury'
+p630
+aS'wheelchair'
+p631
+aS'tale'
+p632
+aS'perfection'
+p633
+aS'Curtis Hanson'
+p634
+aS'extractor'
+p635
+aS'Mississippi'
+p636
+aS'Gyunggi'
+p637
+aS'joins'
+p638
+aS'Hunting'
+p639
+aS'years'
+p640
+aS'White'
+p641
+aS'Bolivia'
+p642
+aS'Matt Damon'
+p643
+aS'police'
+p644
+aS'solace'
+p645
+aS'window'
+p646
+aS'suspicion'
+p647
+aS'World'
+p648
+aS'prisoners'
+p649
+aS'Jack'
+p650
 aS'killer'
-p653
+p651
 aS'Enzo Cannavale'
-p654
+p652
 aS'Rome'
-p655
+p653
 aS'Gordon'
-p656
+p654
 aS'Normandy'
-p657
+p655
 aS'half'
-p658
+p656
 aS'Fritz Lang'
-p659
+p657
 aS'fisherman'
-p660
+p658
 aS'bowling'
-p661
+p659
 aS'Noah Emmerich'
-p662
+p660
 aS'Lew Ayres'
-p663
+p661
 aS'Eliot'
-p664
+p662
 aS'Communists'
-p665
+p663
 aS'Tony Leung Chiu Wai'
-p666
+p664
 aS'Emilia Fox'
-p667
+p665
 aS'Dude'
-p668
+p666
 aS'Bruno Ganz'
-p669
+p667
 aS'year'
-p670
+p668
 aS'girl'
-p671
+p669
 aS'Anne Baxter'
-p672
+p670
 aS'John Frankenheimer'
-p673
+p671
 aS'hacker'
-p674
+p672
 aS'Oskar'
-p675
+p673
 aS'space'
-p676
+p674
 aS'profit'
-p677
+p675
 aS'Claude Rains'
-p678
+p676
 aS'Corleone'
-p679
+p677
 aS'superiors'
-p680
+p678
 aS'theory'
-p681
+p679
 aS'million'
-p682
+p680
 aS'Florence Lee'
-p683
+p681
 aS'spies'
-p684
+p682
 aS'rebel'
-p685
+p683
 aS'Daniel Day-Lewis'
-p686
+p684
 aS'marine'
-p687
+p685
 aS'prospector'
-p688
+p686
 aS'card'
-p689
+p687
 aS'training'
-p690
+p688
 aS'Sidney Lumet'
-p691
+p689
 aS'Federation'
-p692
+p690
 aS'disillusionment'
-p693
+p691
 aS'transition'
-p694
+p692
 aS'tries'
-p695
+p693
 aS'turn'
-p696
+p694
 aS'place'
-p697
+p695
 aS'Grace Kelly'
-p698
+p696
 aS'John Gavin'
-p699
+p697
 aS'unborn'
-p700
+p698
 aS'view'
-p701
+p699
 aS'childhood'
-p702
+p700
 aS'J.D. Cannon'
-p703
+p701
 aS'motel'
-p704
+p702
 aS'Barbara Bel Geddes'
-p705
+p703
 aS'Stark'
-p706
+p704
 aS'Thomas Vinterberg'
-p707
+p705
 aS'Black'
-p708
+p706
 aS'carry'
-p709
+p707
 aS'Hollywood'
-p710
+p708
 aS'engineer'
-p711
+p709
 aS'city'
-p712
+p710
 aS'silent'
-p713
+p711
 aS'caught'
-p714
+p712
 aS'returns'
-p715
+p713
 aS'bounty'
-p716
+p714
 aS'Charles Laughton'
-p717
+p715
 aS'friend'
-p718
+p716
 aS'mining'
-p719
+p717
 aS'Alexandra Maria Lara'
-p720
+p718
 aS'Mozart'
-p721
+p719
 aS'humans'
-p722
+p720
 aS'Robert Cummings'
-p723
+p721
 aS'Jabba'
-p724
+p722
 aS'salesman/adjuster'
-p725
+p723
 aS'History'
-p726
+p724
 aS'Robert Rossen'
-p727
+p725
 aS'scraping'
-p728
+p726
 aS'recruit'
-p729
+p727
 aS'Lester'
-p730
+p728
 aS'future'
-p731
+p729
 aS'William Wyler'
-p732
+p730
 aS'Elijah Wood'
-p733
+p731
 aS'janitor'
-p734
+p732
 aS'Richard Kelly'
-p735
+p733
 aS'George Segal'
-p736
+p734
 aS'angel'
-p737
+p735
 aS'pro'
-p738
+p736
 aS'Al'
-p739
+p737
 aS'racetrack'
-p740
+p738
 aS'comedian'
-p741
+p739
 aS'Jewish'
-p742
+p740
 aS'warriors'
-p743
+p741
 aS'veteran'
-p744
+p742
 aS'take'
-p745
+p743
 aS'Irvin Kershner'
-p746
+p744
 aS'Hall'
-p747
+p745
 aS'urge'
-p748
+p746
 aS'pain'
-p749
+p747
 aS'Ray Milland'
-p750
+p748
 aS'tornado'
-p751
+p749
 aS'falls'
-p752
+p750
 aS'assault'
-p753
+p751
 aS'pair'
-p754
+p752
 aS'Marlene Dietrich'
-p755
+p753
 aS'Young-min Kim'
-p756
+p754
 aS'hardships'
-p757
+p755
 aS'Depression-era'
-p758
+p756
 aS'James Woods'
-p759
+p757
 aS'Vader'
-p760
+p758
 aS'Lee Van Cleef'
-p761
+p759
 aS'Viggo Mortensen'
-p762
+p760
 aS'detective'
-p763
+p761
 aS'jewelers'
-p764
+p762
 aS'show'
-p765
+p763
 aS'opportunist'
-p766
+p764
 aS'jewelery'
-p767
+p765
 aS'therapist'
-p768
+p766
 aS'Sulley'
-p769
+p767
 aS'hack'
-p770
+p768
 aS'corner'
-p771
+p769
 aS'Wants'
-p772
+p770
 aS'John Dall'
-p773
+p771
 aS'Thomas Bo Larsen'
-p774
+p772
 aS'crime'
-p775
+p773
 aS'Ethan Coen'
-p776
+p774
 aS'stand'
-p777
+p775
 aS'George C. Scott'
-p778
+p776
 aS'Thriller'
-p779
+p777
 aS'hostage'
-p780
+p778
 aS'Violence'
-p781
+p779
 aS'Catherine Keener'
-p782
+p780
 aS'Shirley MacLaine'
-p783
+p781
 aS'John Megna'
-p784
+p782
 aS'Archeologist'
-p785
+p783
 aS'Milos Forman'
-p786
-aS'Kong'
-p787
+p784
 aS'husband'
-p788
+p785
 aS'WW1'
-p789
+p786
 aS'gangster'
-p790
+p787
 aS'pre-revolution'
-p791
+p788
 aS'college'
-p792
+p789
 aS"Vincent D'Onofrio"
-p793
+p790
 aS'Stephen Chbosky'
-p794
+p791
 aS'Hynkel'
-p795
+p792
 aS'Berlin'
-p796
+p793
 aS'Ruth Gordon'
-p797
+p794
 aS'Ralph Fiennes'
-p798
+p795
 aS'parent'
-p799
+p796
 aS'U.S.'
-p800
+p797
 aS'killing'
-p801
+p798
 aS'Babbitt'
-p802
+p799
 aS'Michel Gondry'
-p803
+p800
 aS'impromptu'
-p804
+p801
 aS'Sharlto Copley'
-p805
+p802
 aS'Jennifer Connelly'
-p806
+p803
 aS'wanders'
-p807
+p804
 aS'Vera Miles'
-p808
+p805
 aS'priests'
-p809
+p806
 aS'monk'
-p810
+p807
 aS'millionaire'
-p811
+p808
 aS'tour'
-p812
+p809
 aS'senator'
-p813
+p810
 aS'railway'
-p814
+p811
 aS'utterance'
-p815
+p812
 aS'Sean Young'
-p816
+p813
 aS'Ewan McGregor'
-p817
+p814
 aS'Death'
-p818
+p815
 aS'madness'
-p819
+p816
 aS'Zachary Quinto'
-p820
+p817
 aS'Ben Affleck'
-p821
+p818
 aS'Ji-tae Yu'
-p822
+p819
 aS'Jack Nicholson'
-p823
+p820
 aS'Asghar Farhadi'
-p824
+p821
 aS'bizarre'
-p825
+p822
 aS'Joan Fontaine'
-p826
+p823
 aS'Midwest'
-p827
+p824
 aS'Frank Overton'
-p828
+p825
 aS'arts'
-p829
+p826
 aS'Klondike'
-p830
+p827
 aS'dictator'
-p831
+p828
 aS'informer'
-p832
+p829
 aS'Princess'
-p833
+p830
 aS'direction'
-p834
+p831
 aS'Audrey Hepburn'
-p835
+p832
 aS'Ernest Borgnine'
-p836
+p833
 aS'thousand'
-p837
+p834
 aS'tiger'
-p838
+p835
 aS'Laurence Olivier'
-p839
+p836
 aS'Agatha'
-p840
+p837
 aS'Action'
-p841
+p838
 aS'Deckard'
-p842
+p839
 aS'case'
-p843
+p840
 aS'Madhavan'
-p844
+p841
 aS'Michael Murphy'
-p845
+p842
 aS'cash'
-p846
+p843
 aS'cast'
-p847
+p844
 aS'tragedy'
-p848
+p845
 aS'Aamir Khan'
-p849
+p846
 aS'investigating'
-p850
+p847
 aS'Jessica Alba'
-p851
+p848
 aS'Alec Guinness'
-p852
+p849
 aS'commander'
-p853
+p850
 aS'middle'
-p854
+p851
 aS'Lunar'
-p855
+p852
 aS'floating'
-p856
+p853
 aS'Frank Miller'
-p857
+p854
 aS'different'
-p858
+p855
 aS'author'
-p859
+p856
 aS'media'
-p860
+p857
 aS'Keir Dullea'
-p861
+p858
 aS'mobster'
-p862
+p859
 aS'speech'
-p863
+p860
 aS'Mia Farrow'
-p864
+p861
 aS'shifty'
-p865
+p862
 aS'events'
-p866
+p863
 aS'week'
-p867
+p864
 aS'oil'
-p868
+p865
 aS'Robert Mulligan'
-p869
+p866
 aS'hunter'
-p870
+p867
 aS'nest'
-p871
+p868
 aS'driver'
-p872
+p869
 aS'II'
-p873
+p870
+aS'Sergei M. Eisenstein'
+p871
 aS'Inge Landgut'
-p874
+p872
 aS'delicate'
-p875
+p873
 aS'guardians'
-p876
+p874
 aS'James Garner'
-p877
+p875
 aS'Frank Capra'
-p878
+p876
 aS'theater'
-p879
+p877
 aS'Barrier'
-p880
+p878
 aS'revelations'
-p881
+p879
 aS'charges'
-p882
+p880
 aS'Karl Malden'
-p883
+p881
 aS'Edward Burns'
-p884
+p882
 aS'Sang-kyung Kim'
-p885
+p883
 aS'Loki'
-p886
+p884
 aS'Lianella Carell'
-p887
+p885
 aS'trains'
-p888
+p886
 aS'Nazi'
-p889
+p887
 aS'taxi'
-p890
+p888
 aS'Frank Darabont'
-p891
+p889
 aS'money'
-p892
+p890
 aS'Anatoliy Solonitsyn'
-p893
+p891
 aS'actress'
-p894
+p892
 aS'violent'
-p895
+p893
 aS'John Wayne'
-p896
+p894
 aS'socialite'
-p897
+p895
 aS'death'
-p898
+p896
 aS'lets'
-p899
+p897
 aS'Romulan'
-p900
+p898
 aS'grip'
-p901
+p899
 aS'Don Cheadle'
-p902
+p900
 aS'wife.'
-p903
+p901
 aS'rises'
-p904
+p902
 aS'rules'
-p905
+p903
 aS'Island'
-p906
+p904
 aS'Rupert Grint'
-p907
+p905
 aS'Grande'
-p908
+p906
 aS'Adolphe Menjou'
-p909
+p907
 aS"Beverly D'Angelo"
-p910
+p908
 aS'world'
-p911
+p909
 aS'railroad'
-p912
+p910
 aS'clan'
-p913
+p911
 aS'fortune'
-p914
+p912
 aS'stranger'
-p915
+p913
 aS'pounds'
-p916
+p914
 aS'Edward Norton'
-p917
+p915
 aS'buddies'
-p918
+p916
 aS'London'
-p919
+p917
 aS'robbery'
-p920
+p918
 aS'robbers'
-p921
+p919
 aS'Before'
-p922
+p920
 aS'doll'
-p923
+p921
 aS'West'
-p924
+p922
 aS'competition'
-p925
-aS'Ping Lam Siu'
-p926
+p923
 aS'Gary Cooper'
-p927
+p924
 aS'Don Taylor'
-p928
+p925
 aS'Dr.'
-p929
+p926
 aS'New'
-p930
+p927
 aS'informant'
-p931
+p928
 aS'Mary'
-p932
+p929
 aS'Vienna'
-p933
+p930
 aS'David Yates'
-p934
+p931
 aS'perverse'
-p935
+p932
 aS'memories'
-p936
+p933
 aS'Men'
-p937
+p934
 aS'Scarlett Johansson'
-p938
+p935
 aS'Hugo Weaving'
-p939
+p936
 aS'freed'
-p940
+p937
 aS'Wilson Yip'
-p941
+p938
 aS'power'
-p942
+p939
 aS'Vietnam'
-p943
+p940
 aS'island'
-p944
+p941
 aS'violence'
-p945
+p942
 aS'Dick Hogan'
-p946
+p943
 aS'Blanche'
-p947
+p944
 aS'Terminator'
-p948
+p945
 aS'neighbor'
-p949
+p946
 aS'assassin'
-p950
+p947
 aS'tribe'
-p951
+p948
 aS'Nicoletta Braschi'
-p952
+p949
 aS'statuette'
-p953
+p950
 aS'Sully Boyar'
-p954
+p951
 aS'widower'
-p955
+p952
 aS'homeless'
-p956
+p953
 aS'Jim Sheridan'
-p957
+p954
 aS'Rob Reiner'
-p958
+p955
 aS'legacy'
-p959
+p956
 aS'area'
-p960
+p957
 aS'totalitarian'
-p961
+p958
 aS'Ness'
-p962
+p959
 aS'Morgan Freeman'
-p963
+p960
 aS'expatriate'
-p964
+p961
 aS'Daniel Radcliffe'
-p965
+p962
 aS'survives'
-p966
+p963
 aS'tycoon'
-p967
+p964
 aS'Christoph Waltz'
-p968
+p965
 aS'wits'
-p969
+p966
 aS'Gollum'
-p970
+p967
 aS'suffers'
-p971
+p968
 aS'Isa Danieli'
-p972
+p969
 aS'Harry'
-p973
+p970
 aS'Philip King'
-p974
+p971
 aS'land.'
-p975
+p972
 aS'Henry Bergman'
-p976
+p973
 aS'flamboyant'
-p977
+p974
 aS'sleaze'
-p978
+p975
 aS'Century'
-p979
+p976
 aS'sleazy'
-p980
+p977
 aS'Roberto Benigni'
-p981
+p978
 aS'Gregory Peck'
-p982
+p979
 aS'gone'
-p983
+p980
 aS'Michael Biehn'
-p984
+p981
 aS'Gerard Butler'
-p985
+p982
 aS'USA'
-p986
+p983
 aS'deep'
-p987
+p984
 aS'general'
-p988
+p985
 aS'How'
-p989
+p986
 aS'lifetime'
-p990
+p987
 aS'deed'
-p991
+p988
 aS'Humanity'
-p992
+p989
 aS'film'
-p993
+p990
 aS'Clive Owen'
-p994
+p991
 aS'Tatsuya Nakadai'
-p995
+p992
 aS'Mary Gibbs'
-p996
+p993
 aS'Darth'
-p997
+p994
 aS'Francis Ford Coppola'
-p998
+p995
 aS'Dark'
-p999
+p996
 aS'Amadeus'
-p1000
+p997
 aS'mathematics'
-p1001
+p998
 aS'assassin.'
-p1002
+p999
 aS'Mary Astor'
-p1003
+p1000
 aS'brash'
-p1004
+p1001
 aS'Great'
-p1005
+p1002
 aS'John Hurt'
-p1006
+p1003
 aS'Alex'
-p1007
+p1004
 aS'Charles Chaplin'
-p1008
+p1005
 aS'Stanley Donen'
-p1009
+p1006
 aS'Keith David'
-p1010
+p1007
 aS'pool'
-p1011
+p1008
 aS'assassins'
-p1012
+p1009
 aS'Mexican'
-p1013
+p1010
 aS'wife'
-p1014
+p1011
 aS'Max von Sydow'
-p1015
+p1012
 aS'Steve McQueen'
-p1016
+p1013
 aS'neighbors'
-p1017
+p1014
 aS'high-school-age'
-p1018
+p1015
 aS'Tony Roberts'
-p1019
+p1016
 aS'suburban'
-p1020
+p1017
 aS'Paul Butcher'
-p1021
+p1018
 aS'Renton'
-p1022
+p1019
 aS'children'
-p1023
+p1020
 aS'reluctant'
-p1024
+p1021
 aS'Brown'
-p1025
+p1022
 aS'apartment'
-p1026
+p1023
 aS'former'
-p1027
+p1024
 aS'safety'
-p1028
+p1025
 aS'Doo-Man'
-p1029
+p1026
 aS'activities'
-p1030
+p1027
 aS'woman'
-p1031
+p1028
 aS'returning'
-p1032
+p1029
 aS'horror'
-p1033
+p1030
 aS'Andy Wachowski'
-p1034
+p1031
 aS'Alaska'
-p1035
+p1032
 aS'psychologist'
-p1036
+p1033
 aS'sons'
-p1037
+p1034
 aS'Uma Thurman'
-p1038
+p1035
 aS'Ridley Scott'
-p1039
+p1036
 aS'John Sturges'
-p1040
+p1037
 aS'Bonnie Bedelia'
-p1041
+p1038
 aS'heist'
-p1042
+p1039
 aS'manager'
-p1043
+p1040
 aS'Toni Collette'
-p1044
+p1041
 aS'Vito'
-p1045
+p1042
 aS'Ring'
-p1046
+p1043
 aS'neighborhood'
-p1047
+p1044
 aS'Jason Flemyng'
-p1048
+p1045
 aS'problem...'
-p1049
+p1046
 aS'lawyer'
-p1050
+p1047
 aS'Charlton Heston'
-p1051
+p1048
 aS'turning'
-p1052
+p1049
 aS'East'
-p1053
+p1050
 aS'Shelley Duvall'
-p1054
+p1051
 aS'creatures'
-p1055
+p1052
 aS'Tom Skerritt'
-p1056
+p1053
 aS'Korea'
-p1057
+p1054
 aS'Janet Leigh'
-p1058
+p1055
 aS'eminent'
-p1059
+p1056
 aS'Angus Macfadyen'
-p1060
+p1057
 aS'version'
-p1061
+p1058
 aS'Kirk Douglas'
-p1062
+p1059
 aS'nurse'
-p1063
+p1060
 aS'Jonathan Demme'
-p1064
+p1061
 aS'womb'
-p1065
+p1062
 aS'tattoos'
-p1066
+p1063
 aS'recruits'
-p1067
+p1064
 aS'Faye Dunaway'
-p1068
+p1065
 aS'Charlie'
-p1069
+p1066
 aS'ballet'
-p1070
+p1067
 aS'answers'
-p1071
+p1068
 aS'Arthur'
-p1072
+p1069
 aS'situation'
-p1073
+p1070
 aS'John Fiedler'
-p1074
+p1071
 aS'Tsutomu Tatsumi'
-p1075
+p1072
 aS'Richard Marquand'
-p1076
+p1073
 aS'Rutger Hauer'
-p1077
+p1074
 aS'kissing'
-p1078
+p1075
 aS'addictions'
-p1079
+p1076
 aS'monk.'
-p1080
+p1077
 aS'search'
-p1081
+p1078
+aS'naval'
+p1079
 aS'soldier'
-p1082
+p1080
 aS'Robert Redford'
-p1083
+p1081
 aS'advertising'
-p1084
+p1082
 aS'action'
-p1085
+p1083
 aS'Odette'
-p1086
+p1084
 aS'Forrest'
-p1087
+p1085
 aS'inspires'
-p1088
+p1086
 aS'Prohibition-era'
-p1089
+p1087
 aS'trainer'
-p1090
+p1088
 aS'Robert Downey Jr.'
-p1091
+p1089
 aS'family'
-p1092
+p1090
 aS'Tom Cruise'
-p1093
+p1091
 aS'America.'
-p1094
+p1092
 aS'Richard White'
-p1095
+p1093
 aS'captor'
-p1096
+p1094
 aS'T-101'
-p1097
+p1095
 aS'Robert Walker'
-p1098
+p1096
 aS'Agnes Moorehead'
-p1099
+p1097
 aS'takes'
-p1100
+p1098
 aS'Brian De Palma'
-p1101
+p1099
 aS'Neill Blomkamp'
-p1102
+p1100
 aS'Film-Noir'
-p1103
+p1101
 aS'John Savage'
-p1104
+p1102
 aS'Connor'
-p1105
+p1103
 aS'Orlando Bloom'
-p1106
+p1104
 aS'Noriko Hidaka'
-p1107
+p1105
 aS'teen'
-p1108
+p1106
 aS'diamond'
-p1109
+p1107
 aS'Candice Bergen'
-p1110
+p1108
 aS'company'
-p1111
+p1109
 aS'domination'
-p1112
+p1110
 aS'Steven Spielberg'
-p1113
+p1111
 aS'Frank Sinatra'
-p1114
+p1112
 aS'town'
-p1115
+p1113
 aS'Senate.'
-p1116
+p1114
 aS'recall'
-p1117
+p1115
 aS'policemen'
-p1118
+p1116
 aS'patriarch'
-p1119
+p1117
 aS'Coney'
-p1120
+p1118
 aS'guards'
-p1121
+p1119
 aS'Bill Murray'
-p1122
+p1120
 aS'wrestler'
-p1123
+p1121
 aS'Hitler'
-p1124
+p1122
 aS'history'
-p1125
+p1123
 aS'shark'
-p1126
+p1124
 aS'Jason Robards'
-p1127
+p1125
 aS'scam'
-p1128
+p1126
 aS'William Sylvester'
-p1129
+p1127
 aS'Shelley Winters'
-p1130
+p1128
 aS'collision'
-p1131
+p1129
 aS'Reginald VelJohnson'
-p1132
+p1130
 aS'information'
-p1133
+p1131
 aS'Burt Young'
-p1134
+p1132
 aS'court'
-p1135
+p1133
 aS'underwear.'
-p1136
+p1134
 aS'acts'
-p1137
+p1135
 aS'influences'
-p1138
+p1136
 aS'Benicio Del Toro'
-p1139
+p1137
 aS'Clark Gable'
-p1140
+p1138
 aS'Lower'
-p1141
+p1139
 aS'Ezra Miller'
-p1142
+p1140
 aS'Jay Baruchel'
-p1143
+p1141
 aS'Tom Hanks'
-p1144
+p1142
 aS'adventure'
-p1145
+p1143
 aS'refuse'
-p1146
+p1144
 aS'Elizabeth McGovern'
-p1147
+p1145
 aS'Terry George'
-p1148
+p1146
 aS'Mexico'
-p1149
+p1147
 aS'footsteps'
-p1150
+p1148
 aS'Hugh Jackman'
-p1151
+p1149
 aS'Lamberto Maggiorani'
-p1152
+p1150
 aS'dragon'
-p1153
+p1151
 aS'hobbit'
-p1154
+p1152
 aS'Laurence Harvey'
-p1155
+p1153
 aS'dream'
-p1156
+p1154
 aS'Dobbs'
-p1157
+p1155
 aS'What'
-p1158
+p1156
 aS'help'
-p1159
+p1157
 aS'hierarchy'
-p1160
+p1158
 aS'mission'
-p1161
+p1159
 aS'Jedi'
-p1162
+p1160
 aS'scientist'
-p1163
+p1161
 aS'John Carradine'
-p1164
+p1162
 aS'existence'
-p1165
+p1163
 aS'Leia'
-p1166
+p1164
 aS'MIT'
-p1167
+p1165
 aS'Benjamin'
-p1168
+p1166
 aS'possessions'
-p1169
+p1167
 aS'forebodings'
-p1170
+p1168
 aS'assaulting'
-p1171
+p1169
 aS'Adrien Brody'
-p1172
+p1170
 aS'Gore Verbinski'
-p1173
+p1171
 aS'John Wray'
-p1174
+p1172
 aS'bout'
-p1175
+p1173
 aS'Daryl Hannah'
-p1176
+p1174
 aS'abandons'
-p1177
+p1175
 aS'postwar'
-p1178
+p1176
 aS'Michael'
-p1179
+p1177
 aS'Denholm Elliott'
-p1180
+p1178
 aS'Claudia Cardinale'
-p1181
+p1179
 aS'Ralph Meeker'
-p1182
+p1180
 aS'mystery'
-p1183
+p1181
 aS'Edward G. Robinson'
-p1184
+p1182
 aS'pregnant'
-p1185
+p1183
 aS'truths'
-p1186
+p1184
 aS'Scottish'
-p1187
+p1185
 aS'fairy'
-p1188
+p1186
 aS'Sport'
-p1189
+p1187
 aS'friendship'
-p1190
+p1188
 aS'Debbie Reynolds'
-p1191
+p1189
 aS'breakdown'
-p1192
+p1190
 aS'Zone'
-p1193
+p1191
 aS'Gunderson'
-p1194
+p1192
 aS'David Morse'
-p1195
+p1193
 aS'Tyrone Power'
-p1196
+p1194
 aS'persona'
-p1197
+p1195
 aS'Virginia Cherrill'
-p1198
+p1196
 aS'operation'
-p1199
+p1197
 aS'insurance'
-p1200
+p1198
 aS'flower'
-p1201
+p1199
 aS'Michael Curtiz'
-p1202
+p1200
 aS'alcohol'
-p1203
+p1201
 aS'clandestine'
-p1204
+p1202
 aS'I'
-p1205
+p1203
 aS'Eight'
-p1206
+p1204
 aS'Doom'
-p1207
+p1205
 aS'Matthew Broderick'
-p1208
+p1206
 aS'circumstance'
-p1209
+p1207
 aS'Robert Zemeckis'
-p1210
+p1208
 aS'Alfred Hitchcock'
-p1211
+p1209
 aS'Plaza'
-p1212
+p1210
 aS'Drama'
-p1213
+p1211
 aS'Diane Keaton'
-p1214
+p1212
 aS'beginning'
-p1215
+p1213
 aS'Marlon Brando'
-p1216
+p1214
 aS'launch'
-p1217
+p1215
 aS'Martin Freeman'
-p1218
+p1216
 aS'prejudice'
-p1219
+p1217
 aS'investigates'
-p1220
+p1218
 aS'undergo'
-p1221
+p1219
 aS'co-operates'
-p1222
+p1220
 aS'Marisa Berenson'
-p1223
+p1221
 aS'girls'
-p1224
+p1222
 aS'number'
-p1225
+p1223
 aS'Indian'
-p1226
+p1224
 aS'visions'
-p1227
+p1225
 aS'M. Night Shyamalan'
-p1228
+p1226
 aS'Geoffrey Rush'
-p1229
+p1227
 aS'story'
-p1230
+p1228
 aS'"'
-p1231
+p1229
 aS'heads'
-p1232
+p1230
 aS'family.'
-p1233
+p1231
 aS'bookmakers'
-p1234
+p1232
 aS'Christopher Carley'
-p1235
+p1233
 aS'steals'
-p1236
+p1234
 aS'scheme'
-p1237
+p1235
 aS'aristocracy'
-p1238
+p1236
 aS'ex-TV'
-p1239
+p1237
 aS'ravings'
-p1240
+p1238
 aS'relationship'
-p1241
+p1239
 aS'hotel'
-p1242
+p1240
 aS'park'
-p1243
+p1241
 aS'part'
-p1244
+p1242
 aS'kind'
-p1245
+p1243
 aS'bride'
-p1246
+p1244
 aS'Donnie Yen'
-p1247
+p1245
 aS'Suzanne Pleshette'
-p1248
+p1246
 aS'Mumbai'
-p1249
+p1247
 aS'Jack Lemmon'
-p1250
+p1248
 aS'Patrick Magee'
-p1251
+p1249
 aS'B'
-p1252
+p1250
 aS'Corey Feldman'
-p1253
+p1251
 aS'paths'
-p1254
+p1252
 aS'John Travolta'
-p1255
+p1253
 aS'check'
-p1256
+p1254
 aS'province'
-p1257
+p1255
 aS'Min-sik Choi'
-p1258
+p1256
 aS'towards'
-p1259
+p1257
 aS'Adam Baldwin'
-p1260
+p1258
 aS'Martins'
-p1261
+p1259
 aS'eggs'
-p1262
+p1260
 aS'sets'
-p1263
+p1261
 aS'virus'
-p1264
+p1262
 aS'Nathalie Boltt'
-p1265
+p1263
 aS'plan'
-p1266
+p1264
 aS'Grail'
-p1267
+p1265
 aS'pittance'
-p1268
+p1266
 aS'The'
-p1269
+p1267
 aS'screenwriter'
-p1270
+p1268
 aS'Martin Scorsese'
-p1271
+p1269
 aS'Suraj Sharma'
-p1272
+p1270
 aS'Albert Brooks'
-p1273
+p1271
 aS'Robinson'
-p1274
+p1272
 aS'rebels'
-p1275
+p1273
 aS'Han'
-p1276
+p1274
 aS'Woody Allen'
-p1277
+p1275
 aS'Hill'
-p1278
+p1276
 aS'Alexander Gould'
-p1279
+p1277
 aS'NYPD'
-p1280
+p1278
 aS'delinquent'
-p1281
+p1279
 aS'justice'
-p1282
+p1280
 aS'Lillian Gish'
-p1283
+p1281
 aS'writer'
-p1284
+p1282
 aS'paranoia'
-p1285
+p1283
 aS'idiots'
-p1286
+p1284
 aS'Lee Unkrich'
-p1287
+p1285
 aS'Orson Welles'
-p1288
+p1286
 aS'circle'
-p1289
+p1287
 aS'giants'
-p1290
+p1288
 aS'magicians'
-p1291
+p1289
 aS'hit'
-p1292
+p1290
 aS'Steve Buscemi'
-p1293
+p1291
 aS'While'
-p1294
+p1292
 aS'Peter Brocco'
-p1295
+p1293
 aS'reporters'
-p1296
+p1294
 aS'Connie Nielsen'
-p1297
+p1295
 aS'Ellen Page'
-p1298
+p1296
 aS'enemy'
-p1299
+p1297
 aS'Raymond'
-p1300
+p1298
 aS'Christopher Lloyd'
-p1301
+p1299
 aS'witches'
-p1302
+p1300
 aS'archaeologist'
-p1303
+p1301
 aS'outlaw'
-p1304
+p1302
 aS'insane'
-p1305
+p1303
 aS'set'
-p1306
+p1304
 aS'art'
-p1307
+p1305
 aS'intelligence'
-p1308
+p1306
 aS'lion'
-p1309
+p1307
 aS'Shire'
-p1310
+p1308
 aS'sea'
-p1311
+p1309
 aS'Disgruntled'
-p1312
+p1310
 aS'Mark Ruffalo'
-p1313
+p1311
 aS'Ang Lee'
-p1314
+p1312
 aS'learns'
-p1315
+p1313
 aS'Joan Cusack'
-p1316
+p1314
 aS'Lee Remick'
-p1317
+p1315
 aS'Park'
-p1318
+p1316
 aS'stowaway'
-p1319
+p1317
 aS'Walter Connolly'
-p1320
+p1318
 aS'Michelle Pfeiffer'
-p1321
+p1319
 aS'conditions'
-p1322
+p1320
 aS'corruption'
-p1323
+p1321
 aS'King'
-p1324
+p1322
 aS'Jason Cope'
-p1325
+p1323
 aS'missing'
-p1326
+p1324
 aS'Sareh Bayat'
-p1327
+p1325
 aS'Tate Taylor'
-p1328
+p1326
 aS'outfit'
-p1329
+p1327
 aS'Harry Myers'
-p1330
+p1328
 aS'Annie'
-p1331
+p1329
 aS'Fred Zinnemann'
-p1332
+p1330
 aS'Detective'
-p1333
+p1331
 aS'Jack Oakie'
-p1334
+p1332
 aS'restaurant'
-p1335
+p1333
 aS'Carrie Henn'
-p1336
+p1334
 aS'Henning Moritzen'
-p1337
+p1335
 aS'Curran'
-p1338
+p1336
+aS'Aleksandr Antonov'
+p1337
 aS'connection'
-p1339
+p1338
 aS'tightens'
-p1340
+p1339
 aS'occurrences.'
-p1341
+p1340
 aS'Guy Ritchie'
-p1342
+p1341
 aS'finds'
-p1343
+p1342
 aS'Teddy'
-p1344
+p1343
 aS'community'
-p1345
+p1344
 aS'dancer'
-p1346
+p1345
 aS'Alison Crosbie'
-p1347
+p1346
 aS'village'
-p1348
+p1347
 aS'War'
-p1349
+p1348
 aS'Giorgio Cantarini'
-p1350
+p1349
 aS'publishing'
-p1351
+p1350
 aS'suburbs'
-p1352
+p1351
 aS'secret'
-p1353
+p1352
 aS'manhunt'
-p1354
+p1353
 aS'Carl'
-p1355
+p1354
 aS'Leila Hatami'
-p1356
+p1355
 aS'champion'
-p1357
+p1356
 aS'cyborg'
-p1358
+p1357
 aS'Allied'
-p1359
+p1358
 aS'lives'
-p1360
+p1359
 aS'stolen'
-p1361
+p1360
 aS'Old'
-p1362
+p1361
 aS'Chinese'
-p1363
+p1362
 aS'Carrie Fisher'
-p1364
+p1363
 aS'holocaust'
-p1365
+p1364
 aS'governor'
-p1366
+p1365
 aS'John Goodman'
-p1367
+p1366
 aS'Akira Kurosawa'
-p1368
+p1367
 aS'McCandless'
-p1369
+p1368
 aS'Oliver Hirschbiegel'
-p1370
+p1369
 aS'McClane'
-p1371
+p1370
 aS'guide'
-p1372
+p1371
 aS'flees'
-p1373
+p1372
 aS'City'
-p1374
+p1373
 aS'underground'
-p1375
+p1374
 aS'embarks'
-p1376
+p1375
 aS'Sean Bean'
-p1377
+p1376
 aS'Dictator'
-p1378
+p1377
 aS'facade'
-p1379
+p1378
 aS'Luke'
-p1380
+p1379
 aS'disappearance'
-p1381
+p1380
 aS'Adventure'
-p1382
+p1381
 aS'strangers'
-p1383
+p1382
 aS'Federico Fellini'
-p1384
+p1383
 aS'coma.'
-p1385
+p1384
 aS'mountain'
-p1386
+p1385
 aS'henchmen'
-p1387
+p1386
 aS'Sigourney Weaver'
-p1388
+p1387
 aS'uses'
-p1389
+p1388
 aS'decency'
-p1390
+p1389
 aS'Tim Roth'
-p1391
+p1390
 aS'timid'
-p1392
+p1391
 aS'task'
-p1393
+p1392
 aS'spaceman'
-p1394
+p1393
 aS'Haya Harareet'
-p1395
+p1394
 aS'Holmes Osborne'
-p1396
+p1395
 aS'Andie MacDowell'
-p1397
+p1396
 aS'person'
-p1398
+p1397
 aS'edge'
-p1399
+p1398
 aS'Katharine Ross'
-p1400
+p1399
 aS'POW'
-p1401
+p1400
 aS'Gruber'
-p1402
+p1401
 aS'Farley Granger'
-p1403
+p1402
 aS'Jordan Nagai'
-p1404
+p1403
 aS'Madre'
-p1405
+p1404
 aS'shape'
-p1406
+p1405
 aS'Reconstruction'
-p1407
+p1406
 aS'mob'
-p1408
+p1407
 aS'Comedy'
-p1409
+p1408
 aS'Tony Curtis'
-p1410
+p1409
 aS'Amity'
-p1411
+p1410
 aS'cemetery'
-p1412
+p1411
 aS'Tom Murray'
-p1413
+p1412
 aS'parents'
-p1414
+p1413
 aS'cub'
-p1415
+p1414
 aS'Dana Andrews'
-p1416
+p1415
 aS'Marine'
-p1417
+p1416
 aS'Avengers'
-p1418
+p1417
 aS'Talia Shire'
-p1419
+p1418
 aS'Daniels'
-p1420
+p1419
 aS'victims'
-p1421
+p1420
 aS'They'
-p1422
+p1421
 aS'Robert Shaw'
-p1423
+p1422
 aS'Oh'
-p1424
+p1423
 aS'couple'
-p1425
+p1424
 aS'Roe-ha Kim'
-p1426
+p1425
 aS'game'
-p1427
+p1426
 aS'quest'
-p1428
+p1427
 aS'bloody'
-p1429
+p1428
 aS'wings'
-p1430
+p1429
 aS'Kirk'
-p1431
+p1430
 aS'George Kennedy'
-p1432
+p1431
 aS'Tim Robbins'
-p1433
+p1432
 aS'individuals'
-p1434
+p1433
 aS'Brad Bird'
-p1435
+p1434
 aS'pals'
-p1436
+p1435
 aS'Monstropolis'
-p1437
+p1436
 aS'Bruce Willis'
-p1438
+p1437
 aS'Andy'
-p1439
+p1438
 aS'Tim Allen'
-p1440
+p1439
 aS'affects'
-p1441
+p1440
 aS'decision'
-p1442
+p1441
 aS'religion'
-p1443
+p1442
 aS'Malcolm McDowell'
-p1444
+p1443
 aS'Smaug'
-p1445
+p1444
 aS'Hue'
-p1446
+p1445
 aS'crooks'
-p1447
+p1446
 aS'rug'
-p1448
+p1447
 aS'Antonio'
-p1449
+p1448
 aS'become'
-p1450
+p1449
 aS'refuses'
-p1451
+p1450
 aS'Bob'
-p1452
+p1451
 aS'Martin Balsam'
-p1453
+p1452
 aS'Viola Davis'
-p1454
+p1453
 aS'Ron'
-p1455
+p1454
 aS'Bilbo'
-p1456
+p1455
 aS'militia'
-p1457
+p1456
 aS'Jake Gyllenhaal'
-p1458
+p1457
 aS'Dorothy'
-p1459
+p1458
 aS'Captain'
-p1460
+p1459
 aS'Leonardo DiCaprio'
-p1461
+p1460
 aS'Row'
-p1462
+p1461
 aS'ensue'
-p1463
+p1462
 aS'Their'
-p1464
+p1463
 aS'seasons'
-p1465
+p1464
 aS'William H. Macy'
-p1466
-aS'apartments'
-p1467
+p1465
 aS'Lewis Milestone'
-p1468
+p1466
 aS'John Lasseter'
-p1469
+p1467
 aS'John Cleese'
-p1470
+p1468
 aS'Peter Finch'
-p1471
+p1469
 aS'newsman'
-p1472
+p1470
 aS'hapless'
-p1473
+p1471
 aS'inept'
-p1474
+p1472
 aS'Jane Darwell'
-p1475
+p1473
 aS'slums'
-p1476
+p1474
 aS'boys'
-p1477
+p1475
 aS'Oliver Stone'
-p1478
+p1476
 aS'Africa'
-p1479
+p1477
 aS'planet'
-p1480
+p1478
 aS'Marisa Tomei'
-p1481
+p1479
 aS'defendant'
-p1482
-aS'Kar Wai Wong'
-p1483
+p1480
 aS'aversion'
-p1484
+p1481
 aS'Master'
-p1485
+p1482
 aS'replicants'
-p1486
+p1483
 aS'door.'
-p1487
+p1484
 aS'influence'
-p1488
+p1485
 aS'Rajkumar Hirani'
-p1489
+p1486
 aS'To'
-p1490
+p1487
 aS'Sierra'
-p1491
+p1488
 aS'John Carpenter'
-p1492
+p1489
 aS'troublemaker'
-p1493
+p1490
 aS'Manhattan'
-p1494
+p1491
 aS'Nazis'
-p1495
+p1492
 aS'Marilyn Monroe'
-p1496
+p1493
 aS'Commissioner'
-p1497
+p1494
 aS'sullen'
-p1498
+p1495
 aS'insomniac'
-p1499
+p1496
 aS'TV'
-p1500
+p1497
 aS'Max'
-p1501
+p1498
 aS'politicians'
-p1502
+p1499
 aS'department'
-p1503
+p1500
 aS'Curtin'
-p1504
+p1501
 aS'Paul Dano'
-p1505
+p1502
 aS'Man'
-p1506
+p1503
 aS'Bryce Dallas Howard'
-p1507
+p1504
 aS"Ryan O'Neal"
-p1508
+p1505
 aS'Peter Stormare'
-p1509
+p1506
 aS'T.'
-p1510
+p1507
 aS'meaning'
-p1511
+p1508
 aS'Emmett'
-p1512
+p1509
 aS'Craig Ferguson'
-p1513
+p1510
 aS'sides'
-p1514
+p1511
 aS'land'
-p1515
+p1512
 aS'fighter'
-p1516
+p1513
 aS'holes'
-p1517
+p1514
 aS'Tricked'
-p1518
+p1515
 aS'Ben Gazzara'
-p1519
+p1516
 aS'Humphrey Bogart'
-p1520
+p1517
 aS'rallies'
-p1521
+p1518
 aS'Turner'
-p1522
+p1519
 aS'rescues'
-p1523
+p1520
 aS'Warsaw'
-p1524
+p1521
 aS'wilderness.'
-p1525
+p1522
 aS'Yeong-su Oh'
-p1526
+p1523
 aS'Helena Bonham Carter'
-p1527
+p1524
 aS'results'
-p1528
+p1525
 aS'commoner'
-p1529
+p1526
 aS'Bengal'
-p1530
+p1527
 aS'alien'
-p1531
+p1528
 aS'weatherman'
-p1532
+p1529
 aS'Spock'
-p1533
+p1530
 aS'infatuation'
-p1534
+p1531
 aS'flashback'
-p1535
+p1532
 aS'Clyde Bruckman'
-p1536
+p1533
 aS'Jinpachi Nezu'
-p1537
+p1534
 aS'detectives'
-p1538
+p1535
 aS'H.A.L.'
-p1539
+p1536
 aS'gold'
-p1540
+p1537
 aS'daring'
-p1541
+p1538
 aS'young'
-p1542
+p1539
 aS'Gladys George'
-p1543
+p1540
 aS'Anthony Perkins'
-p1544
+p1541
 aS'Sefton'
-p1545
+p1542
 aS'helps'
-p1546
+p1543
 aS'stable'
-p1547
+p1544
 aS'Tommy Lee Jones'
-p1548
+p1545
 aS'Now'
-p1549
+p1546
 aS'sent'
-p1550
+p1547
 aS'Mrs.'
-p1551
+p1548
 aS'Michael Mann'
-p1552
+p1549
 aS'Thomas Mitchell'
-p1553
+p1550
 aS'surgeon'
-p1554
+p1551
 aS'notes'
-p1555
+p1552
 aS'compassionate'
-p1556
+p1553
 aS'Tanay Chheda'
-p1557
+p1554
 aS'race'
-p1558
+p1555
 aS'Coleen Gray'
-p1559
+p1556
 aS'Cathy Moriarty'
-p1560
+p1557
 aS'Skywalker'
-p1561
+p1558
 aS'traveling'
-p1562
+p1559
 aS'Ellen DeGeneres'
-p1563
+p1560
 aS'Victor Jory'
-p1564
+p1561
 aS'Joss Whedon'
-p1565
+p1562
 aS'Lonely'
-p1566
+p1563
 aS'plays'
-p1567
+p1564
 aS'business'
-p1568
+p1565
 aS'dealer'
-p1569
+p1566
 aS'colonel'
-p1570
+p1567
 aS'desperado'
-p1571
+p1568
 aS'Joe Pesci'
-p1572
+p1569
 aS'John Huston'
-p1573
+p1570
 aS'Reef'
-p1574
+p1571
 aS'America'
-p1575
+p1572
 aS'Rusesabagina'
-p1576
+p1573
 aS'body'
-p1577
+p1574
 aS'Alida Valli'
-p1578
+p1575
 aS'Light'
-p1579
+p1576
 aS'Wilford Brimley'
-p1580
+p1577
 aS'Tutsi'
-p1581
+p1578
 aS'others'
-p1582
+p1579
 aS'silent-film'
-p1583
+p1580
 aS'Greed'
-p1584
+p1581
 aS'Gene Kelly'
-p1585
+p1582
 aS'great'
-p1586
+p1583
 aS'survivor'
-p1587
+p1584
 aS'Harrison Ford'
-p1588
+p1585
 aS"Paige O'Hara"
-p1589
+p1586
 aS'Stephen Baldwin'
-p1590
+p1587
 aS'Arabia'
-p1591
+p1588
 aS'implement'
-p1592
+p1589
 aS'maker'
-p1593
+p1590
 aS'Joel Coen'
-p1594
+p1591
 aS'Mountain'
-p1595
+p1592
 aS'Vincent Cassel'
-p1596
+p1593
 aS'Vince Edwards'
-p1597
+p1594
 aS'Emory'
-p1598
+p1595
 aS'DuBois'
-p1599
+p1596
 aS'confession'
-p1600
+p1597
 aS'Nick'
-p1601
+p1598
 aS'Yip'
-p1602
+p1599
 aS'Carl Miller'
-p1603
+p1600
 aS'Solo'
-p1604
+p1601
 aS'Bob Gunton'
-p1605
+p1602
 aS'David Carradine'
-p1606
+p1603
 aS'Alec Cawthorne'
-p1607
+p1604
 aS'Jeremy Irons'
-p1608
+p1605
 aS'Sophie Marceau'
-p1609
+p1606
 aS'examination'
-p1610
+p1607
 aS'themselves'
-p1611
+p1608
 aS'Matthew Modine'
-p1612
+p1609
 aS'possession'
-p1613
+p1610
 aS'Richard Basehart'
-p1614
+p1611
 aS'imprisons'
-p1615
+p1612
 aS'becomes'
-p1616
+p1613
 aS'musician'
-p1617
+p1614
 aS'Josh Brolin'
-p1618
+p1615
 aS'Gump'
-p1619
+p1616
 aS'rabbit'
-p1620
+p1617
 aS'rivalry'
-p1621
+p1618
 aS'women'
-p1622
+p1619
 aS'account'
-p1623
+p1620
 aS'crosses'
-p1624
+p1621
 aS'animals'
-p1625
+p1622
 aS'meek'
-p1626
+p1623
 aS'Brad Pitt'
-p1627
+p1624
 aS'Graham Chapman'
-p1628
+p1625
 aS"Peter O'Toole"
-p1629
+p1626
 aS'Leandro Firmino'
-p1630
+p1627
 aS'Tony Kaye'
-p1631
+p1628
 aS'Lundegaard'
-p1632
+p1629
 aS'servants'
-p1633
+p1630
 aS'Nevada'
-p1634
+p1631
 aS'something'
-p1635
+p1632
 aS'control'
-p1636
+p1633
 aS'bent'
-p1637
+p1634
 aS'escapes'
-p1638
+p1635
 aS'process'
-p1639
+p1636
 aS'Danny Lloyd'
-p1640
+p1637
 aS'Mr.'
-p1641
+p1638
 aS'Dorothy Comingore'
-p1642
+p1639
 aS'ascension'
-p1643
+p1640
 aS'Christmas'
-p1644
+p1641
 aS'rape'
-p1645
+p1642
 aS'Carrie-Anne Moss'
-p1646
+p1643
 aS'Ka Tung Lam'
-p1647
+p1644
 aS'Penelope Allen'
-p1648
+p1645
 aS'boxing'
-p1649
+p1646
 aS'Fred MacMurray'
-p1650
+p1647
 aS'struggles'
-p1651
+p1648
 aS'Beast'
-p1652
+p1649
 aS'forest'
-p1653
+p1650
 aS'Peter Jackson'
-p1654
+p1651
 aS'restitution'
-p1655
+p1652
 aS'intelligent'
-p1656
+p1653
 aS'George Sanders'
-p1657
+p1654
 aS'Tim Holt'
-p1658
+p1655
 aS'aspiring'
-p1659
+p1656
 aS'farm'
-p1660
+p1657
 aS'Roman'
-p1661
+p1658
 aS'Hermione'
-p1662
+p1659
 aS'Gwyneth Paltrow'
-p1663
+p1660
 aS'Clint Eastwood'
-p1664
+p1661
 aS'Chan-wook Park'
-p1665
+p1662
 aS'Marlowe'
-p1666
+p1663
 aS'S.O.S.'
-p1667
+p1664
 aS'gone.'
-p1668
+p1665
 aS'Joon-ho Bong'
-p1669
+p1666
 aS'lines'
-p1670
+p1667
 aS'chief'
-p1671
+p1668
 aS'stakes'
-p1672
+p1669
 aS'Tom Hulce'
-p1673
+p1670
 aS'move'
-p1674
+p1671
 aS'Lou Romano'
-p1675
+p1672
 aS'wilds'
-p1676
+p1673
 aS'Nick Nolte'
-p1677
+p1674
 aS'tyrant'
-p1678
+p1675
 aS'galaxy'
-p1679
+p1676
 aS'gunslinger'
-p1680
+p1677
 aS'Otto Preminger'
-p1681
+p1678
 aS'Mila Kunis'
-p1682
+p1679
 aS'criminal'
-p1683
+p1680
 aS'blackmail'
-p1684
+p1681
 aS'Joaquin Phoenix'
-p1685
+p1682
 aS'Irrfan Khan'
-p1686
+p1683
 aS'Miami'
-p1687
+p1684
 aS'day'
-p1688
+p1685
 aS'Jared Leto'
-p1689
+p1686
 aS'San'
-p1690
+p1687
 aS'Sam'
-p1691
+p1688
 aS'Laura Dern'
-p1692
+p1689
 aS'truth'
-p1693
+p1690
 aS'beneath'
-p1694
+p1691
 aS'seniors'
-p1695
+p1692
 aS'Willard'
-p1696
+p1693
 aS'society'
-p1697
+p1694
 aS'witness'
-p1698
+p1695
 aS'rep'
-p1699
+p1696
 aS'Sauron'
-p1700
+p1697
 aS'James Earl Jones'
-p1701
+p1698
 aS'Chris Sarandon'
-p1702
+p1699
 aS'Landings'
-p1703
+p1700
 aS'Ian McKellen'
-p1704
+p1701
 aS'Bee Vang'
-p1705
+p1702
 aS'Saurabh Shukla'
-p1706
+p1703
 aS'Alvy'
-p1707
+p1704
 aS'princess'
-p1708
+p1705
 aS'allies'
-p1709
+p1706
 aS'Marshal'
-p1710
+p1707
 aS'Isao Takahata'
-p1711
+p1708
 aS'south'
-p1712
+p1709
 aS'obscurity'
-p1713
+p1710
 aS'Roger Allers'
-p1714
+p1711
 aS'Lea Thompson'
-p1715
+p1712
 aS'scene'
-p1716
+p1713
 aS'owner'
-p1717
+p1714
 aS'decides'
-p1718
+p1715
 aS'quality'
-p1719
+p1716
 aS'Iran'
-p1720
+p1717
+aS'demonstration'
+p1718
 aS'Tom Hooper'
-p1721
+p1719
 aS'attack'
-p1722
+p1720
 aS'Bryan Singer'
-p1723
+p1721
 aS'Marge'
-p1724
+p1722
 aS'neo-nazi'
-p1725
+p1723
 aS'Bride'
-p1726
+p1724
 aS'Charles Martin Smith'
-p1727
+p1725
 aS'Andrey Tarkovskiy'
-p1728
+p1726
 aS'institution'
-p1729
+p1727
 aS'Valeria Golino'
-p1730
+p1728
 aS'Eli Wallach'
-p1731
+p1729
 aS'William Holden'
-p1732
+p1730
 aS'patients'
-p1733
+p1731
 aS'Glen Cavender'
-p1734
+p1732
 aS'loves'
-p1735
+p1733
 aS'lover'
-p1736
+p1734
 aS'Mel Gibson'
-p1737
+p1735
 aS'Lime'
-p1738
+p1736
 aS'T-1000'
-p1739
+p1737
 aS'Sydney'
-p1740
+p1738
 aS'Jim Carrey'
-p1741
+p1739
 aS'Horcruxes'
-p1742
+p1740
 aS'Singer'
-p1743
+p1741
 aS'horrors'
-p1744
+p1742
 aS'Lee J. Cobb'
-p1745
+p1743
 aS'Ruth Roman'
-p1746
+p1744
 aS'border'
-p1747
+p1745
 aS'Batman'
-p1748
+p1746
 aS'admittance'
-p1749
+p1747
 aS'Kareena Kapoor'
-p1750
+p1748
 aS'soap'
-p1751
+p1749
 aS'PoW'
-p1752
+p1750
 aS'Gary Lockwood'
-p1753
+p1751
 aS'vengeance'
-p1754
+p1752
 aS'eight'
-p1755
+p1753
 aS'Gloria Swanson'
-p1756
+p1754
 aS'prisoner'
-p1757
+p1755
 aS'payment'
-p1758
+p1756
 aS'spirits'
-p1759
+p1757
 aS'volunteers'
-p1760
+p1758
 aS'disease'
-p1761
+p1759
 aS'businessman'
-p1762
+p1760
 aS'affair'
-p1763
+p1761
 aS'vacancy'
-p1764
+p1762
 aS'Russell Crowe'
-p1765
+p1763
 aS'soldiers'
-p1766
+p1764
 aS'asylum'
-p1767
+p1765
 aS'Barry Levinson'
-p1768
+p1766
 aS'employer'
-p1769
+p1767
 aS'Julianne Moore'
-p1770
+p1768
 aS'York'
-p1771
+p1769
 aS'Michael Caine'
-p1772
+p1770
 aS'thousands'
-p1773
+p1771
 aS'Mandy Patinkin'
-p1774
+p1772
 aS'inferior'
-p1775
+p1773
 aS'Shadows'
-p1776
+p1774
 aS'Xolani Mali'
-p1777
+p1775
 aS'Eric Idle'
-p1778
+p1776
 aS'means'
-p1779
+p1777
+aS'massacre'
+p1778
 aS'ones'
-p1780
+p1779
 aS'Mark Hamill'
-p1781
+p1780
 aS'Christopher Plummer'
-p1782
+p1781
 aS'wise'
-p1783
+p1782
 aS'entity'
-p1784
+p1783
 aS'ghetto'
-p1785
+p1784
 aS'DeLorean'
-p1786
+p1785
 aS'Fredric March'
-p1787
+p1786
 aS'rescuing'
-p1788
+p1787
 aS'teams'
-p1789
+p1788
 aS'bathhouse'
-p1790
+p1789
 aS'juror'
-p1791
+p1790
 aS"Barbara O'Neil"
-p1792
+p1791
 aS'marries'
-p1793
+p1792
 aS'widow'
-p1794
+p1793
 aS'Burnham'
-p1795
+p1794
 aS'conform'
-p1796
+p1795
 aS'Lake'
-p1797
+p1796
 aS'Sr.'
-p1798
+p1797
 aS'immigrant'
-p1799
+p1798
 aS'computer'
-p1800
+p1799
 aS'Chris Elliott'
-p1801
+p1800
 aS'closer'
-p1802
+p1801
 aS'Arnold Schwarzenegger'
-p1803
+p1802
 aS'reform'
-p1804
+p1803
 aS'Britain'
-p1805
+p1804
 aS'genius'
-p1806
+p1805
 aS'state'
-p1807
+p1806
 aS'Michael Berryman'
-p1808
+p1807
 aS'John Cassavetes'
-p1809
+p1808
 aS'Laura Linney'
-p1810
+p1809
 aS'job'
-p1811
+p1810
 aS'Ron Howard'
-p1812
+p1811
 aS'group'
-p1813
+p1812
 aS'Emile Hirsch'
-p1814
+p1813
 aS'P.'
-p1815
+p1814
 aS'FBI'
-p1816
+p1815
 aS'career'
-p1817
+p1816
 aS'Sam Mendes'
-p1818
+p1817
 aS'Donna Reed'
-p1819
+p1818
 aS'supplants'
-p1820
+p1819
 aS'drug'
-p1821
+p1820
 aS'Judy Garland'
-p1822
+p1821
 aS'Woody'
-p1823
+p1822
 aS'Mafia'
-p1824
+p1823
 aS'Franklin J. Schaffner'
-p1825
+p1824
 aS'invites'
-p1826
+p1825
 aS'Ray Liotta'
-p1827
+p1826
 aS'Simon Yam'
-p1828
+p1827
 aS'Los'
-p1829
+p1828
 aS'Robin Wright'
-p1830
+p1829
 aS'Music'
-p1831
+p1830
 aS'news'
-p1832
+p1831
 aS'confronts'
-p1833
+p1832
 aS'William Friedkin'
-p1834
+p1833
 aS'Jodie Foster'
-p1835
+p1834
 aS'outlaws'
-p1836
+p1835
 aS'gaze'
-p1837
+p1836
 aS'kitchen'
-p1838
+p1837
 aS'Haley Joel Osment'
-p1839
+p1838
 aS'circus'
-p1840
+p1839
 aS'skinhead'
-p1841
+p1840
 aS'Dent'
-p1842
+p1841
 aS'ridden'
-p1843
+p1842
 aS'Hobbit'
-p1844
+p1843
 aS'Richard Burton'
-p1845
+p1844
 aS'Force'
-p1846
+p1845
 aS'Tom Berenger'
-p1847
+p1846
 aS'appearance'
-p1848
+p1847
 aS'Eddie Albert'
-p1849
+p1848
 aS'captors'
-p1850
+p1849
 aS'surface'
-p1851
+p1850
 aS'Imperial'
-p1852
+p1851
 aS'Sally Field'
-p1853
+p1852
 aS'adultery'
-p1854
+p1853
 aS'partner'
-p1855
+p1854
 aS'Viking'
-p1856
+p1855
 aS'terrorist'
-p1857
+p1856
 aS'yuppie'
-p1858
+p1857
 aS'romance'
-p1859
+p1858
 aS'strange'
-p1860
+p1859
 aS'Karen Allen'
-p1861
+p1860
 aS'party'
-p1862
+p1861
 aS'gets'
-p1863
+p1862
 aS'kidnapping'
-p1864
+p1863
 aS'slave'
-p1865
+p1864
 aS'promoters'
-p1866
+p1865
 aS'Chris Evans'
-p1867
+p1866
 aS'student'
-p1868
+p1867
 aS'identity'
-p1869
+p1868
 aS'destruction'
-p1870
+p1869
 aS'center'
-p1871
+p1870
 aS'Susan Egan'
-p1872
+p1871
 aS'Peter Sellers'
-p1873
+p1872
 aS'Fantasy'
-p1874
+p1873
 aS'command'
-p1875
+p1874
 aS'Vittorio De Sica'
-p1876
+p1875
 aS'position'
-p1877
+p1876
 aS'Aaron Eckhart'
-p1878
+p1877
 aS'moments'
-p1879
+p1878
 aS'executive'
-p1880
+p1879
 aS'Munny'
-p1881
+p1880
 aS'Tramp'
-p1882
+p1881
 aS'Marion Mack'
-p1883
+p1882
 aS'Tahoe'
-p1884
+p1883
 aS'Evan Rachel Wood'
-p1885
+p1884
 aS'rest'
-p1886
+p1885
 aS'graduate'
-p1887
+p1886
 aS'Be'
-p1888
+p1887
 aS'Hutu'
-p1889
+p1888
 aS'Hutt'
-p1890
+p1889
 aS'point'
-p1891
+p1890
 aS'lake'
-p1892
+p1891
 aS'Hilary Swank'
-p1893
+p1892
 aS'balloons'
-p1894
+p1893
 aS'match'
-p1895
+p1894
 aS'stumbles'
-p1896
+p1895
 aS'Mickey Rourke'
-p1897
+p1896
 aS'government'
-p1898
+p1897
 aS'Joel Edgerton'
-p1899
+p1898
 aS'Ulrich Matthes'
-p1900
+p1899
 aS'messiah'
-p1901
+p1900
 aS'Kevin Costner'
-p1902
+p1901
 aS'fearsome'
-p1903
+p1902
 aS'gambling'
-p1904
+p1903
 aS'loss'
-p1905
+p1904
 aS'renegade'
-p1906
+p1905
 aS'lost'
-p1907
+p1906
 aS'clown'
-p1908
+p1907
 aS'loses'
-p1909
+p1908
 aS'controllers'
-p1910
+p1909
 aS'Walter Huston'
-p1911
+p1910
 aS'Henry Fonda'
-p1912
+p1911
 aS'works'
-p1913
+p1912
 aS'refugees'
-p1914
+p1913
 aS'Robby Benson'
-p1915
+p1914
 aS'Giulietta Masina'
-p1916
+p1915
 aS'Rwanda'
-p1917
+p1916
 aS'Finch'
-p1918
+p1917
 aS'home'
-p1919
+p1918
 aS'empire'
-p1920
+p1919
 aS'scarer'
-p1921
+p1920
 aS'happens'
-p1922
+p1921
 aS'lead'
-p1923
+p1922
 aS'Billy Crystal'
-p1924
+p1923
 aS'Alzheimer'
-p1925
+p1924
 aS'bosses'
-p1926
+p1925
 aS'Steven Bauer'
-p1927
+p1926
 aS'Ray Bolger'
-p1928
+p1927
 aS'George Roy Hill'
-p1929
+p1928
 aS'stage'
-p1930
+p1929
 aS'throne'
-p1931
+p1930
 aS'sister'
-p1932
+p1931
 aS'freedom'
-p1933
+p1932
 aS'US'
-p1934
+p1933
 aS'Gale'
-p1935
+p1934
 aS'carries'
-p1936
+p1935
 aS'Americans'
-p1937
+p1936
 aS'more..'
-p1938
+p1937
 aS'Hayao Miyazaki'
-p1939
+p1938
 aS'Japan'
-p1940
+p1939
 aS'emperor'
-p1941
+p1940
 aS'executives'
-p1942
+p1941
 aS'cadet'
-p1943
+p1942
 aS'alliance'
-p1944
+p1943
 aS'wilderness'
-p1945
+p1944
 aS'Sophie Okonedo'
-p1946
+p1945
 aS'brands'
-p1947
+p1946
 aS'champ'
-p1948
+p1947
 aS'Scientists'
-p1949
+p1948
 aS'fraud'
-p1950
+p1949
 aS'Ian Holm'
-p1951
+p1950
 aS'Covenant'
-p1952
+p1951
 aS'Mountains'
-p1953
+p1952
 aS'utopias'
-p1954
+p1953
 aS'Crooks'
-p1955
+p1954
 aS'Upon'
-p1956
+p1955
 aS'proprietor'
-p1957
+p1956
 aS'Joseph Gordon-Levitt'
-p1958
+p1957
 aS'introvert'
-p1959
+p1958
 aS'California'
-p1960
+p1959
 aS'ditsy'
+p1960
+aS'mutiny'
 p1961
 aS'Josephine Hull'
 p1962
 aS'brand'
 p1963
-aS'construction'
+aS'Grigori Aleksandrov'
 p1964
-aS'remote'
+aS'construction'
 p1965
-aS'tactics'
+aS'remote'
 p1966
-aS'Jenny'
+aS'tactics'
 p1967
-aS'Ulrich Thomsen'
+aS'Jenny'
 p1968
-aS'Wendell Corey'
+aS'Ulrich Thomsen'
 p1969
-aS'Colin Firth'
+aS'Wendell Corey'
 p1970
-aS'Walt'
+aS'Colin Firth'
 p1971
-aS'cruel'
+aS'Walt'
 p1972
-aS'convince'
+aS'cruel'
 p1973
-aS'Jonny Lee Miller'
+aS'convince'
 p1974
-aS'heiress'
+aS'Jonny Lee Miller'
 p1975
-aS'problem'
+aS'heiress'
 p1976
-aS'Lebowski'
+aS'problem'
 p1977
-aS'Elia Kazan'
+aS'Lebowski'
 p1978
-aS'Ben Kingsley'
+aS'Elia Kazan'
 p1979
-aS'Kevin Spacey'
+aS'Ben Kingsley'
 p1980
-aS'recounts'
+aS'Kevin Spacey'
 p1981
-aS'Antonella Attili'
+aS'recounts'
 p1982
-aS'enlists'
+aS'Antonella Attili'
 p1983
-aS'Gerry Robert Byrne'
+aS'enlists'
 p1984
-aS'Sean Penn'
+aS'Gerry Robert Byrne'
 p1985
-aS'I.R.A.'
+aS'Sean Penn'
 p1986
-aS'boot'
+aS'I.R.A.'
 p1987
-aS'book'
+aS'boot'
 p1988
-aS'illusion'
+aS'book'
 p1989
-aS'David Fincher'
+aS'illusion'
 p1990
-aS'star'
+aS'David Fincher'
 p1991
-aS'Jeff Goldblum'
+aS'star'
 p1992
-aS'living'
+aS'Jeff Goldblum'
 p1993
-aS'class'
+aS'living'
 p1994
-aS'Schindler'
+aS'class'
 p1995
-aS'chance'
+aS'Schindler'
 p1996
-aS'Tom Sizemore'
+aS'chance'
 p1997
-aS'friends'
+aS'Tom Sizemore'
 p1998
-aS'Musical'
+aS'friends'
 p1999
-aS'South'
+aS'Musical'
 p2000
-aS'Robert De Niro'
+aS'South'
 p2001
-aS'Pete Docter'
+aS'Robert De Niro'
 p2002
-aS'Sparrow'
+aS'Pete Docter'
 p2003
-aS'Ellen Widmann'
+aS'Sparrow'
 p2004
-aS'Sean Connery'
+aS'Ellen Widmann'
 p2005
-aS'Toshiyuki Amagasa'
+aS'Sean Connery'
 p2006
-aS'Elwood'
+aS'Toshiyuki Amagasa'
 p2007
-aS'cartel'
+aS'Elwood'
 p2008
-aS'biotechnology'
+aS'cartel'
 p2009
+aS'biotechnology'
+p2010
 a.

@@ -1,662 +1,662 @@
 (dp0
-I1
+I0
 S'Frank Darabont'
 p1
-sI2
+sI1
 S'Francis Ford Coppola'
 p2
-sI3
+sI2
 S'Francis Ford Coppola'
 p3
-sI4
+sI3
 S'Quentin Tarantino'
 p4
-sI5
+sI4
 S'Sergio Leone'
 p5
-sI6
+sI5
 S'Sidney Lumet'
 p6
-sI7
+sI6
 S'Christopher Nolan'
 p7
-sI8
+sI7
 S'Steven Spielberg'
 p8
-sI9
+sI8
 S'Peter Jackson'
 p9
-sI10
+sI9
 S'David Fincher'
 p10
-sI11
+sI10
 S'Irvin Kershner'
 p11
-sI12
+sI11
 S'Peter Jackson'
 p12
-sI13
+sI12
 S'Milos Forman'
 p13
-sI14
+sI13
 S'Christopher Nolan'
 p14
-sI15
+sI14
 S'Martin Scorsese'
 p15
-sI16
+sI15
 S'George Lucas'
 p16
-sI18
+sI16
 S'Robert Zemeckis'
 p17
-sI19
+sI17
 S'Andy Wachowski'
 p18
-sI20
+sI18
 S'Peter Jackson'
 p19
-sI21
+sI19
 S'Fernando Meirelles'
 p20
-sI22
+sI20
 S'David Fincher'
 p21
-sI23
+sI21
 S'Jonathan Demme'
 p22
-sI24
+sI22
 S'Sergio Leone'
 p23
-sI25
+sI23
 S'Michael Curtiz'
 p24
-sI26
+sI24
 S'Bryan Singer'
 p25
-sI27
+sI25
 S'Steven Spielberg'
 p26
-sI28
+sI26
 S'Alfred Hitchcock'
 p27
-sI29
+sI27
 S'Frank Capra'
 p28
-sI30
+sI28
 S'Alfred Hitchcock'
 p29
-sI32
+sI29
 S'Billy Wilder'
 p30
-sI33
+sI30
 S'Tony Kaye'
 p31
-sI34
+sI31
 S'Christopher Nolan'
 p32
-sI35
+sI32
 S'Francis Ford Coppola'
 p33
-sI36
+sI33
 S'James Cameron'
 p34
-sI37
+sI34
 S'Steven Spielberg'
 p35
-sI38
+sI35
 S'Stanley Kubrick'
 p36
-sI39
+sI36
 S'Charles Chaplin'
 p37
-sI40
+sI37
 S'Ridley Scott'
 p38
-sI41
+sI38
 S'Alfred Hitchcock'
 p39
-sI42
+sI39
 S'Hayao Miyazaki'
 p40
-sI43
+sI40
 S'Charles Chaplin'
 p41
-sI44
+sI41
 S'Quentin Tarantino'
 p42
-sI45
+sI42
 S'Orson Welles'
 p43
-sI46
+sI43
 S'Robert Zemeckis'
 p44
-sI47
+sI44
 S'Stanley Kubrick'
 p45
-sI48
+sI45
 S'Christopher Nolan'
 p46
-sI49
+sI46
 S'Roman Polanski'
 p47
-sI50
+sI47
 S'Roberto Benigni'
 p48
-sI51
+sI48
 S'Martin Scorsese'
 p49
-sI52
+sI49
 S'Fritz Lang'
 p50
-sI53
+sI50
 S'Alfred Hitchcock'
 p51
-sI54
+sI51
 S'Stanley Kubrick'
 p52
-sI55
+sI52
 S'Sam Mendes'
 p53
-sI56
+sI53
 S'Martin Scorsese'
 p54
-sI57
+sI54
 S'Billy Wilder'
 p55
-sI58
+sI55
 S'James Cameron'
 p56
-sI59
+sI56
 S'Lee Unkrich'
 p57
-sI62
+sI57
 S'Frank Darabont'
 p58
-sI63
+sI58
 S'Ridley Scott'
 p59
-sI65
+sI59
 S'Stanley Kubrick'
 p60
-sI66
+sI60
 S'Charles Chaplin'
 p61
-sI68
+sI61
 S'Christopher Nolan'
 p62
-sI69
+sI62
 S'David Lean'
 p63
-sI70
+sI63
 S'Robert Mulligan'
 p64
-sI71
+sI64
 S'Quentin Tarantino'
 p65
-sI73
+sI65
 S'Giuseppe Tornatore'
 p66
-sI74
+sI66
 S'Carol Reed'
 p67
-sI75
+sI67
 S'Darren Aronofsky'
 p68
-sI76
+sI68
 S'John Huston'
 p69
-sI77
+sI69
 S'Roger Allers'
 p70
-sI78
+sI70
 S'Michel Gondry'
 p71
-sI79
+sI71
 S'Sergio Leone'
 p72
-sI80
+sI72
 S'Richard Marquand'
 p73
-sI81
+sI73
 S'Stanley Kubrick'
 p74
-sI82
+sI74
 S'Curtis Hanson'
 p75
-sI83
+sI75
 S'Mel Gibson'
 p76
-sI84
+sI76
 S'Roman Polanski'
 p77
-sI85
+sI77
 S'Chan-wook Park'
 p78
-sI86
+sI78
 S'Stanley Donen'
 p79
-sI87
+sI79
 S'Terry Gilliam'
 p80
-sI88
+sI80
 S'Billy Wilder'
 p81
-sI90
+sI81
 S'Vittorio De Sica'
 p82
-sI91
+sI82
 S'Milos Forman'
 p83
-sI94
+sI83
 S'Stanley Kubrick'
 p84
-sI95
+sI84
 S'Joseph L. Mankiewicz'
 p85
-sI96
+sI85
 S'George Roy Hill'
 p86
-sI97
+sI86
 S'Clint Eastwood'
 p87
-sI98
+sI87
 S'Billy Wilder'
 p88
-sI99
+sI88
 S'Steven Spielberg'
 p89
-sI100
+sI89
 S'Martin Scorsese'
 p90
-sI101
+sI90
 S'David Lean'
 p91
-sI102
+sI91
 S'Billy Wilder'
 p92
-sI103
+sI92
 S'Isao Takahata'
 p93
-sI104
+sI93
 S'John McTiernan'
 p94
-sI105
+sI94
 S'Christopher Nolan'
 p95
-sI106
+sI95
 S'Asghar Farhadi'
 p96
-sI109
+sI96
 S'Guy Ritchie'
 p97
-sI111
+sI97
 S'Oliver Hirschbiegel'
 p98
-sI113
+sI98
 S'John Sturges'
 p99
-sI114
+sI99
 S'Frank Capra'
 p100
-sI115
+sI100
 S'Pete Docter'
 p101
-sI116
+sI101
 S'John Lasseter'
 p102
-sI117
+sI102
 S'Elia Kazan'
 p103
-sI118
+sI103
 S'David Lynch'
 p104
-sI120
+sI104
 S'Michael Mann'
 p105
-sI121
+sI105
 S'Clyde Bruckman'
 p106
-sI122
+sI106
 S'John Huston'
 p107
-sI123
+sI107
 S'Ridley Scott'
 p108
-sI124
+sI108
 S'Alfred Hitchcock'
 p109
-sI125
+sI109
 S'Charles Chaplin'
 p110
-sI126
+sI110
 S'Clint Eastwood'
 p111
-sI128
+sI111
 S'Brian De Palma'
 p112
-sI129
+sI112
 S'Joel Coen'
 p113
-sI130
+sI113
 S'Akira Kurosawa'
 p114
-sI131
+sI114
 S'Joel Coen'
 p115
-sI132
+sI115
 S'Orson Welles'
 p116
-sI133
+sI116
 S'Michael Cimino'
 p117
-sI134
+sI117
 S'Stuart Rosenberg'
 p118
-sI135
+sI118
 S'Charles Chaplin'
 p119
-sI136
+sI119
 S'Guy Ritchie'
 p120
-sI137
+sI120
 S'Ethan Coen'
 p121
-sI138
+sI121
 S'Frank Capra'
 p122
-sI139
+sI122
 S'Frank Miller'
 p123
-sI140
+sI123
 S'Alfred Hitchcock'
 p124
-sI141
+sI124
 S'Steven Spielberg'
 p125
-sI142
+sI125
 S'Martin Scorsese'
 p126
-sI143
+sI126
 S'M. Night Shyamalan'
 p127
-sI144
+sI127
 S'Oliver Stone'
 p128
-sI145
+sI128
 S'John Carpenter'
 p129
-sI146
+sI129
 S'Danny Boyle'
 p130
-sI147
+sI130
 S'George Roy Hill'
 p131
-sI148
+sI131
 S'Joss Whedon'
 p132
-sI149
+sI132
 S'Fred Zinnemann'
 p133
-sI150
+sI133
 S'Victor Fleming'
 p134
-sI151
+sI134
 S'Gus Van Sant'
 p135
-sI152
+sI135
 S'Terry George'
 p136
-sI153
+sI136
 S'Quentin Tarantino'
 p137
-sI154
+sI137
 S"Gavin O'Connor"
 p138
-sI156
+sI138
 S'Woody Allen'
 p139
-sI157
+sI139
 S'Victor Fleming'
 p140
-sI158
+sI140
 S'John Ford'
 p141
-sI159
-S'Hayao Miyazaki'
-p142
-sI160
+sI141
 S'Alfred Hitchcock'
+p142
+sI142
+S'Hayao Miyazaki'
 p143
-sI161
-S'James McTeigue'
-p144
-sI162
+sI143
 S'Sean Penn'
+p144
+sI144
+S'James McTeigue'
 p145
-sI163
+sI145
 S'Terry Jones'
 p146
-sI164
+sI146
 S'Andrew Stanton'
 p147
-sI165
+sI147
 S'Dean DeBlois'
 p148
-sI166
+sI148
 S'Alfred Hitchcock'
 p149
-sI167
+sI149
 S'Tom Hooper'
 p150
-sI168
+sI150
 S'Paul Thomas Anderson'
 p151
-sI169
+sI151
 S'Howard Hawks'
 p152
-sI170
+sI152
 S'Charles Laughton'
 p153
-sI171
+sI153
 S'Sidney Lumet'
 p154
-sI172
+sI154
 S'James Cameron'
 p155
-sI173
+sI155
 S'William Wyler'
 p156
-sI174
+sI156
 S'Clint Eastwood'
 p157
-sI175
+sI157
 S'Rob Reiner'
 p158
-sI176
+sI158
 S'William Wyler'
 p159
-sI177
+sI159
 S'Harold Ramis'
 p160
-sI178
+sI160
 S'Richard Kelly'
 p161
-sI179
+sI161
 S'Terry Gilliam'
 p162
-sI180
+sI162
 S'Sidney Lumet'
 p163
-sI181
+sI163
 S'Adam Elliot'
 p164
-sI184
+sI164
 S'Darren Aronofsky'
 p165
-sI186
+sI165
 S'Ingmar Bergman'
 p166
-sI187
+sI166
 S'Richard Attenborough'
 p167
-sI189
+sI167
 S'Stanley Kubrick'
 p168
-sI190
+sI168
 S'Mike Nichols'
 p169
-sI191
+sI169
 S'Ron Howard'
 p170
-sI192
-S'Peter Jackson'
-p171
-sI193
+sI170
 S'Rob Reiner'
+p171
+sI171
+S'Peter Jackson'
 p172
-sI194
+sI172
 S'Ang Lee'
 p173
-sI196
+sI173
 S'Robert Rossen'
 p174
-sI197
+sI174
 S'Mike Nichols'
 p175
-sI198
+sI175
 S'Danny Boyle'
 p176
-sI199
+sI176
 S'Federico Fellini'
 p177
-sI200
+sI177
 S'John G. Avildsen'
 p178
-sI201
+sI178
 S'Otto Preminger'
 p179
-sI202
+sI179
 S'John Frankenheimer'
 p180
-sI203
+sI180
 S'William Friedkin'
 p181
-sI204
+sI181
 S'Sam Peckinpah'
 p182
-sI205
+sI182
 S'John Ford'
 p183
-sI206
+sI183
 S'Alfred Hitchcock'
 p184
-sI207
+sI184
 S'Billy Wilder'
 p185
-sI208
+sI185
 S'Stanley Kubrick'
 p186
-sI210
+sI186
 S'Joseph L. Mankiewicz'
 p187
-sI211
+sI187
 S'Andrey Tarkovskiy'
 p188
-sI212
+sI188
 S'Jim Sheridan'
 p189
-sI213
+sI189
 S'Wai-keung Lau'
 p190
-sI214
+sI190
 S'William Wyler'
 p191
-sI215
-S'Gore Verbinski'
-p192
-sI216
-S'Peter Weir'
-p193
-sI217
+sI191
 S'Joon-ho Bong'
+p192
+sI192
+S'Gore Verbinski'
+p193
+sI193
+S'Peter Weir'
 p194
-sI218
+sI194
 S'Pete Docter'
 p195
-sI219
+sI195
 S'Neill Blomkamp'
 p196
-sI221
+sI196
 S'David Yates'
 p197
-sI222
+sI197
 S'Wilson Yip'
 p198
-sI224
+sI198
 S'Brad Bird'
 p199
-sI225
+sI199
 S'J.J. Abrams'
 p200
-sI226
+sI200
 S'Elia Kazan'
 p201
-sI228
+sI201
 S'Steven Spielberg'
 p202
-sI229
+sI202
 S'Lewis Milestone'
 p203
-sI230
+sI203
 S'Martin Scorsese'
 p204
-sI231
+sI204
 S'Gary Trousdale'
 p205
-sI232
+sI205
 S'Barry Levinson'
 p206
-sI234
+sI206
 S'Rajkumar Hirani'
 p207
-sI235
+sI207
 S'Roman Polanski'
 p208
-sI237
+sI208
 S'Henry Koster'
 p209
-sI238
+sI209
 S'Aamir Khan'
 p210
-sI239
+sI210
 S'Clint Eastwood'
 p211
-sI240
+sI211
 S'Franklin J. Schaffner'
 p212
-sI241
+sI212
 S'Woody Allen'
 p213
-sI242
+sI213
 S'Stephen Chbosky'
 p214
-sI244
+sI214
 S'Ki-duk Kim'
 p215
-sI245
+sI215
 S'Tate Taylor'
 p216
-sI247
+sI216
 S'Darren Aronofsky'
 p217
-sI248
+sI217
 S'Brian De Palma'
 p218
-sI249
+sI218
 S'Thomas Vinterberg'
 p219
-sI250
-S'Kar Wai Wong'
+sI219
+S'Sergei M. Eisenstein'
 p220
 s.
