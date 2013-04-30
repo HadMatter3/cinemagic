@@ -1,4 +1,0 @@
-jeremy:12345
-natalia:password
-root:root
-admin:admin
