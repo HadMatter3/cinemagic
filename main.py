@@ -7,7 +7,6 @@ from noun_extract import extract_nouns
 # users = {}
 # pickle.dump(users, open('pickled/user_auth.p', 'wb'))
 
-users = pickle.load(open('pickled/user_auth.p', 'rb'))
 # print users[username]
 
 movies = pickle.load(open('pickled/pickled_movies.p', 'rb'))
@@ -109,6 +108,7 @@ if __name__ == '__main__':
 	print
 	print "Hello", username
 	print
+	users = pickle.load(open('pickled/user_auth.p', 'rb'))
 	cloud = users[username][3]
 	print "Cloud is currently", cloud
 	max_cloud = 20
