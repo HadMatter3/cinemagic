@@ -49,8 +49,9 @@ def update_user_movies(index, rating):
 	users[username][2][index] = int(rating)
 	
 def update_user_cloud(cloud, cloud_max):
+	cloud = []
 	for item in zip(users[username][1], big_list):
-		if item[0] != 0:
+		if (item[0] != 0):
 			if (len(cloud) < cloud_max): cloud.append((item[0],item[1]))
 			else:
 				min_weight = cloud[0][0]
@@ -61,7 +62,7 @@ def update_user_cloud(cloud, cloud_max):
 						min_weight = cloud_item[0] 
 						ret = i
 					i += 1
-				# print "replacing index with item", ret, (item[0], item[1])
+				print "replacing index with item", ret, (item[0], item[1])
 				cloud[ret] = (item[0], item[1])
 	return cloud
 
