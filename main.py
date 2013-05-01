@@ -34,7 +34,6 @@ big_list = pickle.load(open('pickled/big_list.p', 'rb'))
 
 def get_movie(index = None):
 	if index == None: index = randint(0,219)
-	print "Index set to", index
 	print "Title...........", movies[index]
 	print "Directed by.....", directed_by[index]
 	for item in movie_stars[index] : print "Starring........", item
@@ -43,7 +42,7 @@ def get_movie(index = None):
 	return index
 
 def request_rating(index):
-	print "Rate this movie 1:good, -1:bad, 0:pass:"
+	print "Rate this movie:"
 	rating = raw_input()
 	return rating
 
@@ -59,16 +58,15 @@ def update_user_cloud(cloud, cloud_max):
 				i = 0
 				ret = 0
 				for cloud_item in cloud: 
-					if item[0] < min_weight:
-						min_weight = item[0] 
+					if cloud_item[0] < min_weight:
+						min_weight = cloud_item[0] 
 						ret = i
 					i += 1
-
+				# print "replacing index with item", ret, (item[0], item[1])
 				cloud[ret] = (item[0], item[1])
 	return cloud
 
 def update_user_big_array(index):
-	print "Updating {} in your culture soup.", movie_words[index]
 	i = 0
 	for item in big_list:
 		if item in movie_words[index]:
@@ -84,7 +82,7 @@ def get_fitting_movie(focus_line):
 	i = 0
 	for movie in users[username][2]:
 		if movie == 0:
-			print "checking movie...", movies[i]
+			# print "checking movie...", movies[i]
 			A_dot_B = 0
 			D1 = 0
 			D2 = math.sqrt(len(movie_words[i]))
@@ -93,11 +91,11 @@ def get_fitting_movie(focus_line):
 				weight = 1
 				if item[0] != 0:
 					if item[1] in movie_words[i]:
-						if item[1] in focus_line and focus_line != []: weight = 2
+						if item[1] in focus_line and focus_line != []: weight = 100
 						A_dot_B += weight * item[0]
 
 			D1 = math.sqrt(D1)
-			print "Rated", A_dot_B/(D1*D2)
+			# print "Rated", A_dot_B/(D1*D2)
 			if A_dot_B/(D1*D2) > top_movie_score: 
 				top_movie_score = A_dot_B/(D1*D2)
 				top_movie_index = i
@@ -113,7 +111,7 @@ if __name__ == '__main__':
 	print
 	cloud = users[username][3]
 	print "Cloud is currently", cloud
-	max_cloud = 15
+	max_cloud = 20
 	index = 0
 	while(True):	
 
@@ -123,12 +121,15 @@ if __name__ == '__main__':
 			index = get_movie()
 		else:
 			print "Select focus items from cloud"
-			focus_line = raw_input()
+			focus_inputs = raw_input()
+			focus_line = []
+			for item in focus_inputs.split(','): focus_line.append(item)
+			print focus_line
 
 			# the focus_line is a list of words either clicked from cloud or otherwise 
-			index = get_fitting_movie([]) 
-			index = get_movie(index)
+			index = get_fitting_movie(focus_line) 
 			print "Based on your decisions, we suggest the following:"
+			index = get_movie(index)
 			
 		rating = request_rating(index)
 		
@@ -142,7 +143,9 @@ if __name__ == '__main__':
 		# a negative rating updates the user's movies, but not the big list or cloud
 		elif int(rating) == -1:
 			update_user_movies(index, -1)
+			print cloud
 
 		# a rating of zero is equivalent to pass
 		elif int(rating) == 0:
+			print cloud
 			pass
