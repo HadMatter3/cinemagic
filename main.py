@@ -150,3 +150,7 @@ if __name__ == '__main__':
 		elif int(rating) == 0:
 			print cloud
 			pass
+		else: break
+
+	users[username][3] = cloud
+	pickle.dump(users, open('pickled/user_auth.p', 'wb'))
