@@ -2248,10 +2248,17 @@ aI0
 aI0
 aI0
 aa(lp6
+<<<<<<< HEAD
 asS'gina'
 p7
 (lp8
 S'hi'
+=======
+asS'jeremy'
+p7
+(lp8
+S'awesome'
+>>>>>>> 165130af2c2a98bbbd5548dee64c82730ec967c7
 p9
 a(lp10
 I0
@@ -4497,10 +4504,17 @@ aI0
 aI0
 aI0
 aa(lp12
+<<<<<<< HEAD
 asS'tree'
 p13
 (lp14
 S'house'
+=======
+asS'natty'
+p13
+(lp14
+S'woods'
+>>>>>>> 165130af2c2a98bbbd5548dee64c82730ec967c7
 p15
 a(lp16
 I0
@@ -6746,6 +6760,7 @@ aI0
 aI0
 aI0
 aa(lp18
+<<<<<<< HEAD
 asS'natty'
 p19
 (lp20
@@ -11304,4 +11319,6 @@ aI0
 aI0
 aI0
 aa(lp60
+=======
+>>>>>>> 165130af2c2a98bbbd5548dee64c82730ec967c7
 as.

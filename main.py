@@ -3,6 +3,8 @@ import math
 from random import randint
 from authentication import get_user
 from noun_extract import extract_nouns
+import sys
+from PyQt4 import QtGui, QtCore
 
 # users = {}
 # pickle.dump(users, open('pickled/user_auth.p', 'wb'))
@@ -104,8 +106,8 @@ def get_fitting_movie(focus_line):
 	#print movie_words[top_movie_index]
 	return top_movie_index
 
-if __name__ == '__main__':	
-	username = get_user(2022, 219)
+def init():
+	username = get_user(2022, 219) # size of arrays
 	print
 	print "Hello", username
 	print
@@ -150,7 +152,67 @@ if __name__ == '__main__':
 		elif int(rating) == 0:
 			print cloud
 			pass
+#<<<<<<< HEAD
 		else: break
 
 	users[username][3] = cloud
 	pickle.dump(users, open('pickled/user_auth.p', 'wb'))
+#=======
+
+class MovieWidget(QtGui.QWidget):
+	def __init__(self):
+		super(MovieWidget, self).__init__()
+		self.initLoginUI()
+
+	def initLoginUI(self):
+		self.setGeometry(200, 200, 500, 500)
+		self.setWindowTitle('Cinemagic')
+		# creates window		
+
+		self.label = QtGui.QLabel("", self)
+		self.label.setGeometry(QtCore.QRect(50, -50, 400, 400))
+		myPixmap = QtGui.QPixmap("film_reel.png")
+		scaledPixmap = myPixmap.scaled(self.label.size(), QtCore.Qt.KeepAspectRatio)
+		self.label.setPixmap(scaledPixmap)
+		# intro image
+
+		self.loginlabel = QtGui.QLabel("Login", self)
+		self.loginlabel.setGeometry(QtCore.QRect(75, 350, 100, 25))
+		# login
+
+		self.usertext = QtGui.QLineEdit(self)
+		self.usertext.move(75, 375)
+		self.usertext.setPlaceholderText("Username")
+		# username field
+
+		self.pwdtext = QtGui.QLineEdit(self)
+		self.pwdtext.move(75, 400)
+		self.pwdtext.setPlaceholderText("Password")
+		# password field
+
+		self.createlabel = QtGui.QLabel("New User", self)
+		self.createlabel.setGeometry(QtCore.QRect(250, 350, 100, 25))
+		# new user
+
+		self.newusertext = QtGui.QLineEdit(self)
+		self.newusertext.move(250, 375)
+		self.newusertext.setPlaceholderText("Username")
+		# new user field
+
+		self.newpwdtext = QtGui.QLineEdit(self)
+		self.newpwdtext.move(250, 400)
+		self.newpwdtext.setPlaceholderText("Password")
+		# new password field
+
+		self.newpwdtext2 = QtGui.QLineEdit(self)
+		self.newpwdtext2.move(250, 425)
+		self.newpwdtext2.setPlaceholderText("Confirm Password")
+		# confirm new password field
+
+		self.show()
+
+if __name__ == '__main__':
+	app = QtGui.QApplication(sys.argv)
+	window = MovieWidget()
+	sys.exit(app.exec_())
+#>>>>>>> 165130af2c2a98bbbd5548dee64c82730ec967c7
