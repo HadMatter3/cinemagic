@@ -152,12 +152,10 @@ def init():
 		elif int(rating) == 0:
 			print cloud
 			pass
-#<<<<<<< HEAD
 		else: break
 
 	users[username][3] = cloud
 	pickle.dump(users, open('pickled/user_auth.p', 'wb'))
-#=======
 
 class MovieWidget(QtGui.QWidget):
 	def __init__(self):
@@ -215,4 +213,3 @@ if __name__ == '__main__':
 	app = QtGui.QApplication(sys.argv)
 	window = MovieWidget()
 	sys.exit(app.exec_())
-#>>>>>>> 165130af2c2a98bbbd5548dee64c82730ec967c7
