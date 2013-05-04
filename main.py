@@ -247,6 +247,12 @@ class MovieWidget(QtGui.QWidget):
 		self.downvotebutton.clicked.connect(self.downvote)
 		self.upvotebutton.hide()
 		self.downvotebutton.hide()
+		self.weightlabel = QtGui.QLabel("", self)
+		self.weightslider = QtGui.QSlider(QtCore.Qt.Horizontal, self)
+		self.weightslider.hide()
+		self.weightinput = QtGui.QLineEdit(self)
+		self.weightinput.hide()
+		self.weightvallabel = QtGui.QLabel("", self)
 		# Used on Ratings UI
 		
 		self.show()
@@ -298,8 +304,8 @@ class MovieWidget(QtGui.QWidget):
 		self.descriptionlabel.setWordWrap(True)
 		# synopsis of movie
 		
-		self.upvotebutton.move(420, 400)
-		self.downvotebutton.move(420, 450)
+		self.upvotebutton.move(420, 375)
+		self.downvotebutton.move(420, 425)
 		self.upvotebutton.show()
 		self.downvotebutton.show()
 		# vote buttons
@@ -342,7 +348,7 @@ class MovieWidget(QtGui.QWidget):
 			index = get_movie()
 		else:
 #			print "Select focus items from cloud"
-#			focus_inputs = raw_input()		
+#			focus_inputs = raw_input()	
 			focus_line = []
 #			for item in focus_inputs.split(','): focus_line.append(item)
 #			print focus_line		
@@ -355,15 +361,30 @@ class MovieWidget(QtGui.QWidget):
 	# negative rating
 	
 	def printCloud(self):
-		self.cloudlabel.setGeometry(100, 300, 300, 200)
+		self.cloudlabel.setGeometry(120, 300, 300, 200)
 		self.cloudlabel.setText("%s" % str(cloud))
 		self.cloudlabel.setWordWrap(True)		
+	
+	def updateValue(self):
+		self.weightvallabel.setText("%d" % self.weightslider.value())
 	
 	def initRatingsUI(self):
 		global username, cloud, index
 		cloud = users[username][3]
 		
 		self.setWindowTitle("Recommendations for %s" % username)
+		
+		self.weightlabel.setText("Word to weight?")
+		self.weightlabel.setGeometry(10, 350, 110, 25)
+		self.weightinput.setGeometry(10, 375, 100, 20)
+		self.weightinput.show()
+		self.weightslider.setRange(1, 50)
+		self.weightslider.move(10, 400)
+		self.weightslider.show()
+		self.weightvallabel.setText("1")
+		self.weightvallabel.setGeometry(10, 425, 100, 25)
+		self.weightvallabel.setAlignment(QtCore.Qt.AlignHCenter)
+		self.connect(self.weightslider, QtCore.SIGNAL('valueChanged(int)'), self.updateValue)
 		
 		# new users presented with random movie until they have voted and generated a cloud
 		if cloud == []:
