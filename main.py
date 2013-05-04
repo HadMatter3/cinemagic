@@ -1,5 +1,6 @@
 import pickle
 import math
+import os
 from random import randint
 from authentication import get_user
 from noun_extract import extract_nouns
@@ -258,6 +259,8 @@ class MovieWidget(QtGui.QWidget):
 		self.statuslabel = QtGui.QLabel("", self)
 		self.statuslabel.setGeometry(QtCore.QRect(75, 325, 200, 25))
 		# login status
+
+		self.posterlabel = QtGui.QLabel("", self)
 		
 		self.show()
 		
@@ -265,11 +268,12 @@ class MovieWidget(QtGui.QWidget):
 		global username
 		cloud = users[username][3]
 		
+		self.setWindowTitle("Recommendations for %s" % username)
+		
 		# new users presented with random movie until they have voted and generated a cloud
-		if cloud == []: 
+		if cloud == []:
 			print "To get started, we suggest the following:"
 			index = get_movie()
-			print index
 		else:
 #			print "Select focus items from cloud"
 #			focus_inputs = raw_input()
@@ -282,8 +286,16 @@ class MovieWidget(QtGui.QWidget):
 			print "Based on your decisions, we suggest the following:"
 			index = get_movie(index)
 			
-		print cloud
-
+		self.posterlabel.setGeometry(QtCore.QRect(10, 35, 250, 250))
+		pixmap = QtGui.QPixmap("pics/%s.jpg" % movies[index])
+		scaledpixmap = pixmap.scaled(self.posterlabel.size(), QtCore.Qt.KeepAspectRatio)
+		self.posterlabel.setPixmap(scaledpixmap)
+# movies[index] -> title
+# directed_by[index] -> director
+# movie_stars[index] -> stars
+# movie_genres[index] -> genres
+# descriptions[index] -> synopsis
+			
 if __name__ == '__main__':
 	users = pickle.load(open('pickled/user_auth.p', 'rb'))
 	app = QtGui.QApplication(sys.argv)
