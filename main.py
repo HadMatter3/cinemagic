@@ -153,6 +153,7 @@ class MovieWidget(QtGui.QWidget):
 		self.initLoginUI()
 
 	def login(self):
+		global username
 		if str(self.usertext.text()) not in users:
 			self.statuslabel.setText("User not valid")
 		elif str(self.pwdtext.text()) == users[str(self.usertext.text())][0]:
@@ -175,6 +176,7 @@ class MovieWidget(QtGui.QWidget):
 			self.statuslabel.setText("Password not valid")
 
 	def create(self):
+		global username
 		if str(self.newusertext.text()) in users:
 			self.statuslabel.setText("User already exists")
 		elif str(self.newpwdtext.text()) != str(self.newpwdtext2.text()):
@@ -260,12 +262,14 @@ class MovieWidget(QtGui.QWidget):
 		self.show()
 		
 	def initRatingsUI(self):
+		global username
 		cloud = users[username][3]
 		
 		# new users presented with random movie until they have voted and generated a cloud
 		if cloud == []: 
 			print "To get started, we suggest the following:"
 			index = get_movie()
+			print index
 		else:
 #			print "Select focus items from cloud"
 #			focus_inputs = raw_input()
