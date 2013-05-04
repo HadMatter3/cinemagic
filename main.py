@@ -6,7 +6,12 @@ from noun_extract import extract_nouns
 import sys
 from PyQt4 import QtGui, QtCore
 
-# users = {}
+big_array_size = 2022
+movie_array_size = 249
+
+username = ""
+cloud = []
+users = {}
 # pickle.dump(users, open('pickled/user_auth.p', 'wb'))
 
 # print users[username]
@@ -107,7 +112,7 @@ def get_fitting_movie(focus_line):
 	return top_movie_index
 
 def init():
-	username = get_user(2022, 219) # size of arrays
+	username = get_user(big_array_size, movie_array_size) # size of arrays
 	print
 	print "Hello", username
 	print
@@ -118,21 +123,6 @@ def init():
 	index = 0
 	while(True):	
 
-		# new users presented with random movie until they have voted and generated a cloud
-		if cloud == []: 
-			print "To get started, we suggest the following:"
-			index = get_movie()
-		else:
-			print "Select focus items from cloud"
-			focus_inputs = raw_input()
-			focus_line = []
-			for item in focus_inputs.split(','): focus_line.append(item)
-			print focus_line
-
-			# the focus_line is a list of words either clicked from cloud or otherwise 
-			index = get_fitting_movie(focus_line) 
-			print "Based on your decisions, we suggest the following:"
-			index = get_movie(index)
 			
 		rating = request_rating(index)
 		
@@ -152,17 +142,63 @@ def init():
 		elif int(rating) == 0:
 			print cloud
 			pass
-#<<<<<<< HEAD
 		else: break
 
 	users[username][3] = cloud
 	pickle.dump(users, open('pickled/user_auth.p', 'wb'))
-#=======
 
 class MovieWidget(QtGui.QWidget):
 	def __init__(self):
 		super(MovieWidget, self).__init__()
 		self.initLoginUI()
+
+	def login(self):
+		global username
+		if str(self.usertext.text()) not in users:
+			self.statuslabel.setText("User not valid")
+		elif str(self.pwdtext.text()) == users[str(self.usertext.text())][0]:
+			self.label.hide()
+			self.loginlabel.hide()
+			self.usertext.hide()
+			self.pwdtext.hide()
+			self.createlabel.hide()
+			self.newusertext.hide()
+			self.newpwdtext.hide()
+			self.newpwdtext2.hide()
+			self.existingloginbutton.hide()
+			self.newloginbutton.hide()
+			self.statuslabel.hide()
+			
+			username = str(self.usertext.text())
+			
+			self.initRatingsUI()
+		else:
+			self.statuslabel.setText("Password not valid")
+
+	def create(self):
+		global username
+		if str(self.newusertext.text()) in users:
+			self.statuslabel.setText("User already exists")
+		elif str(self.newpwdtext.text()) != str(self.newpwdtext2.text()):
+			self.statuslabel.setText("Passwords do not match")
+		else:
+			self.label.hide()
+			self.loginlabel.hide()
+			self.usertext.hide()
+			self.pwdtext.hide()
+			self.createlabel.hide()
+			self.newusertext.hide()
+			self.newpwdtext.hide()
+			self.newpwdtext2.hide()
+			self.existingloginbutton.hide()
+			self.newloginbutton.hide()
+			self.statuslabel.hide()
+
+			users[str(self.newusertext.text())] = [str(self.newpwdtext.text()), [0]*big_array_size, [0]*movie_array_size, []]
+			pickle.dump(users, open('pickled/user_auth.p', 'wb'))
+			username = str(self.newusertext.text())
+			
+			self.initRatingsUI()
 
 	def initLoginUI(self):
 		self.setGeometry(200, 200, 500, 500)
@@ -209,10 +245,47 @@ class MovieWidget(QtGui.QWidget):
 		self.newpwdtext2.setPlaceholderText("Confirm Password")
 		# confirm new password field
 
+		self.existingloginbutton = QtGui.QPushButton("Login", self)
+		self.existingloginbutton.clicked.connect(self.login)
+		self.existingloginbutton.move(75, 425)
+		# login an old user
+		
+		self.newloginbutton = QtGui.QPushButton("Create", self)
+		self.newloginbutton.clicked.connect(self.create)
+		self.newloginbutton.move(250, 450)
+		# create a new user
+		
+		self.statuslabel = QtGui.QLabel("", self)
+		self.statuslabel.setGeometry(QtCore.QRect(75, 325, 200, 25))
+		# login status
+		
 		self.show()
+		
+	def initRatingsUI(self):
+		global username
+		cloud = users[username][3]
+		
+		# new users presented with random movie until they have voted and generated a cloud
+		if cloud == []: 
+			print "To get started, we suggest the following:"
+			index = get_movie()
+			print index
+		else:
+#			print "Select focus items from cloud"
+#			focus_inputs = raw_input()
+			focus_line = []
+#			for item in focus_inputs.split(','): focus_line.append(item)
+#			print focus_line
+
+			# the focus_line is a list of words either clicked from cloud or otherwise 
+			index = get_fitting_movie(focus_line) 
+			print "Based on your decisions, we suggest the following:"
+			index = get_movie(index)
+			
+		print cloud
 
 if __name__ == '__main__':
+	users = pickle.load(open('pickled/user_auth.p', 'rb'))
 	app = QtGui.QApplication(sys.argv)
 	window = MovieWidget()
 	sys.exit(app.exec_())
-#>>>>>>> 165130af2c2a98bbbd5548dee64c82730ec967c7
