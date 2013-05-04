@@ -223,6 +223,10 @@ class MovieWidget(QtGui.QWidget):
 		self.newloginbutton.move(250, 450)
 		# create a new user
 		
+		self.clearbutton = QtGui.QPushButton("Clear Users", self)
+		self.clearbutton.clicked.connect(self.clear)
+		self.clearbutton.move(75, 450)
+		
 		self.statuslabel = QtGui.QLabel("", self)
 		self.statuslabel.setGeometry(QtCore.QRect(75, 325, 200, 25))
 		# login status
@@ -377,12 +381,12 @@ class MovieWidget(QtGui.QWidget):
 			index = get_movie(index)
 		
 		self.displayMovie()
-							
+	
+	def clear(self):
+		users = {}
+		pickle.dump(users, open('pickled/user_auth.p', 'wb'))
+		
 if __name__ == '__main__':
-#	users = {}
-#	pickle.dump(users, open('pickled/user_auth.p', 'wb'))
-#	exit(0)
-
 	users = pickle.load(open('pickled/user_auth.p', 'rb'))
 	app = QtGui.QApplication(sys.argv)
 	window = MovieWidget()
