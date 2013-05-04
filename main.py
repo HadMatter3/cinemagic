@@ -162,6 +162,7 @@ class MovieWidget(QtGui.QWidget):
 			self.existingloginbutton.hide()
 			self.newloginbutton.hide()
 			self.statuslabel.hide()
+			self.clearbutton.hide()
 
 			users[str(self.newusertext.text())] = [str(self.newpwdtext.text()), [0]*big_array_size, [0]*movie_array_size, []]
 			pickle.dump(users, open('pickled/user_auth.p', 'wb'))
