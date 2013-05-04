@@ -266,10 +266,24 @@ class MovieWidget(QtGui.QWidget):
 		self.starslabel = QtGui.QLabel("", self)
 		self.directorlabel = QtGui.QLabel("", self)
 		self.descriptionlabel = QtGui.QLabel("", self)
+		self.cloudlabel = QtGui.QLabel("", self)
+		self.upvotebutton = QtGui.QPushButton(QtGui.QIcon(QtGui.QPixmap("upvote.png")), "", self)
+		self.upvotebutton.clicked.connect(self.upvote)
+		downmap = QtGui.QPixmap("downvote.png")		
+		self.downvotebutton = QtGui.QPushButton(QtGui.QIcon(QtGui.QPixmap("downvote.png")), "", self)
+		self.downvotebutton.clicked.connect(self.downvote)
+		self.upvotebutton.hide()
+		self.downvotebutton.hide()
 		# Used on Ratings UI
 		
 		self.show()
+	
+	def upvote(self):
+		print 'upboats!!!!'
 		
+	def downvote(self):
+		print 'downboats!!!!'
+	
 	def initRatingsUI(self):
 		global username
 		cloud = users[username][3]
@@ -281,6 +295,10 @@ class MovieWidget(QtGui.QWidget):
 			print "To get started, we suggest the following:"
 			index = get_movie()
 		else:
+			self.cloudlabel.setGeometry(100, 300, 300, 200)
+			self.cloudlabel.setText("THIS IS A CLOUD, BITCHES")
+			self.cloudlabel.setWordWrap(True)
+
 #			print "Select focus items from cloud"
 #			focus_inputs = raw_input()
 			focus_line = []
@@ -314,10 +332,12 @@ class MovieWidget(QtGui.QWidget):
 		self.genrelabel.setGeometry(QtCore.QRect(200, 50, 290, 25))
 		self.genrelabel.setText(genrestring)
 		self.genrelabel.setWordWrap(True)
+		# genre of movie
 		
 		self.directorlabel.setGeometry(QtCore.QRect(200, 75, 290, 25))
 		self.directorlabel.setText("Director: %s" % directed_by[index])
 		self.directorlabel.setWordWrap(True)
+		# director of movie
 		
 		starringstring = "Starring: "
 		for s in movie_stars[index]:
@@ -329,11 +349,19 @@ class MovieWidget(QtGui.QWidget):
 		self.starslabel.setGeometry(QtCore.QRect(200, 90, 290, 50))
 		self.starslabel.setText(starringstring)
 		self.starslabel.setWordWrap(True)
+		# stars of movie
 		
 		self.descriptionlabel.setGeometry(QtCore.QRect(200, 110, 290, 100))
 		self.descriptionlabel.setText(descriptions[index])
 		self.descriptionlabel.setWordWrap(True)
-					
+		# synopsis of movie
+		
+		self.upvotebutton.move(420, 400)
+		self.downvotebutton.move(420, 450)
+		self.upvotebutton.show()
+		self.downvotebutton.show()
+		# vote buttons
+							
 if __name__ == '__main__':
 	users = pickle.load(open('pickled/user_auth.p', 'rb'))
 	app = QtGui.QApplication(sys.argv)
