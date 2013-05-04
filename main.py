@@ -260,7 +260,13 @@ class MovieWidget(QtGui.QWidget):
 		self.statuslabel.setGeometry(QtCore.QRect(75, 325, 200, 25))
 		# login status
 
+		self.titlelabel = QtGui.QLabel("", self)
 		self.posterlabel = QtGui.QLabel("", self)
+		self.genrelabel = QtGui.QLabel("", self)
+		self.starslabel = QtGui.QLabel("", self)
+		self.directorlabel = QtGui.QLabel("", self)
+		self.descriptionlabel = QtGui.QLabel("", self)
+		# Used on Ratings UI
 		
 		self.show()
 		
@@ -283,19 +289,51 @@ class MovieWidget(QtGui.QWidget):
 
 			# the focus_line is a list of words either clicked from cloud or otherwise 
 			index = get_fitting_movie(focus_line) 
-			print "Based on your decisions, we suggest the following:"
+			print "Based on your decisions, we suggestQ the following:"
 			index = get_movie(index)
-			
-		self.posterlabel.setGeometry(QtCore.QRect(10, 35, 250, 250))
+		
+		self.titlelabel.setGeometry(QtCore.QRect(0, 0, 500, 25))
+		self.titlelabel.setText(movies[index])
+		self.titlelabel.setAlignment(QtCore.Qt.AlignHCenter | QtCore.Qt.AlignVCenter)
+		font = self.titlelabel.font()
+		font.setPixelSize(self.titlelabel.height()*.8)
+		self.titlelabel.setFont(font)
+		# title of movie
+		
+		self.posterlabel.setGeometry(QtCore.QRect(10, 35, 200, 250))
 		pixmap = QtGui.QPixmap("pics/%s.jpg" % movies[index])
 		scaledpixmap = pixmap.scaled(self.posterlabel.size(), QtCore.Qt.KeepAspectRatio)
 		self.posterlabel.setPixmap(scaledpixmap)
-# movies[index] -> title
-# directed_by[index] -> director
-# movie_stars[index] -> stars
-# movie_genres[index] -> genres
-# descriptions[index] -> synopsis
-			
+		# poster of movie
+		
+		genrestring = "Genre: "
+		for g in movie_genres[index]:
+			genrestring += g
+			if g != movie_genres[index][-1]:
+				genrestring += "/"
+		self.genrelabel.setGeometry(QtCore.QRect(200, 50, 290, 25))
+		self.genrelabel.setText(genrestring)
+		self.genrelabel.setWordWrap(True)
+		
+		self.directorlabel.setGeometry(QtCore.QRect(200, 75, 290, 25))
+		self.directorlabel.setText("Director: %s" % directed_by[index])
+		self.directorlabel.setWordWrap(True)
+		
+		starringstring = "Starring: "
+		for s in movie_stars[index]:
+			if s == movie_stars[index][-1]:
+				starringstring += "and "
+			starringstring += s
+			if s != movie_stars[index][-1]:
+				starringstring += ", "
+		self.starslabel.setGeometry(QtCore.QRect(200, 90, 290, 50))
+		self.starslabel.setText(starringstring)
+		self.starslabel.setWordWrap(True)
+		
+		self.descriptionlabel.setGeometry(QtCore.QRect(200, 110, 290, 100))
+		self.descriptionlabel.setText(descriptions[index])
+		self.descriptionlabel.setWordWrap(True)
+					
 if __name__ == '__main__':
 	users = pickle.load(open('pickled/user_auth.p', 'rb'))
 	app = QtGui.QApplication(sys.argv)
