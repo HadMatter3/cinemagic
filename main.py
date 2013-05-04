@@ -319,19 +319,7 @@ class MovieWidget(QtGui.QWidget):
 		pickle.dump(users, open('pickled/user_auth.p', 'wb'))
 		self.printCloud()
 
-		if cloud == []:
-			print "To get started, we suggest the following:"
-			index = get_movie()
-		else:
-#			print "Select focus items from cloud"
-#			focus_inputs = raw_input()		
-			focus_line = []
-#			for item in focus_inputs.split(','): focus_line.append(item)
-#			print focus_line		
-			
-			index = get_fitting_movie(focus_line)
-			print "Based on your cloud, we suggest the following:"
-			index = get_movie(index)
+		self.pickIndex()
 		
 		self.displayMovie()
 		# gets new movie
@@ -343,19 +331,7 @@ class MovieWidget(QtGui.QWidget):
 		if cloud != []:
 			self.printCloud()
 
-		if cloud == []:
-			print "To get started, we suggest the following:"
-			index = get_movie()
-		else:
-#			print "Select focus items from cloud"
-#			focus_inputs = raw_input()	
-			focus_line = []
-#			for item in focus_inputs.split(','): focus_line.append(item)
-#			print focus_line		
-			
-			index = get_fitting_movie(focus_line)
-			print "Based on your cloud, we suggest the following:"
-			index = get_movie(index)
+		self.pickIndex()
 		
 		self.displayMovie()
 	# negative rating
@@ -386,14 +362,19 @@ class MovieWidget(QtGui.QWidget):
 		self.weightvallabel.setAlignment(QtCore.Qt.AlignHCenter)
 		self.connect(self.weightslider, QtCore.SIGNAL('valueChanged(int)'), self.updateValue)
 		
+		self.pickIndex()
+		
+		self.displayMovie()
+	
+	def pickIndex(self):
+		global index, cloud, username
 		# new users presented with random movie until they have voted and generated a cloud
 		if cloud == []:
 			print "To get started, we suggest the following:"
 			index = get_movie()
 		else:
 			self.printCloud()
-#			print "Select focus items from cloud"
-#			focus_inputs = raw_input()
+			focus_inputs = str(self.weightinput.text())
 			focus_line = []
 #			for item in focus_inputs.split(','): focus_line.append(item)
 #			print focus_line
@@ -401,9 +382,8 @@ class MovieWidget(QtGui.QWidget):
 			# the focus_line is a list of words either clicked from cloud or otherwise 
 			index = get_fitting_movie(focus_line) 
 			print "Based on your decisions, we suggest the following:"
-			index = get_movie(index)
-		
-		self.displayMovie()
+			index = get_movie(index)	
+	# picks the next movie index
 	
 	def clear(self):
 		users = {}
