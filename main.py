@@ -9,7 +9,9 @@ from PyQt4 import QtGui, QtCore
 
 big_array_size = 2022
 movie_array_size = 249
+max_cloud = 20
 
+index = 0
 username = ""
 cloud = []
 users = {}
@@ -84,6 +86,7 @@ def update_user_big_array(index):
 	# print "Cuture soup is", users[username][1]
 
 def get_fitting_movie(focus_line):
+	global users
 	# perform cosin similarity, taking weights into consideration
 	top_movie_score = 0
 	top_movie_index = 0
@@ -111,42 +114,6 @@ def get_fitting_movie(focus_line):
 		i += 1
 	#print movie_words[top_movie_index]
 	return top_movie_index
-
-def init():
-	username = get_user(big_array_size, movie_array_size) # size of arrays
-	print
-	print "Hello", username
-	print
-	users = pickle.load(open('pickled/user_auth.p', 'rb'))
-	cloud = users[username][3]
-	print "Cloud is currently", cloud
-	max_cloud = 20
-	index = 0
-	while(True):	
-
-			
-		rating = request_rating(index)
-		
-		# a positive rating updates the user's movies, big list, and cloud	
-		if int(rating) == 1:
-			update_user_movies(index, 1)
-			update_user_big_array(index)
-			cloud = update_user_cloud(cloud, max_cloud)
-			print cloud
-
-		# a negative rating updates the user's movies, but not the big list or cloud
-		elif int(rating) == -1:
-			update_user_movies(index, -1)
-			print cloud
-
-		# a rating of zero is equivalent to pass
-		elif int(rating) == 0:
-			print cloud
-			pass
-		else: break
-
-	users[username][3] = cloud
-	pickle.dump(users, open('pickled/user_auth.p', 'wb'))
 
 class MovieWidget(QtGui.QWidget):
 	def __init__(self):
@@ -279,13 +246,41 @@ class MovieWidget(QtGui.QWidget):
 		self.show()
 	
 	def upvote(self):
-		print 'upboats!!!!'
+		global cloud, index, users
+		update_user_movies(index, 1)
+		update_user_big_array(index)
+		cloud = update_user_cloud(cloud, max_cloud)
+		users[username][3] = cloud
+		pickle.dump(users, open('pickled/user_auth.p', 'wb'))
+		self.printCloud()
+
+#		print "Select focus items from cloud"
+#		focus_inputs = raw_input()		
+		focus_line = []
+#		for item in focus_inputs.split(','): focus_line.append(item)
+#		print focus_line		
+
+		index = get_fitting_movie(focus_line)
+		print "Based on your cloud, we suggest the following:"
+		index = get_movie(index)
 		
+		# gets new movie
+	# positive rating
+
 	def downvote(self):
-		print 'downboats!!!!'
+		global index
+		update_user_movies(index, -1)
+		if cloud != []:
+			self.printCloud()
+	# negative rating
+	
+	def printCloud(self):
+		self.cloudlabel.setGeometry(100, 300, 300, 200)
+		self.cloudlabel.setText("%s" % str(cloud))
+		self.cloudlabel.setWordWrap(True)		
 	
 	def initRatingsUI(self):
-		global username
+		global username, cloud, index
 		cloud = users[username][3]
 		
 		self.setWindowTitle("Recommendations for %s" % username)
@@ -295,10 +290,7 @@ class MovieWidget(QtGui.QWidget):
 			print "To get started, we suggest the following:"
 			index = get_movie()
 		else:
-			self.cloudlabel.setGeometry(100, 300, 300, 200)
-			self.cloudlabel.setText("THIS IS A CLOUD, BITCHES")
-			self.cloudlabel.setWordWrap(True)
-
+			self.printCloud()
 #			print "Select focus items from cloud"
 #			focus_inputs = raw_input()
 			focus_line = []
@@ -307,7 +299,7 @@ class MovieWidget(QtGui.QWidget):
 
 			# the focus_line is a list of words either clicked from cloud or otherwise 
 			index = get_fitting_movie(focus_line) 
-			print "Based on your decisions, we suggestQ the following:"
+			print "Based on your decisions, we suggest the following:"
 			index = get_movie(index)
 		
 		self.titlelabel.setGeometry(QtCore.QRect(0, 0, 500, 25))
@@ -351,7 +343,7 @@ class MovieWidget(QtGui.QWidget):
 		self.starslabel.setWordWrap(True)
 		# stars of movie
 		
-		self.descriptionlabel.setGeometry(QtCore.QRect(200, 110, 290, 100))
+		self.descriptionlabel.setGeometry(QtCore.QRect(200, 120, 290, 100))
 		self.descriptionlabel.setText(descriptions[index])
 		self.descriptionlabel.setWordWrap(True)
 		# synopsis of movie
