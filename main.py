@@ -136,6 +136,7 @@ class MovieWidget(QtGui.QWidget):
 			self.existingloginbutton.hide()
 			self.newloginbutton.hide()
 			self.statuslabel.hide()
+			self.clearbutton.hide()
 			
 			username = str(self.usertext.text())
 			
