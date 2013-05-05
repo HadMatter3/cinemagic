@@ -43,11 +43,11 @@ big_list = pickle.load(open('pickled/big_list.p', 'rb'))
 
 def get_movie(index = None):
 	if index == None: index = randint(0,219)
-	print "Title...........", movies[index]
-	print "Directed by.....", directed_by[index]
-	for item in movie_stars[index] : print "Starring........", item
-	for item in movie_genres[index] : print "Genre...........", item
-	print "Synnopsis.......", descriptions[index]
+#	print "Title...........", movies[index]
+#	print "Directed by.....", directed_by[index]
+#	for item in movie_stars[index] : print "Starring........", item
+#	for item in movie_genres[index] : print "Genre...........", item
+#	print "Synnopsis.......", descriptions[index]
 	return index
 
 def request_rating(index):
@@ -102,7 +102,9 @@ def get_fitting_movie(focus_line):
 				weight = 1
 				if item[0] != 0:
 					if item[1] in movie_words[i]:
-						if item[1] in focus_line and focus_line != []: weight = 100
+						if item[1] in focus_line and focus_line != []: 
+							weight = 100
+							print 'FOCUS FOUND', item[1]
 						A_dot_B += weight * item[0]
 
 			D1 = math.sqrt(D1)
@@ -321,6 +323,8 @@ class MovieWidget(QtGui.QWidget):
 
 		self.pickIndex()
 		
+		self.weightinput.setText("")
+		
 		self.displayMovie()
 		# gets new movie
 	# positive rating
@@ -332,6 +336,8 @@ class MovieWidget(QtGui.QWidget):
 			self.printCloud()
 
 		self.pickIndex()
+
+		self.weightinput.setText("")
 		
 		self.displayMovie()
 	# negative rating
@@ -376,8 +382,8 @@ class MovieWidget(QtGui.QWidget):
 			self.printCloud()
 			focus_inputs = str(self.weightinput.text())
 			focus_line = []
-#			for item in focus_inputs.split(','): focus_line.append(item)
-#			print focus_line
+			for item in focus_inputs.split(','): 
+				focus_line.append(item)
 
 			# the focus_line is a list of words either clicked from cloud or otherwise 
 			index = get_fitting_movie(focus_line) 
@@ -388,6 +394,7 @@ class MovieWidget(QtGui.QWidget):
 	def clear(self):
 		users = {}
 		pickle.dump(users, open('pickled/user_auth.p', 'wb'))
+		exit()
 		
 if __name__ == '__main__':
 	users = pickle.load(open('pickled/user_auth.p', 'rb'))
