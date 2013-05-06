@@ -104,7 +104,7 @@ def get_fitting_movie(focus_line):
 					if item[1] in movie_words[i]:
 						if item[1] in focus_line and focus_line != []: 
 							weight = 100
-							print 'FOCUS FOUND', item[1]
+							# print 'FOCUS FOUND', item[1]
 						A_dot_B += weight * item[0]
 
 			D1 = math.sqrt(D1)
@@ -241,7 +241,6 @@ class MovieWidget(QtGui.QWidget):
 		self.starslabel = QtGui.QLabel("", self)
 		self.directorlabel = QtGui.QLabel("", self)
 		self.descriptionlabel = QtGui.QLabel("", self)
-		self.cloudlabel = QtGui.QLabel("", self)
 		self.upvotebutton = QtGui.QPushButton(QtGui.QIcon(QtGui.QPixmap("upvote.png")), "", self)
 		self.upvotebutton.clicked.connect(self.upvote)
 		downmap = QtGui.QPixmap("downvote.png")		
@@ -256,6 +255,11 @@ class MovieWidget(QtGui.QWidget):
 		self.weightinput.hide()
 		self.weightvallabel = QtGui.QLabel("", self)
 		# Used on Ratings UI
+	
+		self.cloudlabels = []
+		for n in range(max_cloud):
+			self.cloudlabels.append(QtGui.QLabel("", self))
+		# used for word cloud
 		
 		self.show()
 
@@ -342,10 +346,34 @@ class MovieWidget(QtGui.QWidget):
 		self.displayMovie()
 	# negative rating
 	
-	def printCloud(self):
-		self.cloudlabel.setGeometry(120, 300, 300, 200)
-		self.cloudlabel.setText("%s" % str(cloud))
-		self.cloudlabel.setWordWrap(True)		
+	def printCloud(self):	
+		n = 0
+		x = 0
+		y = 0
+		maxheight = 0
+		for	word in cloud:
+			self.cloudlabels[n].setText(word[1])
+			
+			font = self.cloudlabels[n].font()
+			font.setPixelSize(word[0] * 5)
+			if word[0] * 5 < 10:
+				font.setPixelSize(10) # max size
+			self.cloudlabels[n].setFont(font)
+			# resets font size
+			
+			width = self.cloudlabels[n].fontMetrics().width(self.cloudlabels[n].text())
+			height = self.cloudlabels[n].fontMetrics().height()
+			if (x + width) > 300:
+				x = 0
+				y += maxheight
+				maxheight = 0
+			self.cloudlabels[n].setGeometry(120+x, 300+y, width, height)
+			x += width + 5
+			if height > maxheight:
+				maxheight = height
+			# places in cloud
+			
+			n+=1
 	
 	def updateValue(self):
 		self.weightvallabel.setText("%d" % self.weightslider.value())
@@ -376,7 +404,7 @@ class MovieWidget(QtGui.QWidget):
 		global index, cloud, username
 		# new users presented with random movie until they have voted and generated a cloud
 		if cloud == []:
-			print "To get started, we suggest the following:"
+			# print "To get started, we suggest the following:"
 			index = get_movie()
 		else:
 			self.printCloud()
@@ -387,7 +415,7 @@ class MovieWidget(QtGui.QWidget):
 
 			# the focus_line is a list of words either clicked from cloud or otherwise 
 			index = get_fitting_movie(focus_line) 
-			print "Based on your decisions, we suggest the following:"
+			# print "Based on your decisions, we suggest the following:"
 			index = get_movie(index)	
 	# picks the next movie index
 	
